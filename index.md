@@ -14,27 +14,40 @@ I am a current Ph.D. student in Biological Engineering at [Advanced Plant and So
 ## Education
 * 2022 - 2025 <br />
     Doctor of Philosophy (Ph.D.) in Biological Engineering <br />
-    Department of Agricultural & Biological Engineering, James Worth Bagley College of Engineering at Mississippi State University, USA
+    Department of Agricultural & Biological Engineering <br />
+    James Worth Bagley College of Engineering <br />
+    Mississippi State University, MS, USA
 * 2020 - 2021 <br />
     Master of Business Administration (MBA) in General <br />
     Cardiff Metropolitan University, United Kingdom
 * 2017 - 2019 <br />
     Master of Science (M.Sc.) in Agricultural & Biosystems Engineering <br />
-    Postgraduate Institute of Agriculture, University of Peradeniya, Sri Lanka
+    Department of Agriculture Engineering <br />
+    Postgraduate Institute of Agriculture <br />
+    University of Peradeniya, Sri Lanka
 * 2013 - 2016 <br />
-    Bachelor of Science (B.Sc.) in Agricultural Technology and Management <br />
-    Agricultural & Biosystems Engineering, Department of Agriculture Engineering, Faculty of Agriculture, University of Peradeniya, Sri Lanka
+    Bachelor of Science (B.Sc.) in Agricultural Technology & Management <br />
+    Department of Agriculture Engineering, Faculty of Agriculture <br />
+    University of Peradeniya, Sri Lanka
 
 ## Working Experience
 
 * 2021 September – 2021 December <br />
-    Consultant Field Manager – Janathakshan (Guarantee) Limited, Colombo 05, Sri Lanka
+    Consultant Field Manager <br />
+    Janathakshan (Guarantee) Limited <br />
+    Colombo 05, Sri Lanka
 * 2019 January – 2021 September <br />
-    Consultant/ Research Assistant – Waste to Energy Technologies Limited, Battaramulla, Sri Lanka
+    Consultant/ Research Assistant <br />
+    Waste to Energy Technologies Limited <br />
+    Battaramulla, Sri Lanka
 * 2017 June - 2018 November <br />
-    Project Coordinator - EX Research Institute Limited, Tokyo, Japan
+    Project Coordinator <br />
+    EX Research Institute Limited <br />
+    Tokyo, Japan
 * 2017 March – 2017 July <br />
-    Intern - Research Division, International Water Management Institute, Battaramulla, Sri Lanka
+    Intern - Research Division <br />
+    International Water Management Institute <br />
+    Battaramulla, Sri Lanka
 
 ## Projects
 ### Autonomous Landing of a UAV on a Moving Ship
