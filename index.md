@@ -9,9 +9,43 @@ I completed my bachelor's degree in Agriucltural Technology and Management, spec
 
 
 ## Contents
+* [Education](#education)
+* [Working Experience](#working-experience) 
 * [Projects](#projects)
 * [Open-Source Contributions](#open-source-contributions)
 * [Publications](#publications)
+
+## Education
+2022 - 2025
+    Doctor of Philosophy (Ph.D.) in Biological Engineering
+    Department of Agricultural & Biological Engineering, James Worth Bagley College of Engineering at Mississippi State University, USA
+    Status: Reading under Graduate Research Assistantship
+2020 - 2021
+    Master of Business Administration (MBA) in General 
+    Cardiff Metropolitan University, United Kingdom
+    Completed MBA with Merit
+2017 - 2019
+    Master of Science (M.Sc.) in Agricultural & Biosystems Engineering
+    Postgraduate Institute of Agriculture, University of Peradeniya, Sri Lanka
+    Completed with first class honours: GPA: 3.95/4.00
+2013 - 2016
+    Bachelor of Science (B.Sc.) in Agricultural Technology and Management 
+    Agricultural & Biosystems Engineering, Department of Agriculture Engineering, Faculty of Agriculture, University of Peradeniya, Sri Lanka
+    Completed with second-class honours: GPA: 3.22/4.00
+
+## Working Experience
+
+2021 September – 2021 December
+    Consultant Field Manager – Janathakshan (Guarantee) Limited, Colombo 05, Sri Lanka
+
+2019 January – 2021 September
+    Consultant/ Research Assistant – Waste to Energy Technologies Limited, Battaramulla, Sri Lanka
+
+2017 June - 2018 November
+    Project Coordinator - EX Research Institute Limited, Tokyo, Japan
+
+2017 March – 2017 July
+    Intern - Research Division, International Water Management Institute, Battaramulla, Sri Lanka
 
 ## Projects
 ### Autonomous Landing of a UAV on a Moving Ship
