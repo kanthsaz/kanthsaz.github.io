@@ -4,10 +4,6 @@ layout: archive
 
 I am a current PhD student in Biological Engineering at [Advanced Plant and Soil Sensing Lab](https://apsslab.abe.msstate.edu/), at the Department of Agricultural and Biological Engieenring, Mississippi State University, MS, USA. 
 
-I received my master's degree in Agricultural and Biosystems Engineering from the Postgraduate Institute of Agriculture, University of Peradeniya, Sri Lanka.
-I completed my bachelor's degree in Agriucltural Technology and Management, specialised in Agricultural Engineering at the University of Peradeniya, Sri Lanka. 
-
-
 ## Contents
 * [Education](#education)
 * [Working Experience](#working-experience) 
