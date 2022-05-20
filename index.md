@@ -15,32 +15,26 @@ I am a current Ph.D. student in Biological Engineering at [Advanced Plant and So
 * 2022 - 2025 <br />
     Doctor of Philosophy (Ph.D.) in Biological Engineering <br />
     Department of Agricultural & Biological Engineering, James Worth Bagley College of Engineering at Mississippi State University, USA <br />  
-<br />
 * 2020 - 2021 <br />
     Master of Business Administration (MBA) in General <br />
     Cardiff Metropolitan University, United Kingdom <br />
-<br />
 * 2017 - 2019 <br />
     Master of Science (M.Sc.) in Agricultural & Biosystems Engineering <br />
     Postgraduate Institute of Agriculture, University of Peradeniya, Sri Lanka <br />
-<br />
 * 2013 - 2016 <br />
     Bachelor of Science (B.Sc.) in Agricultural Technology and Management <br />
-    Agricultural & Biosystems Engineering, Department of Agriculture Engineering, Faculty of Agriculture, University of Peradeniya, Sri Lanka <br />
+    Agricultural & Biosystems Engineering, Department of Agriculture Engineering, Faculty of Agriculture, University of Peradeniya, Sri Lanka
 
 ## Working Experience
 
 * 2021 September – 2021 December <br />
     Consultant Field Manager – Janathakshan (Guarantee) Limited, Colombo 05, Sri Lanka <br />
-<br />
 * 2019 January – 2021 September <br />
     Consultant/ Research Assistant – Waste to Energy Technologies Limited, Battaramulla, Sri Lanka <br />
-<br />
 * 2017 June - 2018 November <br />
     Project Coordinator - EX Research Institute Limited, Tokyo, Japan <br />
-<br />
 * 2017 March – 2017 July <br />
-    Intern - Research Division, International Water Management Institute, Battaramulla, Sri Lanka <br />
+    Intern - Research Division, International Water Management Institute, Battaramulla, Sri Lanka
 
 ## Projects
 ### Autonomous Landing of a UAV on a Moving Ship
