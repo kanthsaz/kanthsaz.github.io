@@ -2,7 +2,7 @@
 layout: archive
 ---
 
-I am a current PhD student in Biological Engineering at [Advanced Plant and Soil Sensing Lab](https://apsslab.abe.msstate.edu/), at the Department of Agricultural and Biological Engieenring, Mississippi State University, MS, USA. 
+I am a current Ph.D. student in Biological Engineering at [Advanced Plant and Soil Sensing Lab](https://apsslab.abe.msstate.edu/), at the Department of Agricultural and Biological Engieenring, Mississippi State University, MS, USA. 
 
 ## Contents
 * [Education](#education)
@@ -12,22 +12,21 @@ I am a current PhD student in Biological Engineering at [Advanced Plant and Soil
 * [Publications](#publications)
 
 ## Education
-2022 - 2025
-    Doctor of Philosophy (Ph.D.) in Biological Engineering
-    Department of Agricultural & Biological Engineering, James Worth Bagley College of Engineering at Mississippi State University, USA
-    Status: Reading under Graduate Research Assistantship
-2020 - 2021
-    Master of Business Administration (MBA) in General 
-    Cardiff Metropolitan University, United Kingdom
-    Completed MBA with Merit
-2017 - 2019
-    Master of Science (M.Sc.) in Agricultural & Biosystems Engineering
-    Postgraduate Institute of Agriculture, University of Peradeniya, Sri Lanka
-    Completed with first class honours: GPA: 3.95/4.00
-2013 - 2016
-    Bachelor of Science (B.Sc.) in Agricultural Technology and Management 
-    Agricultural & Biosystems Engineering, Department of Agriculture Engineering, Faculty of Agriculture, University of Peradeniya, Sri Lanka
-    Completed with second-class honours: GPA: 3.22/4.00
+* 2022 - 2025 <br />
+    Doctor of Philosophy (Ph.D.) in Biological Engineering <br />
+    Department of Agricultural & Biological Engineering, James Worth Bagley College of Engineering at Mississippi State University, USA <br />  
+<br />
+2020 - 2021 <br />
+    Master of Business Administration (MBA) in General <br />
+    Cardiff Metropolitan University, United Kingdom <br />
+<br />
+2017 - 2019 <br />
+    Master of Science (M.Sc.) in Agricultural & Biosystems Engineering <br />
+    Postgraduate Institute of Agriculture, University of Peradeniya, Sri Lanka <br />
+<br />
+2013 - 2016 <br />
+    Bachelor of Science (B.Sc.) in Agricultural Technology and Management <br />
+    Agricultural & Biosystems Engineering, Department of Agriculture Engineering, Faculty of Agriculture, University of Peradeniya, Sri Lanka <br />
 
 ## Working Experience
 
