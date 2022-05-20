@@ -16,31 +16,31 @@ I am a current Ph.D. student in Biological Engineering at [Advanced Plant and So
     Doctor of Philosophy (Ph.D.) in Biological Engineering <br />
     Department of Agricultural & Biological Engineering, James Worth Bagley College of Engineering at Mississippi State University, USA <br />  
 <br />
-2020 - 2021 <br />
+* 2020 - 2021 <br />
     Master of Business Administration (MBA) in General <br />
     Cardiff Metropolitan University, United Kingdom <br />
 <br />
-2017 - 2019 <br />
+* 2017 - 2019 <br />
     Master of Science (M.Sc.) in Agricultural & Biosystems Engineering <br />
     Postgraduate Institute of Agriculture, University of Peradeniya, Sri Lanka <br />
 <br />
-2013 - 2016 <br />
+* 2013 - 2016 <br />
     Bachelor of Science (B.Sc.) in Agricultural Technology and Management <br />
     Agricultural & Biosystems Engineering, Department of Agriculture Engineering, Faculty of Agriculture, University of Peradeniya, Sri Lanka <br />
 
 ## Working Experience
 
-2021 September – 2021 December
-    Consultant Field Manager – Janathakshan (Guarantee) Limited, Colombo 05, Sri Lanka
-
-2019 January – 2021 September
-    Consultant/ Research Assistant – Waste to Energy Technologies Limited, Battaramulla, Sri Lanka
-
-2017 June - 2018 November
-    Project Coordinator - EX Research Institute Limited, Tokyo, Japan
-
-2017 March – 2017 July
-    Intern - Research Division, International Water Management Institute, Battaramulla, Sri Lanka
+* 2021 September – 2021 December <br />
+    Consultant Field Manager – Janathakshan (Guarantee) Limited, Colombo 05, Sri Lanka <br />
+<br />
+* 2019 January – 2021 September <br />
+    Consultant/ Research Assistant – Waste to Energy Technologies Limited, Battaramulla, Sri Lanka <br />
+<br />
+* 2017 June - 2018 November <br />
+    Project Coordinator - EX Research Institute Limited, Tokyo, Japan <br />
+<br />
+* 2017 March – 2017 July <br />
+    Intern - Research Division, International Water Management Institute, Battaramulla, Sri Lanka <br />
 
 ## Projects
 ### Autonomous Landing of a UAV on a Moving Ship
