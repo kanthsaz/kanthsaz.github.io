@@ -1,6 +1,6 @@
 # Site settings
 remote_theme: "mmistakes/minimal-mistakes"
-title: Kanishke Gamagedara
+title: Yasas Gamagedara
 
 minimal_mistakes_skin: "air"
 
@@ -40,8 +40,8 @@ author:
   name             : 
   avatar           : "/assets/images/bio-photo.jpg"
   bio              :
-  location         : "Washington, DC"
-  email            : "kanishkegb@gmail.com"
+  location         : "Starkville, MS"
+  email            : "kanthakeyasas@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -49,19 +49,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kanishkegb"
+  github           : "kanthsaz"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "kanishkegb"
+  instagram        : "kanthsaz"
   lastfm           :
-  linkedin         : "kanishkegb"
+  linkedin         : "kanthakeyasas"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 8371691/kani # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : #8371691/kani # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "kanthake"
   vine             :
   weibo            :
   xing             :
