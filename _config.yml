@@ -39,7 +39,7 @@ gems:
 author:
   name             : 
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am a current Ph.D. student in Biological Engineering at [Advanced Plant and Soil Sensing Lab](https://apsslab.abe.msstate.edu/), at the Mississippi State University, USA"
+  bio              : 
   location         : "Starkville, MS"
   email            : "kg1603@msstate.edu"
   uri              : 

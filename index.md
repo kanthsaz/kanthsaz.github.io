@@ -2,6 +2,8 @@
 layout: archive
 ---
 
+I am a current Ph.D. student in Biological Engineering at [Advanced Plant and Soil Sensing Lab](https://apsslab.abe.msstate.edu/), at the Mississippi State University, USA
+
 ## Contents
 * [Education](#education)
 * [Working Experience](#working-experience)
