@@ -88,7 +88,6 @@ I was worked as a research intern for the case study "Mechanizing Water Lifting 
 Reflectance spectroscopy in the visible and near-infrared (vis-NIR) and mid-infrared (MIR) ranges has emerged as a promising tool for quantitative soil analysis, with the potential to replace or complement the traditional lab-based wet-chemical analysis of certain soil properties. The goal of this study was to examine the accuracy of total carbon (TC) and total nitrogen (TN) estimation using vis-NIR and MIR spectroscopy for Mississippi soil. The vis-NIR reflectance spectra of the samples were measured using an ASD LabSpec 4 spectrometer with an attached muglight accessory. Attenuated Total Reflectance (ATR) and Diffuse Reflectance Infrared Fourier Transform (DRIFT) spectra for all samples were acquired using a Bruker Alpha II spectrometer in the MIR range. According to the PLSR analyses, MIR spectra were more effective at predicting TC and TN of soils compared to vis-NIR reflectance spectra.
 
 <!-- ![poster](assets/images/bio-photo.jpg) -->
-<!-- {% include video id="w4UcEp5jb0E" provider="youtube" %} -->
 
 **Key notes**
 * The first few studies conducted for soil property estimation using spectroscopy for Mississippi soils
