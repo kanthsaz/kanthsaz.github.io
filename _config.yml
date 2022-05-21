@@ -2,7 +2,7 @@
 remote_theme: "mmistakes/minimal-mistakes"
 title: Yasas Gamagedara
 
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "mint"
 
 
 # Conversion
@@ -39,15 +39,15 @@ gems:
 author:
   name             : 
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              :
+  bio              : "I am a current Ph.D. student in Biological Engineering at [Advanced Plant and Soil Sensing Lab](https://apsslab.abe.msstate.edu/), at the Mississippi State University, USA"
   location         : "Starkville, MS"
-  email            : "kanthakeyasas@gmail.com"
+  email            : "kg1603@msstate.edu"
   uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "kanthake"
   foursquare       :
   github           : "kanthsaz"
   gitlab           :
@@ -66,7 +66,7 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-
+  research_gate    : "Yasas-Gamagedara"
 
 # Build settings
 include: ["_pages"]
