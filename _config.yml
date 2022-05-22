@@ -67,6 +67,7 @@ author:
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
   research_gate    : "Yasas-Gamagedara"
+  <i class="fab fa-researchgate" aria-hidden="true"></i>
 
 # Build settings
 include: ["_pages"]
@@ -82,7 +83,7 @@ defaults:
     values:
       layout: archive
       author_profile: true
-      read_time: false
+      read_time: true
       comments: false
       share: false
       related: true
