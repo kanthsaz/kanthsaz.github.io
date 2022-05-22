@@ -82,10 +82,10 @@ defaults:
     values:
       layout: archive
       author_profile: true
-      read_time: true
+      read_time: false
       comments: false
       share: false
-      related: true
+      related: false
 
 atom_feed:
   hide: true
