@@ -39,7 +39,7 @@ gems:
 author:
   name             : 
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : 
+  bio              : "PhD Student"
   location         : "Starkville, MS"
   email            : "kg1603@msstate.edu"
   uri              : 
@@ -85,7 +85,7 @@ defaults:
       read_time: false
       comments: false
       share: false
-      related: false
+      related: true
 
 atom_feed:
   hide: true
