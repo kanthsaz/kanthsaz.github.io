@@ -81,6 +81,7 @@ defaults:
       type: pages
     values:
       layout: archive
+      classes: wide
       author_profile: true
       read_time: false
       comments: false
