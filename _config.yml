@@ -1,5 +1,5 @@
 #output font size
-
+<span style="font-size: small;">
 
 # Site settings
 remote_theme: "mmistakes/minimal-mistakes"
@@ -85,7 +85,6 @@ defaults:
     values:
       layout: archive
       classes: wide
-      font-size: small
       author_profile: true
       read_time: false
       comments: false
@@ -94,3 +93,5 @@ defaults:
 
 atom_feed:
   hide: true
+
+</span>
