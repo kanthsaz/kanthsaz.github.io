@@ -2,7 +2,7 @@
 layout: archive
 ---
 
-<span style="font-size:100px;">
+<span style="font-size:10px;">
 
 I am a Ph.D. candidate in Biosystems Engineering at <a href="https://apsslab.abe.msstate.edu/" target="_blank">Advanced Plant and Soil Sensing Lab</a>, Department of Agricultural & Biological Engineering, Mississippi State University, Mississippi, USA.
 
