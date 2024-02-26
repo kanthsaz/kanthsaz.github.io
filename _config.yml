@@ -1,3 +1,6 @@
+#output font size
+<span style="font-size: small;">
+
 # Site settings
 remote_theme: "mmistakes/minimal-mistakes"
 title: Yasas Gamagedara
