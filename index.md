@@ -37,6 +37,7 @@ I am a Ph.D. candidate in Biosystems Engineering at <a href="https://apsslab.abe
 ### <span style="color:darkblue;"> Graduate Research Assistant </span> (2022 January – Present) <br />
 Department of Agricultural and Biological Engineering <br />
 Mississippi State University, MS, USA
+
 Exposed functions:
 * Enhanced research capacity
 * Collaborations with USDA-NRCS field officers and USDA-ARS scientists
@@ -48,7 +49,8 @@ Exposed functions:
 
 ### <span style="color:darkblue;"> Earth Team Volunteer </span> (2022 June – Present) <br />
 United States Department of Agriculture - Natural Resources Conservation Service, <br />
-Tupelo, MS, USA <br />
+Tupelo, MS, USA
+
 Exposed functions:
 * Soil survey
 * New technology development & technology transfer
@@ -58,12 +60,14 @@ Exposed functions:
 ### <span style="color:darkblue;"> Consultant Field Manager </span> (2021 September – 2021 December) <br />
 Janathakshan (Guarantee) Limited <br />
 Colombo 05, Sri Lanka
+
 Exposed functions:
 * Implementing livelihoods restoration plan under the Kandy multimodal transport terminal project
 
 ### <span style="color:darkblue;"> Consultant/ Research Assistant </span> (2019 January – 2021 September) <br />
 Waste to Energy Technologies Limited <br />
 Battaramulla, Sri Lanka
+
 Exposed functions:
 * Preliminary environmental appraisal (PEA)
 * Development of landfill rehabilitation plans
@@ -74,6 +78,7 @@ Exposed functions:
 ### <span style="color:darkblue;"> Project Coordinator </span> (2017 June - 2018 November) <br />
 EX Research Institute Limited <br />
 Tokyo, Japan
+
 Exposed functions:
 * Pilot project of 3Rs (Reduce, Reuse, Recycle) promotion in Ratnapura municipal council <a href="https://digital.detritusjournal.com/articles/evaluation-of-organic-and-recyclable-waste-separation-at-generation-source-in-ratnapura-and-kataragama-local-authorities-in-sri-lanka/359" target="_blank">[paper]</a>
 * Feasibility study on constructing a system for collection and treatment of used fluorocarbons
@@ -82,25 +87,29 @@ Exposed functions:
 Research Division <br />
 International Water Management Institute <br />
 Battaramulla, Sri Lanka
+
 Exposed functions:
 * Analysis of mechanization for agricultural water management in Sri Lankan farming systems <a href="https://www.iwmi.cgiar.org/publications/iwmi-working-papers/iwmi-working-paper-188/" target="_blank">[paper]</a>
 
 ### <span style="color:darkblue;"> Internships </span> (2016 January – 2016 February) <br />
 Karadiyana Waste Management Facility <br />
 Waste Management Authority <br />
-Western Province, Sri Lanka <br />
+Western Province, Sri Lanka
+
 Exposed functions:
 * Performed work in the Karadiyana waste management facility's environmental and composting divisions and installed gas wells to collect methane at the dumpsite
 
 ### <span style="color:darkblue;"> Internships </span> (2015 December – 2016 January) <br />
 Hayleys Agriculture Holdings Limited <br />
 Colombo, Sri Lanka
+
 Exposed functions:
 * Gained knowledge in agricultural heavy machinery and conducted a market survey
 
 ### <span style="color:darkblue;"> Undergraduate Research Assistant </span> (2016 August – 2016 December) <br />
 Waste Management Authority <br />
-Western Province, Sri Lanka <br />
+Western Province, Sri Lanka
+
 Exposed function:
 * Data collection at Karadiyana waste management facility to develop a methane surface emission map
 
