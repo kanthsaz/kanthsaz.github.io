@@ -15,20 +15,17 @@ I am a Ph.D. candidate in Biosystems Engineering at <a href="https://apsslab.abe
 * [Extra-Curricular Activities](#extra-curricular-activities)
 
 ## Education
-* 2022 - Present <br />
-    Ph.D. in Biological Engineering <br />
+* Ph.D. in Biosystems Engineering (2022 - Present) <br />
     Department of Agricultural & Biological Engineering <br />
     Mississippi State University, MS, USA
-* 2020 - 2021 <br />
-    MBA in General <br />
+* MBA in General (2020 - 2021) <br />
+    Cardiff School of Management <br />
     Cardiff Metropolitan University, United Kingdom
-* 2017 - 2019 <br />
-    M.Sc. in Agricultural & Biosystems Engineering <br />
+* M.Sc. in Agricultural & Biosystems Engineering (2017 - 2019) <br />
     Department of Agriculture Engineering <br />
     Postgraduate Institute of Agriculture <br />
     University of Peradeniya, Sri Lanka
-* 2013 - 2016 <br />
-    B.Sc. in Agricultural Technology & Management <br />
+* B.Sc. in Agricultural Technology & Management (2013 - 2016) <br />
     Department of Agriculture Engineering <br />
     Faculty of Agriculture <br />
     University of Peradeniya, Sri Lanka
