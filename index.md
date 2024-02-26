@@ -34,11 +34,9 @@ I am a Ph.D. candidate in Biosystems Engineering at <a href="https://apsslab.abe
 
 ## Working Experience
 
-### <span style="color:darkblue;"> Graduate Research Assistant
-2022 January – Present <br />
+### <span style="color:darkblue;"> Graduate Research Assistant </span> (2022 January – Present) <br />
 Department of Agricultural and Biological Engineering <br />
 Mississippi State University, MS, USA
-
 Exposed functions:
 * Enhanced research capacity
 * Collaborations with USDA-NRCS field officers and USDA-ARS scientists
@@ -48,30 +46,24 @@ Exposed functions:
 * Networking with fellow researchers and professionals
 * Mentoring and instructing high school and undergraduate students
 
-### <span style="color:darkblue;"> Earth Team Volunteer
-2022 June – Present <br />
+### <span style="color:darkblue;"> Earth Team Volunteer </span> (2022 June – Present) <br />
 United States Department of Agriculture - Natural Resources Conservation Service, <br />
 Tupelo, MS, USA <br />
-
 Exposed functions:
 * Soil survey
 * New technology development & technology transfer
 * Training delivered and received
 * Outreach & communications
 
-### <span style="color:darkblue;"> Consultant Field Manager
-2021 September – 2021 December <br />
+### <span style="color:darkblue;"> Consultant Field Manager </span> (2021 September – 2021 December) <br />
 Janathakshan (Guarantee) Limited <br />
 Colombo 05, Sri Lanka
-
 Exposed functions:
 * Implementing livelihoods restoration plan under the Kandy multimodal transport terminal project
 
-### <span style="color:darkblue;"> Consultant/ Research Assistant
-2019 January – 2021 September <br />
+### <span style="color:darkblue;"> Consultant/ Research Assistant </span> (2019 January – 2021 September) <br />
 Waste to Energy Technologies Limited <br />
 Battaramulla, Sri Lanka
-
 Exposed functions:
 * Preliminary environmental appraisal (PEA)
 * Development of landfill rehabilitation plans
@@ -79,55 +71,45 @@ Exposed functions:
 * Laboratory testing
 * Surveys
 
-### <span style="color:darkblue;"> Project Coordinator
-2017 June - 2018 November <br />
+### <span style="color:darkblue;"> Project Coordinator </span> (2017 June - 2018 November) <br />
 EX Research Institute Limited <br />
 Tokyo, Japan
-
 Exposed functions:
 * Pilot project of 3Rs (Reduce, Reuse, Recycle) promotion in Ratnapura municipal council <a href="https://digital.detritusjournal.com/articles/evaluation-of-organic-and-recyclable-waste-separation-at-generation-source-in-ratnapura-and-kataragama-local-authorities-in-sri-lanka/359" target="_blank">[paper]</a>
 * Feasibility study on constructing a system for collection and treatment of used fluorocarbons
 
-### <span style="color:darkblue;"> Internships
-2017 March – 2017 July <br />
+### <span style="color:darkblue;"> Internships </span> (2017 March – 2017 July) <br />
 Research Division <br />
 International Water Management Institute <br />
 Battaramulla, Sri Lanka
-
 Exposed functions:
 * Analysis of mechanization for agricultural water management in Sri Lankan farming systems <a href="https://www.iwmi.cgiar.org/publications/iwmi-working-papers/iwmi-working-paper-188/" target="_blank">[paper]</a>
 
-2016 January – 2016 February <br />
+### <span style="color:darkblue;"> Internships </span> (2016 January – 2016 February) <br />
 Karadiyana Waste Management Facility <br />
 Waste Management Authority <br />
 Western Province, Sri Lanka <br />
-
 Exposed functions:
 * Performed work in the Karadiyana waste management facility's environmental and composting divisions and installed gas wells to collect methane at the dumpsite
 
-2015 December – 2016 January <br />
+### <span style="color:darkblue;"> Internships </span> (2015 December – 2016 January) <br />
 Hayleys Agriculture Holdings Limited <br />
 Colombo, Sri Lanka
-
 Exposed functions:
 * Gained knowledge in agricultural heavy machinery and conducted a market survey
 
-### <span style="color:darkblue;"> Undergraduate Research Assistant
-2016 August – 2016 December <br />
+### <span style="color:darkblue;"> Undergraduate Research Assistant </span> (2016 August – 2016 December) <br />
 Waste Management Authority <br />
 Western Province, Sri Lanka <br />
-
 Exposed function:
 * Data collection at Karadiyana waste management facility to develop a methane surface emission map
 
-### <span style="color:darkblue;"> Enumerator
-2015 - 2016 <br />
+### <span style="color:darkblue;"> Enumerator </span> (2015 - 2016) <br />
 Sri Lanka
-
 Exposed functions:
-* Survey on use of hydrochlorofluorocarbons as a refrigerant in industries registered under Board of Investment
-* Survey on assessment of livelihood capital in Wariyapola secretariats division
-* Baseline survey on health & nutrition, education, child protection and economic development at Kalpitiya
+* Surveys on use of hydrochlorofluorocarbons
+* Assessment on livelihood capital
+* Assessment on health & nutrition, education, child protection and economic development
 
 [back to contents](#contents)
 
@@ -140,7 +122,7 @@ Exposed functions:
 [back to contents](#contents)
 
 ## Publications
-For most up to date version, please visit my <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=5Ftw3bwAAAAJ" target="_blank">Google Scholar page</a>
+For the most recent version, please visit my <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=5Ftw3bwAAAAJ" target="_blank">Google Scholar page</a>
 
 ### <span style="color:darkblue;"> Journal Articles
 * Gamagedara, Y., Wijewardane, N. K., Feng, G., Seybold, S., Williams, M., Tagert, M. L., Martins, V. S., 2024, Can we use a mid-infrared fine-ground soil spectral library to predict non-fine-ground spectra?, Geoderma, 443, 116799, ISSN 0016-7061, https://doi.org/10.1016/j.geoderma.2024.116799.
