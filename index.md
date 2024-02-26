@@ -2,19 +2,22 @@
 layout: archive
 ---
 
-I am a current Ph.D. student in Biological Engineering at [Advanced Plant and Soil Sensing Lab](https://apsslab.abe.msstate.edu/), at the Mississippi State University, USA
+I am a Ph.D. candidate in Biosystems Engineering at [Advanced Plant and Soil Sensing Lab](https://apsslab.abe.msstate.edu/), Department of Agricultural & Biological Engineering, Mississippi State University, Mississippi, USA.
 
 ## Contents
 * [Education](#education)
 * [Working Experience](#working-experience)
-* [Research Projects](#research-projects)
+* [Awards](#Awards)
 * [Publications](#publications)
+* [Out-Bound Trainings, Workshops](#out-bound-trainings,-workshops)
+* [Skills and Competencies](#skills-and-competencies)
+* [Memberships](#memberships)
+* [Extra-Curricular Activities](#extra-curricular-activities)
 
 ## Education
-* 2022 - 2025 <br />
+* 2022 - Present <br />
     Ph.D. in Biological Engineering <br />
     Department of Agricultural & Biological Engineering <br />
-    James Worth Bagley College of Engineering <br />
     Mississippi State University, MS, USA
 * 2020 - 2021 <br />
     MBA in General <br />
@@ -34,98 +37,189 @@ I am a current Ph.D. student in Biological Engineering at [Advanced Plant and So
 
 ## Working Experience
 
-### 2021 September – 2021 December
-Consultant Field Manager <br />
+### <span style="color:darkblue;"> Graduate Research Assistant
+2022 January – Present <br />
+Department of Agricultural and Biological Engineering <br />
+Mississippi State University, MS, USA
+
+Exposed functions:
+* Enhanced research capacity
+* Collaborations with USDA-NRCS field officers and USDA-ARS scientists
+* Exposure to field sampling and equipment
+* Data analysis using Python
+* Scientific writing
+* Networking with fellow researchers and professionals
+* Mentoring and instructing high school and undergraduate students
+
+### <span style="color:darkblue;"> Earth Team Volunteer
+2022 June – Present <br />
+United States Department of Agriculture - Natural Resources Conservation Service, <br />
+Tupelo, MS, USA <br />
+
+Exposed functions:
+* Soil survey
+* New technology development & technology transfer
+* Training delivered and received
+* Outreach & communications
+
+### <span style="color:darkblue;"> Consultant Field Manager
+2021 September – 2021 December <br />
 Janathakshan (Guarantee) Limited <br />
 Colombo 05, Sri Lanka
 
-I worked with Janathakshan Ltd. under the Kandy Multimodal Transport Terminal project which is designed to contribute towards the goal of relieving traffic congestion in the World-Heritage city of Kandy, central province of Sri Lanka. Our task was to develop and implement a livelihood restoration plan to more than 800 persons engaged in commercial business activities and employees in business establishments in the project area. Livelihood restoration plan was based on four strategic directions phasing-out, relocation, re-employment and transformation.
+Exposed functions:
+* Implementing livelihoods restoration plan under the Kandy multimodal transport terminal project
 
-Kandy Multimodal Transport Terminal [[website](https://www.scdp.lk/kmtt_kandy)]
-
-### 2019 January – 2021 September
-Consultant/ Research Assistant <br />
+### <span style="color:darkblue;"> Consultant/ Research Assistant
+2019 January – 2021 September <br />
 Waste to Energy Technologies Limited <br />
 Battaramulla, Sri Lanka
 
-I completed multiple projects and research works during the period and the key completed works are listed below.
+Exposed functions:
+* Preliminary environmental appraisal (PEA)
+* Development of landfill rehabilitation plans
+* Development of waste management plans
+* Laboratory testing
+* Surveys
 
-* Prepared preliminary environmental appraisals for proposed design and construction of housing units in Sri Lanka
-* Supported to formulate Western Province solid waste management master plan by collecting healthcare waste generation data
-* Introduced a plan and guideline for value addition to spent yeast from in Sri Lanka
-* Developed landfill rehabilitation plans for major dumpsites in Sri Lanka
-* Developed manure and nutrient management plan for modernized dairy farm facility in Sri Lanka
-* Analysed polychlorinated biphenyls for the national implementation plan of the Stockholm conventional on persistent organic pollutants in Sri Lanka
-* Completed case studies on best practices in plastic recycling, municipal waste composting, and segregated waste collection in Sri Lanka
-* Root testing and modeling of vegetation in improving slope stability in Sri Lanka
-* Identified waste management needs and solid waste management solutions from different local authorities in Sri Lanka
-* Conducted a labor satisfaction survey for solid waste management team in local authority in Sri Lanka
-* Tested the materials used for installation of permeable reactive barrier system for groundwater remediation at a disposal site in Sri Lanka
-
-### 2017 June - 2018 November
-Project Coordinator <br />
+### <span style="color:darkblue;"> Project Coordinator
+2017 June - 2018 November <br />
 EX Research Institute Limited <br />
 Tokyo, Japan
 
-I engaged with two different Sri Lankan projects under the EX Research Institute Limited.
+Exposed functions:
+* Pilot project of 3Rs (Reduce, Reuse, Recycle) promotion in Ratnapura municipal council [[paper](https://digital.detritusjournal.com/articles/evaluation-of-organic-and-recyclable-waste-separation-at-generation-source-in-ratnapura-and-kataragama-local-authorities-in-sri-lanka/359)]
+* Feasibility study on constructing a system for collection and treatment of used fluorocarbons
 
-The first project was to assist a feasibility study to construct a system for collection and treatment of used fluorocarbons. Similarly, the project aimed to introduce energy-saving equipment with natural or low global warming potential refrigerants in Sri Lanka
-
-The second project was to assist a 3Rs promotion (Reduce, Reuse, Recycle) pilot project in Ratnapura Municipal Council in Sri Lanka [[paper](https://digital.detritusjournal.com/articles/evaluation-of-organic-and-recyclable-waste-separation-at-generation-source-in-ratnapura-and-kataragama-local-authorities-in-sri-lanka/359)]
-
-### 2017 March – 2017 July
-Intern - Research Division <br />
+### <span style="color:darkblue;"> Internships
+2017 March – 2017 July <br />
+Research Division <br />
 International Water Management Institute <br />
 Battaramulla, Sri Lanka
 
-I worked as a research intern and the main aim of this task was to identify, analyze the trajectories of technological innovations and adoption for agricultural water management in farming systems in Sri Lanka [[paper](https://www.iwmi.cgiar.org/publications/iwmi-working-papers/iwmi-working-paper-188/)]
+Exposed functions:
+* Analysis of mechanization for agricultural water management in Sri Lankan farming systems [[paper](https://www.iwmi.cgiar.org/publications/iwmi-working-papers/iwmi-working-paper-188/)]
+
+2016 January – 2016 February <br />
+Karadiyana Waste Management Facility <br />
+Waste Management Authority <br />
+Western Province, Sri Lanka <br />
+
+Exposed functions:
+* Performed work in the Karadiyana waste management facility's environmental and composting divisions and installed gas wells to collect methane at the dumpsite
+
+2015 December – 2016 January <br />
+Hayleys Agriculture Holdings Limited <br />
+Colombo, Sri Lanka
+
+Exposed functions:
+* Gained knowledge in agricultural heavy machinery and conducted a market survey
+
+### <span style="color:darkblue;"> Undergraduate Research Assistant
+2016 August – 2016 December <br />
+Waste Management Authority <br />
+Western Province, Sri Lanka <br />
+
+Exposed function:
+* Data collection at Karadiyana waste management facility to develop a methane surface emission map
+
+### <span style="color:darkblue;"> Enumerator
+2015 - 2016 <br />
+Sri Lanka
+
+Exposed functions:
+* Survey on use of hydrochlorofluorocarbons as a refrigerant in industries registered under Board of Investment
+* Survey on assessment of livelihood capital in Wariyapola secretariats division
+* Baseline survey on health & nutrition, education, child protection and economic development at Kalpitiya
 
 [back to contents](#contents)
 
-## Research Projects
-### Comparison of Vis-NIR and MIR Spectroscopy for Estimation of Total Carbon and Nitrogen using a Mississippi Soil Dataset
+## Awards
+* Earth Team Volunteer Award 2023 awarded by the United States Department of Agriculture, Natural Resources Conservation Service at the President's Awards Luncheon of the Mississippi Association of Conservation Districts (79th Annual Meeting) in 2024
+* Published photos in the ASABE resource [[magazine](https://bt.e-ditionsbyfry.com/publication/?i=812273)] (January/February 2024 issue)
+* Awarded Best Poster Presentation under the theme “Environment & Resource Management and Social Institutional & Economic Development”, at Faculty of Agriculture Undergraduate Research Symposium (FAuRS), University of Peradeniya in 2016
+* Awarded A. C. Vishvalingam Scholarship (for organizing a project to create peace between nations) in Annual Prize Giving at Kingswood College in 2009
 
-Reflectance spectroscopy in the visible and near-infrared (vis-NIR) and mid-infrared (MIR) ranges has emerged as a promising tool for quantitative soil analysis of certain soil properties. The goal of this study was to examine the accuracy of total carbon (TC) and total nitrogen (TN) estimation using vis-NIR and MIR spectroscopy for Mississippi soil. The ASD LabSpec 4 spectrometer with an attached muglight accessory was used to generate vis-NIR reflectance spectra. Attenuated Total Reflectance (ATR) and Diffuse Reflectance Infrared Fourier Transform (DRIFT) spectra were used to generate MIR reflectance spectra. According to the PLSR analyses, MIR spectra were more effective at predicting TC and TN of soils compared to vis-NIR reflectance spectra.
+[back to contents](#contents)
 
+## Publications
+For most up to date version, please visit my [Google Scholar page](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=5Ftw3bwAAAAJ).
+
+### <span style="color:darkblue;"> Journal Articles
+* Gamagedara, Y., Wijewardane, N. K., Feng, G., Seybold, S., Williams, M., Tagert, M. L., Martins, V. S., 2024, Can we use a mid-infrared fine-ground soil spectral library to predict non-fine-ground spectra?, Geoderma, 443, 116799, ISSN 0016-7061, https://doi.org/10.1016/j.geoderma.2024.116799.
+
+### <span style="color:darkblue;"> Working Reports/ Case Studies
+* Anurudda Karunarathna, Thilini Rajapaksha, Yasas Gamagedara, Shenal Kaldera, and Nadeesha Vidanage, (2021): Challenges and Opportunities of Source-Segregated Waste Collection in Sri Lanka, IGES Centre Collaborating with UNEP on Environmental Technologies (CCET). Available at: https://www.ccet.jp/publications/challenges-and-opportunities-source-segregated-waste-collection-sri-lanka
+* Anurudda Karunarathna, Thilini Rajapaksha, Yasas Gamagedara, Shenal Kaldera, and Nadeesha Vidanage, (2020): Effective Plastic Waste Management, in Sri Lanka, IGES Centre Collaborating with UNEP on Environmental Technologies (CCET). Available at: https://www.ccet.jp/publications/effective-plastic-waste-management-sri-lanka
+* Anurudda Karunarathna, Thilini Rajapaksha, Yasas Gamagedara, Shenal Kaldera, and Nadeesha Vidanage, (2020): Towards Sustainable Operation and Management of Centralized Composting in Sri Lanka, IGES Centre Collaborating with UNEP on Environmental Technologies (CCET). Available at: https://www.ccet.jp/publications/towards-sustainable-operation-and-management-centralized-composting-sri-lanka
+* Aheeyar, M., Manthrithilake, H., Ranasinghe, C., Rengaraj, M., Gamagedara, Y., and Barron, J., (2019): Mechanizing Water Lifting through Pumps: A Case Study in Sri Lanka: International Water Management Institute (IWMI). 61p. (IWMI Working Paper 188). DOI: 10.5337/2019.206.
+
+### <span style="color:darkblue;"> Posters
+* Yasas Gamagedara, Nuwan Wijewardane, Mary Love Tagert, Vitor S. Martins, and Gary Feng, (2023): Investigating the Feasibility of Using Mid-Infrared Fine-Ground Soil Spectra to Predict Non-Fine-Ground Soil Spectra, 2023 Fall Graduate Research Symposium, Graduate Student Association of Mississippi State University, Starkville, Mississippi, October 21, 2023.
+* Yasas Gamagedara, Nuwan Wijewardane, Cathy Seybold, Travis Waiser, and Michael Williams, (2023): Use of a Large Mid-Infrared Soil Spectral Library for Dynamic and Hydrological Soil Property Estimations in Mississippi and Texas, National Cooperative Soil Survey National Conference, USDA-Natural Resources Conservation Service, Bismarck, North Dakota, July 9–13, 2023.
+* Yasas Gamagedara, Gary Feng, and Nuwan K. Wijewardane, (2022): Comparison of Vis-NIR and MIR Spectroscopy for Estimation of Total Carbon and Nitrogen using a Mississippi Soil Dataset, Summer Science & Engineering Symposium, Mississippi Academy of Sciences & Mississippi State University, Starkville, Mississippi, June 8, 2022.
+* Gamagedara K.Y.B., Karunarathna A.K., and Mannapperuma M.M.N.R.C., (2016): Development of a Methane (CH4) Emission Concentration Map: Case Study at Karadiyana Dumpsite, Proceedings of the 3rd Faculty of Agriculture Undergraduate Research Symposium (FAuRS 2016) held in Faculty of Agriculture, University of Peradeniya, Peradeniya, Sri Lanka, 16th December 2016. pp 154.
+
+### <span style="color:darkblue;" Presentations
+* Nuwan Wijewardane, and Yasas Gamagedara, (2023): Predicting Non-Fine-Ground Spectra using Fine-Ground Soil MIR Models: Comparison of Four Calibration Transfer Techniques, ASABE Annual International Meeting, Omaha, Nebraska, July 9-12, 2023.
+* Gamage H.G.V.D., Karunarathna A.K., and Gamagedara K.Y.B., (2020): Test of Root Tensile Strength of Candidate Plant Species for Soil Bioengineering in Shallow Landslides, Proceedings of the 6th Faculty of Agriculture Undergraduate Research Symposium (FAuRS 2019) held in Faculty of Agriculture, University of Peradeniya, Peradeniya, Sri Lanka, 16th July 2020. pp 205.
+* Gamagedara K.Y.B., Alahakoon A.M.Y.W. Karunarathna A.K., Kirindage K.G.I.S., and Attanayake C. P., (2019): Thermo-Pyrolysis Conversion of Sewage Sludge into Biochar and its Characterization, Proceedings of Peradeniya University International Research Sessions (iPURSE 2019), Volume 22, pp 50.
+* Karunarathna, A., Gamagedara, Y., Mannapperuma, N., Ariyawansha, R., and Basnayake, B.F.A., (2018): Development of a Methane (CH4) Surface Emission Map: A Case Study at Karadiyana Dumpsite, Sri Lanka, APLAS TOKYO 2018, The 10th Asia-Pacific Landfill Symposium (Japan), 24 – 26, November 2018, pp 291-296.
+
+[back to contents](#contents)
+
+## Out-Bound Trainings, Workshops
+* Preparing Future Faculty program at Mississippi State University in 2023/24 (pending)
+* Completed Graduate Teaching Assistant workshops at Mississippi State University in Spring 2024
+* Completed Acceleration to industry (A2i) program at Mississippi State University in Fall 2023
+* Completed Bulldog Mentor Program at Mississippi State University in Fall 2023
+* Mentor for high school student from Mississippi School for Mathematics and Science in Fall 2023
+* Participated in developing business in resource recovery and reuse, five days training session, which was conducted by International Water Management Institute, and International Centre for Water Management Services, Colombo, Sri Lanka in 2018
+* Completed a course on effective use of AutoCAD for drafting & 3D modelling in TecView, Institute of Computer Aided Engineering, Sri Lanka in 2017
+* Farm machinery training at Farm Machinery Training Centre, Anuradhapura, Sri Lanka in 2016
+* Six months of agricultural field work and socialization training with an academic session at Maha-Illuppallama Sub Campus, Faculty of Agriculture, University of Peradeniya, Sri Lanka in 2013
+* Participated in four-day residential training program on leadership and team development, which was organized by the University of Peradeniya, Sri Lanka in 2013
+* Participated in two weeks training program on “developing leadership qualities & positive thinking” which was conducted by the Ministry of Higher Education, Anuradhapura, Sri Lanka in 2013
+
+[back to contents](#contents)
+
+## Skills and Competencies
+* Ability to plan, organize and lead activities with good leadership skills
+* Interpersonal skills with sound communication skills
+* Presentation skills
+* Computer literacy (Python, MS Office, AutoCAD, ArcGIS)
+
+[back to contents](#contents)
+
+## Memberships
+* Member of American Society of Agricultural and Biological Engineers since February 2022
+* Member of American Society of Agronomy since January 2022
+* Member of Crop Science Society of America since January 2022
+* Member of Soil Science Society of America since January 2022
+
+[back to contents](#contents)
+
+## Extra-Curricular Activities
+* President Scout (Eagle Scout in USA) at 2nd Kandy Kingswood College Scout Troop in 2009
+* President of Sri Lankan Student Association, Mississippi State University, Mississippi in 2024
+* President of Softball Cricket Club, Mississippi State University, Mississippi from July 2023 to present
+* Federal Aviation Administration’s Remote Pilot Certificate (14 CFR Part 107 Small Unmanned Aircraft Systems) in 2023
+* The Junior Treasurer of the Chess Society, Faculty of Agriculture, University of Peradeniya in 2015
+* The Editor of Forestry Society, Faculty of Agriculture, University of Peradeniya in 2015
+* Student Coordinator of Agriculture Faculty Students’ Union, University of Peradeniya in 2015/2016
+* Batch Representative of semester 2100, Faculty of Agriculture in 2014
+* University Colors holder in 2015 & 2016 from University of Peradeniya, Sri Lanka
+
+[back to contents](#contents)
+
+<!-- ## Research Path
 <!-- ![poster](assets/images/bio-photo.jpg) -->
-
-**Key notes**
-* Conducted soil property estimation of Mississippi soil using spectroscopy methods
-* Comparison of Vis-NIR and MIR spectroscopy 
-* Estimation of total carbon and total nitrogen in MS soil
-
-### Use of Mid-infrared Spectroscopy for Hydrological Soil Property Estimation in Mississippi and Texas
-
-![Lab](assets/images/hp_ms.png)
-
-Mid-infrared spectroscopy has been successfully used for estimating dynamic soil properties such as moisture, organic carbon, cation exchange capacity, electrical conductivity, and pH. However, there are scanty or no reports on hydrological soil properties such as infiltration, soil hydraulic conductivity, water retention, and available water capacity. In addition, the available conventional methods of measuring hydrological soil properties are labor-intensive and time-consuming. The goal of this project is to enable Natural Resources Conservation Service field offices in Texas and Mississippi to utilize MIR spectroscopy to derive dynamic and hydrological soil properties in office without performing laborious and costly conventional field or laboratory measurements.
+<!--### Use of Mid-infrared Spectroscopy for Hydrological Soil Property Estimation in Mississippi and Texas
+<!--![Lab](assets/images/hp_ms.png)
 
 <!-- **Key notes** -->
 <!-- * Jetson TX2 as the onboard computer -->
 <!-- * In-house developed geometric decoupled-yaw controller [[paper](https://doi.org/10.23919/ACC.2019.8815189)] -->
 <!-- * Same custom-developed hardware/software system as the UAV used in [Autonomous Landing]#(#autonomous-landing-of-a-uav-on-a-moving-ship) project -->
 
-[back to contents](#contents)
-
-## Publications
-
-Below is my current published research work.
-For most up to date version, please visit my [Google Scholar page](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=5Ftw3bwAAAAJ).
-
-* Karunarathna, A., Gamagedara, Y., Mannapperuma, N., Ariyawansha, R. and Basnayake, B.F.A., (2018): Development of a Methane (CH4) Surface Emission Map: A Case Study at Karadiyana Dumpsite, Sri Lanka, APLAS TOKYO 2018, The 10th Asia-Pacific Landfill Symposium (Japan), 24 – 26, November 2018, pp 291-296. [[paper](https://www.researchgate.net/publication/330290073_The_10th_Asia-Pacific_Landfill_Symposium_APLAS_TOKYO_2018_DEVELOPMENT_OF_A_METHANE_CH_4_SURFACE_EMISSION_MAP_A_CASE_STUDY_AT_KARADIYANA_DUMP_SITE_SRI_LANKA)]
-
-* Aheeyar, M., Manthrithilake, H., Ranasinghe, C., Rengaraj, M., Gamagedara, Y. and Barron, J., (2019): Mechanizing Water Lifting through Pumps: A Case Study in Sri Lanka: International Water Management Institute (IWMI). 61p. (IWMI Working Paper 188). doi: 10.5337/2019.206. [[paper](https://www.iwmi.cgiar.org/publications/iwmi-working-papers/iwmi-working-paper-188/)]
-
-* Gamagedara K.Y.B., Alahakoon A.M.Y.W. Karunarathna A.K., Kirindage K.G.I.S. and Attanayake C. P., (2019): Thermo-Pyrolysis Conversion of Sewage Sludge into Biochar and its Characterization, Proceedings of Peradeniya University International Research Sessions (iPURSE 2019), Volume 22, pp 50.
-
-* Gamage H.G.V.D., Karunarathna A.K. and Gamagedara K.Y.B., (2020): Test of Root Tensile Strength of Candidate Plant Species for Soil Bioengineering in Shallow Landslides, Proceedings of the 6th Faculty of Agriculture Undergraduate Research Symposium (FAuRS 2019) held in Faculty of Agriculture, University of Peradeniya, Peradeniya, Sri Lanka, 16th July 2020. pp 205.
-
-* Anurudda Karunarathna, Thilini Rajapaksha, Yasas Gamagedara, Shenal Kaldera, and Nadeesha Vidanage, (2020): Effective Plastic Waste Management, in Sri Lanka, IGES Centre Collaborating with UNEP on Environmental Technologies (CCET). [[paper](https://www.ccet.jp/publications/effective-plastic-waste-management-sri-lanka)]
-
-* Anurudda Karunarathna, Thilini Rajapaksha, Yasas Gamagedara, Shenal Kaldera, and Nadeesha Vidanage, (2020): Towards Sustainable Operation and Management of Centralized Composting in Sri Lanka, IGES Centre Collaborating with UNEP on Environmental Technologies (CCET). [[paper](https://www.ccet.jp/publications/towards-sustainable-operation-and-management-centralized-composting-sri-lanka)]
-
-* Anurudda Karunarathna, Thilini Rajapaksha, Yasas Gamagedara, Shenal Kaldera, and Nadeesha Vidanage, (2021): Challenges and Opportunities of Source-Segregated Waste Collection in Sri Lanka, IGES Centre Collaborating with UNEP on Environmental Technologies (CCET). [[paper](https://www.ccet.jp/publications/challenges-and-opportunities-source-segregated-waste-collection-sri-lanka)]
-
 <!-- Geometric Adaptive controls of a quadrotor UAV with decoupled attitude dynamics, K Gamagedara, T Lee, DOI: [10.1115/1.4052714](https://doi.org/10.1115/1.4052714){:target="_blank"} -->
-
-[back to contents](#contents)
