@@ -1,5 +1,5 @@
 #output font size
-<span style="font-size: small;">
+
 
 # Site settings
 remote_theme: "mmistakes/minimal-mistakes"
@@ -61,14 +61,14 @@ author:
   linkedin         : "kanthakeyasas"
   pinterest        :
   soundcloud       :
-  stackoverflow    : #8371691/kani # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "kanthake"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          :
   research_gate    : "Yasas-Gamagedara"
 
 # Build settings
@@ -85,6 +85,7 @@ defaults:
     values:
       layout: archive
       classes: wide
+      span style="font-size: small"
       author_profile: true
       read_time: false
       comments: false

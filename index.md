@@ -199,15 +199,3 @@ For the most recent version, please visit my <a href="https://scholar.google.com
 * University Colors holder in 2015 & 2016 from University of Peradeniya, Sri Lanka
 
 [back to contents](#contents)
-
-<!-- ## Research Path
-<!-- ![poster](assets/images/bio-photo.jpg) -->
-<!--### Use of Mid-infrared Spectroscopy for Hydrological Soil Property Estimation in Mississippi and Texas
-<!--![Lab](assets/images/hp_ms.png)
-
-<!-- **Key notes** -->
-<!-- * Jetson TX2 as the onboard computer -->
-<!-- * In-house developed geometric decoupled-yaw controller [[paper](https://doi.org/10.23919/ACC.2019.8815189)] -->
-<!-- * Same custom-developed hardware/software system as the UAV used in [Autonomous Landing]#(#autonomous-landing-of-a-uav-on-a-moving-ship) project -->
-
-<!-- Geometric Adaptive controls of a quadrotor UAV with decoupled attitude dynamics, K Gamagedara, T Lee, DOI: [10.1115/1.4052714](https://doi.org/10.1115/1.4052714){:target="_blank"} -->
