@@ -83,7 +83,7 @@ Exposed functions:
 * Pilot project of 3Rs (Reduce, Reuse, Recycle) promotion in Ratnapura municipal council <a href="https://digital.detritusjournal.com/articles/evaluation-of-organic-and-recyclable-waste-separation-at-generation-source-in-ratnapura-and-kataragama-local-authorities-in-sri-lanka/359" target="_blank">[paper]</a>
 * Feasibility study on constructing a system for collection and treatment of used fluorocarbons
 
-### <span style="color:darkblue;"> Internships </span> (2017 March – 2017 July) <br />
+### <span style="color:darkblue;"> Internship </span> (2017 March – 2017 July) <br />
 Research Division <br />
 International Water Management Institute <br />
 Battaramulla, Sri Lanka
@@ -91,7 +91,7 @@ Battaramulla, Sri Lanka
 Exposed functions:
 * Analysis of mechanization for agricultural water management in Sri Lankan farming systems <a href="https://www.iwmi.cgiar.org/publications/iwmi-working-papers/iwmi-working-paper-188/" target="_blank">[paper]</a>
 
-### <span style="color:darkblue;"> Internships </span> (2016 January – 2016 February) <br />
+### <span style="color:darkblue;"> Internship </span> (2016 January – 2016 February) <br />
 Karadiyana Waste Management Facility <br />
 Waste Management Authority <br />
 Western Province, Sri Lanka
@@ -99,7 +99,7 @@ Western Province, Sri Lanka
 Exposed functions:
 * Performed work in the Karadiyana waste management facility's environmental and composting divisions and installed gas wells to collect methane at the dumpsite
 
-### <span style="color:darkblue;"> Internships </span> (2015 December – 2016 January) <br />
+### <span style="color:darkblue;"> Internship </span> (2015 December – 2016 January) <br />
 Hayleys Agriculture Holdings Limited <br />
 Colombo, Sri Lanka
 
