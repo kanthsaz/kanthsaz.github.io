@@ -2,6 +2,8 @@
 layout: archive
 ---
 
+<span style="font-size: small;">
+
 I am a Ph.D. candidate in Biosystems Engineering at <a href="https://apsslab.abe.msstate.edu/" target="_blank">Advanced Plant and Soil Sensing Lab</a>, Department of Agricultural & Biological Engineering, Mississippi State University, Mississippi, USA.
 
 ## Contents
@@ -69,7 +71,7 @@ Waste to Energy Technologies Limited <br />
 Battaramulla, Sri Lanka
 
 Exposed functions:
-* Preliminary environmental appraisal (PEA)
+* Preliminary environmental appraisal
 * Development of landfill rehabilitation plans
 * Development of waste management plans
 * Laboratory testing
@@ -114,7 +116,7 @@ Exposed function:
 * Data collection at Karadiyana waste management facility to develop a methane surface emission map
 
 ### <span style="color:darkblue;"> Enumerator </span> (2015 - 2016) <br />
-Sri Lanka
+Sri Lanka <br />
 Exposed functions:
 * Surveys on use of hydrochlorofluorocarbons
 * Assessment on livelihood capital
@@ -188,14 +190,16 @@ For the most recent version, please visit my <a href="https://scholar.google.com
 [back to contents](#contents)
 
 ## Extra-Curricular Activities
-* President Scout (Eagle Scout in USA) at 2nd Kandy Kingswood College Scout Troop in 2009
 * President of Sri Lankan Student Association, Mississippi State University, Mississippi in 2024
 * President of Softball Cricket Club, Mississippi State University, Mississippi from July 2023 to present
 * Federal Aviation Administration’s Remote Pilot Certificate (14 CFR Part 107 Small Unmanned Aircraft Systems) in 2023
+* President Scout (Eagle Scout in USA) at 2nd Kandy Kingswood College Scout Troop in 2009
+* University Colors holder from University of Peradeniya, Sri Lanka in 2015 & 2016
 * The Junior Treasurer of the Chess Society, Faculty of Agriculture, University of Peradeniya in 2015
 * The Editor of Forestry Society, Faculty of Agriculture, University of Peradeniya in 2015
 * Student Coordinator of Agriculture Faculty Students’ Union, University of Peradeniya in 2015/2016
-* Batch Representative of semester 2100, Faculty of Agriculture in 2014
-* University Colors holder in 2015 & 2016 from University of Peradeniya, Sri Lanka
+* Batch Representative of semester 2100, Faculty of Agriculture, University of Peradeniya in 2014
 
 [back to contents](#contents)
+
+</span>
