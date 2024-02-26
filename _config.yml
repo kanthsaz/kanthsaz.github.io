@@ -85,7 +85,7 @@ defaults:
     values:
       layout: archive
       classes: wide
-      span style="font-size: small;"
+      font-size: small
       author_profile: true
       read_time: false
       comments: false
