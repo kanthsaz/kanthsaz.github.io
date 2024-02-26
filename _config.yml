@@ -1,12 +1,8 @@
-#output font size
-<span style="font-size: small;">
-
 # Site settings
 remote_theme: "mmistakes/minimal-mistakes"
 title: Yasas Gamagedara
 
 minimal_mistakes_skin: "mint"
-
 
 # Conversion
 markdown: kramdown
@@ -14,7 +10,6 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -27,7 +22,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
 # Plugins
 plugins:
   - jekyll-paginate
@@ -36,7 +30,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
 
 # Site Author
 author:
@@ -93,5 +86,3 @@ defaults:
 
 atom_feed:
   hide: true
-
-</span>
