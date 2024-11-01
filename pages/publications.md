@@ -7,25 +7,38 @@ title: "Published Research Work"
 
 
 Below are my current published research work.
-For most up-to-date version, please visit my [Google Scholar page](https://scholar.google.com/citations?user=iLvJAuEAAAAJ&hl=en).
+For the most up-to-date version, please visit my [Google Scholar page](https://scholar.google.com/citations?user=5Ftw3bwAAAAJ&hl=en).
 
 ## Journal Papers
 
-1. Delayed Kalman filter for vision-based autonomous flight in ocean environments, Kanishke Gamagedara, Taeyoung Lee, Murray Snyder, Control Engineering Practice, 2024, DOI: [10.1016/j.conengprac.2023.105791](https://doi.org/10.1016/j.conengprac.2023.105791){:target="_blank"}
-1. Geometric Adaptive controls of a quadrotor UAV with decoupled attitude dynamics, K Gamagedara, T Lee, Journal of Dynamic Systems, Measurements, and Control, 2023, DOI: [10.1115/1.4052714](https://doi.org/10.1115/1.4052714){:target="_blank"}
-1. Quadrotor state estimation with IMU and delayed real-time kinematic GPS, K Gamagedara, T Lee, M Snyder, IEEE Transactions on Aerospace and Electronic Systems, 2021, DOI: [10.1109/TAES.2021.3061795](https://doi.org/10.1109/TAES.2021.3061795){:target="_blank"}
-1. On the observability of attitude with single direction measurements, W Wang, K Gamagedara, T Lee, IEEE Transactions on Automatic Control, 2020, DOI: [10.1109/TAC.2022.3179214](https://doi.org/10.1109/TAC.2022.3179214){:target="_blank"}
+1. Can we use a mid-infrared fine-ground soil spectral library to predict non-fine-ground spectra?, Gamagedara, Y., Wijewardane, N. K., Feng, G., Seybold, S., Williams, M., Tagert, M. L., Martins, V. S., 2024, Geoderma, 443, 116799, ISSN 0016-7061, (https://doi.org/10.1016/j.geoderma.2024.116799).{:target="_blank"}
+
+## Working Reports/ Case Studies
+
+1. Challenges and Opportunities of Source-Segregated Waste Collection in Sri Lanka, Anurudda Karunarathna, Thilini Rajapaksha, Yasas Gamagedara, Shenal Kaldera, and Nadeesha Vidanage, 2021, IGES Centre Collaborating with UNEP on Environmental Technologies (CCET). (https://www.ccet.jp/publications/challenges-and-opportunities-source-segregated-waste-collection-sri-lanka).{:target="_blank"}
+2. Effective Plastic Waste Management in Sri Lanka, Anurudda Karunarathna, Thilini Rajapaksha, Yasas Gamagedara, Shenal Kaldera, and Nadeesha Vidanage, 2020, IGES Centre Collaborating with UNEP on Environmental Technologies (CCET). (https://www.ccet.jp/publications/effective-plastic-waste-management-sri-lanka).{:target="_blank"}
+3. Towards Sustainable Operation and Management of Centralized Composting in Sri Lanka, Anurudda Karunarathna, Thilini Rajapaksha, Yasas Gamagedara, Shenal Kaldera, and Nadeesha Vidanage, 2020, IGES Centre Collaborating with UNEP on Environmental Technologies (CCET). (https://www.ccet.jp/publications/towards-sustainable-operation-and-management-centralized-composting-sri-lanka).{:target="_blank"}
+4. Mechanizing Water Lifting through Pumps: A Case Study in Sri Lanka, Aheeyar, M., Manthrithilake, H., Ranasinghe, C., Rengaraj, M., Gamagedara, Y., and Barron, J., 2019, International Water Management Institute (IWMI), 61p. (IWMI Working Paper 188). (DOI: 10.5337/2019.206).{:target="_blank"}
+
+## Conferences - Three-minute thesis
+
+1. Prediction of Soil Properties using Mod-Infrared Soil Spectra, Yasas Gamagedara, 2024, Mississippi Agriculture Consortium, 1st Annual Networking Event, Mississippi State, Starkville, Mississippi, March 6, 2024.{:target="_blank"}
+
+## Conferences - Posters
+
+1. Investigating the Feasibility of Using Mid-Infrared Fine-Ground Soil Spectra to Predict Non-Fine-Ground Soil Spectra, Yasas Gamagedara, Nuwan Wijewardane, Mary Love Tagert, Vitor S. Martins, and Gary Feng, 2023, Fall Graduate Research Symposium, Graduate Student Association of Mississippi State University, Starkville, Mississippi, October 21, 2023.{:target="_blank"}
+2. Use of a Large Mid-Infrared Soil Spectral Library for Dynamic and Hydrological Soil Property Estimations in Mississippi and Texas, Yasas Gamagedara, Nuwan Wijewardane, Cathy Seybold, Travis Waiser, and Michael Williams, 2023, National Cooperative Soil Survey National Conference, USDA-Natural Resources Conservation Service, Bismarck, North Dakota, July 9–13, 2023.{:target="_blank"}
+3. Comparison of Vis-NIR and MIR Spectroscopy for Estimation of Total Carbon and Nitrogen using a Mississippi Soil Dataset, Yasas Gamagedara, Gary Feng, and Nuwan K. Wijewardane, 2022, Summer Science & Engineering Symposium, Mississippi Academy of Sciences & Mississippi State University, Starkville, Mississippi, June 8, 2022.{:target="_blank"}
+4. Development of a Methane (CH4) Emission Concentration Map: Case Study at Karadiyana Dumpsite, Gamagedara K.Y.B., Karunarathna A.K., and Mannapperuma M.M.N.R.C., 2016, Proceedings of the 3rd Faculty of Agriculture Undergraduate Research Symposium, Faculty of Agriculture, University of Peradeniya, Peradeniya, Sri Lanka, 16th December 2016. pp 154.{:target="_blank"}
+
+## Conferences - Presentations
+
+1. Harmonizing Spectral Data Between Fourier Transform Infrared Spectrometers to Accurately Predict Soil Carbon, Yasas Gamagedara, Nuwan Wijewardane, Mary Love Tagert, Vitor Martins, Gary Feng, 2024, Fall Graduate Research Symposium, Graduate Student Association of Mississippi State University, Starkville, Mississippi, October 5, 2024.{:target="_blank"}
+2. Potential of Calibration Transfer Between Lab and Portable Mid-Infrared Spectrometers in Soil Spectroscopy, Yasas Gamagedara, Nuwan Wijewardane, Mary Love Tagert, Vitor Martins, Gary Feng, 2024, ASABE Annual International Meeting, Anaheim, California, July 28-31, 2024.{:target="_blank"}
+3. Predicting Non-Fine-Ground Spectra using Fine-Ground Soil MIR Models: Comparison of Four Calibration Transfer Techniques, Nuwan Wijewardane, and Yasas Gamagedara, 2023, ASABE Annual International Meeting, Omaha, Nebraska, July 9-12, 2023.{:target="_blank"}
+4. Test of Root Tensile Strength of Candidate Plant Species for Soil Bioengineering in Shallow Landslides, Gamage H.G.V.D., Karunarathna A.K., and Gamagedara K.Y.B., 2020, Proceedings of the 6th Faculty of Agriculture Undergraduate Research Symposium, Faculty of Agriculture, University of Peradeniya, Peradeniya, Sri Lanka, 16th July 2020. pp 205.{:target="_blank"}
+5. Thermo-Pyrolysis Conversion of Sewage Sludge into Biochar and its Characterization, Gamagedara K.Y.B., Alahakoon A.M.Y.W. Karunarathna A.K., Kirindage K.G.I.S., and Attanayake C. P., 2019, Proceedings of Peradeniya University International Research Sessions, Volume 22, pp 50.{:target="_blank"}
+6. Development of a Methane Surface Emission Map: A Case Study at Karadiyana Dumpsite, Sri Lanka, Karunarathna, A., Gamagedara, Y., Mannapperuma, N., Ariyawansha, R., and Basnayake, B.F.A., 2018, The 10th Asia-Pacific Landfill Symposium, Tokyo, Japan, 24 – 26, November 2018, pp 291-296.{:target="_blank"}
 
 
-## Conference Papers
-1. In situ detection and analysis of ship air wakes from a US Navy research vessel, MR Snyder, K Gamagedara, T Lee, JA Pritchard, AIAA Aviation Forum, 2021, DOI: [10.2514/6.2021-2485](https://doi.org/10.2514/6.2021-2485){:target="_blank"}
-1. Unscented Kalman filter for INS/GNSS data fusion with time delay, K Gamagedara, T Lee, MR Snyder, AIAA Aviation Forum, 2021, DOI: [10.2514/6.2021-2486](https://doi.org/10.2514/6.2021-2486){:target="_blank"}
-1. Geometric control and experimental validation for a quadrotor UAV transporting a payload, B Yu, K Gamagedara, S Kim, T Lee, J Suk, 59th IEEE Conference on Decision and Control (CDC), 2020, DOI: [10.1109/CDC42340.2020.9303889](https://doi.org/10.1109/CDC42340.2020.9303889){:target="_blank"}
-1. Geometric controls of a quadrotor UAV with decoupled yaw control, K Gamagedara, M Bisheban, E Kaufman, T Lee, American Control Conference (ACC), 2019, DOI: [10.23919/ACC.2019.8815189](https://doi.org/10.23919/ACC.2019.8815189){:target="_blank"}
-1. Attitude observer on SO (3) with time-varying reference directions, K Gamagedara, T Lee, DE Chang, 18th European Control Conference (ECC), 2019, DOI: [10.23919/ECC.2019.8796126](https://doi.org/10.23919/ECC.2019.8796126){:target="_blank"}
-1. Real-time kinematics GPS based telemetry system for airborne measurements of ship air wake, K Gamagedara, T Lee, MR Snyder, AIAA Scitech Forum, 2019, DOI: [10.2514/6.2019-2377](https://doi.org/10.2514/6.2019-2377){:target="_blank"}
-1. Studies on autonomous landing of an unmanned aerial vehicle on a moving ship, AE Robaglia, S Libine, K Gamagedara, K Takami, MR Snyder, T Lee, AIAA Information Systems - AIAA Infotech@ Aerospace, 2018, DOI: [10.2514/6.2018-1461](https://doi.org/10.2514/6.2018-1461){:target="_blank"}
-1. Ship air wake detection using small fixed wing unmanned aerial vehicle, D Phelps, K Gamagedara, J Waldron, K Patil, M Snyder, AIAA Aerospace Sciences Meeting, 2018, DOI: [10.2514/6.2018-0784](https://doi.org/10.2514/6.2018-0784){:target="_blank"}
-1. Vision-based relative localization for airborne measurements of ship air wake, K Gamagedara, K Patil, T Lee, MR Snyder, AIAA Atmospheric Flight Mechanics Conference, 2018, DOI: [10.2514/6.2018-0527](https://doi.org/10.2514/6.2018-0527){:target="_blank"}
-1. Measurements of ship air wake using airborne anemometers, CJ Mallon, BJ Muthig, K Gamagedara, K Patil, C Friedman, T Lee, MR Snyder, 55th AIAA Aerospace Sciences Meeting, 2017, DOI: [10.2514/6.2017-0252](https://doi.org/10.2514/6.2017-0252){:target="_blank"}
 1. Implementation of an almost globally stable intrinsic nonlinear pid controller for attitude stabilization of a quadrotor, J Somasiri, K Gamagedara, DHS Maithripala, JM Berg, IEEE 10th International Conference on Industrial and Information Systems, 2015, DOI: [10.1109/ICIINFS.2015.7399049](https://doi.org/10.1109/ICIINFS.2015.7399049){:target="_blank"}
