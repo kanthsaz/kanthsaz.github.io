@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: "/publications/"
-title: "Published Research Work"
+title: "Research Work"
 # image: assets/images/screenshot.png
 ---
 
