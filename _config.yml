@@ -1,13 +1,13 @@
 # Site settings
-title : Kanishke Gamagedara
+title : Yasas Gamagedara
 title_separator : "-"
 subtitle : # site tagline that appears below site title in masthead
 permalink: "/:title/"
 logo: 'assets/images/logo_32.png'
 favicon: 'favicon.ico'
-name : "Kanishke Gamagedara"
+name : "Yasas Gamagedara"
 description : "My personal website"
-url : https://kanishkegb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url : https://kanthsaz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl : "" # the subpath of your site, e.g. "/blog"
 repository : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -59,8 +59,11 @@ gems:
 
 # Social
 social:
-  github           : https://github.com/kanishkegb
-  instagram        : https://instagram.com/kanishkegb
-  linkedin         : https://www.linkedin.com/in/kanishkegb
+  github           : https://github.com/kanthsaz
+  linkedin         : https://www.linkedin.com/in/kanthakeyasas
+  twitter          : https://twitter.com/kanthake
+  researchgate     : https://www.researchgate.net/profile/Yasas-Gamagedara
+  googlecholar     : https://scholar.google.com/citations?user=5Ftw3bwAAAAJ&hl=en
+  instagram        : https://instagram.com/kanthsaz
+  facebook         : https://www.facebook.com/kanthake/
   stackoverflow    : https://stackoverflow.com/users/8371691/kani
-  twitter          : https://twitter.com/kanishkegb
