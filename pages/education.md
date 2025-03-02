@@ -94,7 +94,7 @@ title: "Education"
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 0 0 120px; margin-right: 30px;">
         <a href="https://www.cipmlk.org/" target="_blank">
-            <img src="/assets/images/education/cipm.png" alt="Chartered Institute of Personnel Management" style="width: 120px; border-radius: 8px;">
+            <img src="/assets/images/education/cipm.JPG" alt="Chartered Institute of Personnel Management" style="width: 120px; border-radius: 8px;">
         </a>
     </div>
     <div style="flex: 1; text-align: left; display: flex; align-items: center;">

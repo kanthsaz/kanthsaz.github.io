@@ -5,16 +5,16 @@ title: "Professional Work & Projects"
 # image: assets/images/screenshot.png
 ---
 
-Below are the projects I have been involved with private and government institutes in local and international level.
+Below are the projects I have been involved in with private and government institutes at both local and international levels.
 
-## Graduate Research Assistant at Department of Agricultural & Biological Engineering, Mississippi State University, USA
+## Graduate Research Assistant at <a href="https://www.abe.msstate.edu/" target="_blank">Department of Agricultural & Biological Engineering</a>, Mississippi State University, USA
 
-* Doctor of Philosophy in Biological Engineering (2022 - 2025)
-Research work – Use of Mid-infrared Spectroscopy for Hydrological Soil Property Estimation in Mississippi and Texas
+* 2022 - 2025
+Exposed functions: soil sampling, laboratory analysis, soil spectroscopy, python programming
 
 [↑ back to top](#top)
 
-## Consultant Field Manager – Janathakshan Limited, Colombo 05, SL
+## Consultant Field Manager – <a href="https://janathakshan.lk/" target="_blank">Janathakshan Limited</a>, Colombo 05, SL
 
 * 2021 September – 2021 December
 Exposed functions: Implementing Livelihoods Restoration Plan under the Kandy Multimodal Transport Terminal Project - Strategic Cities Development Project, Sri Lanka.
@@ -22,7 +22,7 @@ Client: Ministry of Megapolis and Western Development and World Bank
 
 [↑ back to top](#top)
 
-## Assistant Consultant – Waste to Energy Technologies Limited, Battaramulla, SL
+## Assistant Consultant – <a href="https://www.linkedin.com/company/31324840/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BJELLxr2iTyujVAIfxjF3PA%3D%3D" target="_blank">Waste to Energy Technologies Limited</a>, Battaramulla, SL
 
 * 2021 July – 2021 September
 Exposed functions: Preliminary Environmental Appraisal for proposed design and construction of 700 housing units at Apple-Watta, Colombo, Sri Lanka.
@@ -86,7 +86,7 @@ Client: EX Research Institute, Tokyo, Japan
 
 [↑ back to top](#top)
 
-## Assistant Consultant - EX Research Institute Limited, Tokyo, Japan
+## Assistant Consultant - <a href="https://www.exri.co.jp/en" target="_blank">EX Research Institute Limited</a>, Tokyo, Japan
 
 * 2018 January – 2018 November
 Exposed functions: Assisting a pilot project of 3Rs (Reduce, Reuse, Recycle) promotion in Ratnapura Municipal Council under the project of Pollution Control and Reduction of Environmental Burden in Solid Waste Management in Sri Lanka <a href="https://digital.detritusjournal.com/articles/evaluation-of-organic-and-recyclable-waste-separation-at-generation-source-in-ratnapura-and-kataraga/359" target="_blank">Paper</a>.
@@ -96,7 +96,7 @@ Exposed functions: Assisting a feasibility study on construction of a system for
 
 [↑ back to top](#top)
 
-## Intern - Research Division, International Water Management Institute, Battaramulla, Sri Lanka
+## Intern - Research Division, <a href="https://www.iwmi.org/" target="_blank">International Water Management Institute</a>, Battaramulla, Sri Lanka
 
 * 2017 March 27 – 2017 July 28
 Exposed functions: “Analysis of Mechanization for Agricultural Water Management in Sri Lankan Farming Systems” by collecting secondary data.
@@ -110,36 +110,35 @@ Exposed function: Worked under Environmental Division and Composting Section in 
 
 [↑ back to top](#top)
 
-## Intern - Hayleys Agriculture Holdings Limited, Colombo, Sri Lanka
+## Intern - <a href="https://www.hayleysagriculture.com/" target="_blank">Hayleys Agriculture Holdings Limited</a>, Colombo, Sri Lanka
 
 * 2015 December 08 – 2016 January 14
 Exposed functions: Gained the knowledge in agricultural products and equipment that are manufactured and marketed by Hayleys Company. Further, carried out a market survey connected with Kubota Heavy Machinery in Sri Lanka.
 
 [↑ back to top](#top)
 
-## Teaching Assisstant, Department of Agricultural Engineering, Faculty of Agriculture, University of Peradeniya, Sri Lanka
+## Teaching Assisstant - <a href="https://agri.pdn.ac.lk/agen/" target="_blank">Department of Agricultural Engineering</a>, Faculty of Agriculture, University of Peradeniya, Sri Lanka
 
 * 2017 February – 2017 March
 Exposed function: Demosntrated the lectures in theoritically and practically to undergraduates according to the guidance of academic staff. Extended all assistance to the University Authorities to maintain and promote student welfare services and discipline.
 
 [↑ back to top](#top)
 
-## Research Assistant
+## Research Assistant - <a href="https://wma.wp.gov.lk/" target="_blank">Waste Management Authority of Western Province</a>, Sri Lanka
 
-* Waste Management Authority of Western Province, Sri Lanka
-2016 August 22 – 2016 December 09
+* 2016 August 22 – 2016 December 09
 Exposed function: Data collection to develop a methane surface emission map: A case study at Karadiyana dumpsite, Sri Lanka.
 
 [↑ back to top](#top)
 
-## Enumerator - University of Peradeniya, JICA Project
+## Enumerator - <a href="https://www.pdn.ac.lk/" target="_blank">University of Peradeniya</a>, JICA Project
 
 * 2016 September – 2016 October
 Exposed function: Survey on use of hydrochlorofluorocarbons as refrigerant in industries under Board of Investment Zones in Sri Lanka.
 
 [↑ back to top](#top)
 
-## Enumerator - Postgraduate Institute of Agriculture, University of Peradeniya, Sri Lanka
+## Enumerator - <a href="http://www.pgia.pdn.ac.lk/" target="_blank">Postgraduate Institute of Agriculture</a>, University of Peradeniya, Sri Lanka
 
 * 2016 September
 Exposed function: Survey on “Assessment of Livelihood Capital” in Wariyapola Divisional Secretariats Division, Sri Lanka.
@@ -150,7 +149,7 @@ Exposed function: Participated in a baseline survey of a development program at 
 
 [↑ back to top](#top)
 
-## Veterinary Assistant - Association of Veterinarians for Human Management of Animal Population, Sri Lanka
+## Veterinary Assistant - <a href="https://www.facebook.com/vetsforfuture/" target="_blank">Association of Veterinarians for Human Management of Animal Population</a>, Sri Lanka
 
 * 2011 September 11 – 2011 December 09
 Exposed function: Developed healthy relationships between animals and people through awareness and promoting the humane treatment for all animals. This was a special program conducted to reduce the stray dog population in Sri Lanka by conducting operations under the veterinary surgeons.
