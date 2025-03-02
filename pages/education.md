@@ -56,7 +56,7 @@ title: "Education"
     </div>
     <div style="flex: 1; text-align: left; display: flex; align-items: center;">
         <div>
-            <h3 style="margin: 0;">MSc in Agricultural & Biosystems Engineering 2017-2019</h3>
+            <h3 style="margin: 0;">MS in Agricultural & Biosystems Engineering 2017-2019</h3>
             <p style="margin: 0;">
                 <a href="http://www.pgia.pdn.ac.lk/" target="_blank">Postgraduate Institute of Agriculture</a><br>
                 <a href="https://www.pdn.ac.lk/" target="_blank">University of Peradeniya</a>, Sri Lanka<br>
@@ -77,13 +77,31 @@ title: "Education"
     </div>
     <div style="flex: 1; text-align: left; display: flex; align-items: center;">
         <div>
-            <h3 style="margin: 0;">BSc in Agricultural Technology and Management 2013-2016</h3>
+            <h3 style="margin: 0;">BS in Agricultural Technology and Management 2013-2016</h3>
             <p style="margin: 0;">
                 <a href="https://agri.pdn.ac.lk/" target="_blank">Department of Agriculture Engineering</a><br>
                 <a href="https://agri.pdn.ac.lk/" target="_blank">Faculty of Agriculture</a><br>
                 <a href="https://www.pdn.ac.lk/" target="_blank">University of Peradeniya</a>, Sri Lanka<br>
                 Research work – Development of a Methane Emission Concentration Map: Case Study at Karadiyana Dump Site<br>
                 Supervisor: <a href="https://scholar.google.com/citations?user=A9tZlaAAAAAJ&hl=en" target="_blank">Dr. Anurudda Karunarathna</a>
+            </p>
+        </div>
+    </div>
+  </div>
+
+<br>
+
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="flex: 0 0 120px; margin-right: 30px;">
+        <a href="https://www.cipmlk.org/" target="_blank">
+            <img src="/assets/images/education/cipm.png" alt="Chartered Institute of Personnel Management" style="width: 120px; border-radius: 8px;">
+        </a>
+    </div>
+    <div style="flex: 1; text-align: left; display: flex; align-items: center;">
+        <div>
+            <h3 style="margin: 0;">Certificate Course on Human Resource Management 2015</h3>
+            <p style="margin: 0;">
+                <a href="https://www.cipmlk.org/" target="_blank">Chartered Institute of Personnel Management</a>, Sri Lanka<br>
             </p>
         </div>
     </div>

@@ -14,7 +14,7 @@ Research work – Use of Mid-infrared Spectroscopy for Hydrological Soil Propert
 
 [↑ back to top](#top)
 
-## Consultant Field Manager – Janathakshan (Guarantee) Limited, Colombo 05, SL
+## Consultant Field Manager – Janathakshan Limited, Colombo 05, SL
 
 * 2021 September – 2021 December
 Exposed functions: Implementing Livelihoods Restoration Plan under the Kandy Multimodal Transport Terminal Project - Strategic Cities Development Project, Sri Lanka.
@@ -89,12 +89,10 @@ Client: EX Research Institute, Tokyo, Japan
 ## Assistant Consultant - EX Research Institute Limited, Tokyo, Japan
 
 * 2018 January – 2018 November
-Exposed functions: Assisting a pilot project of 3Rs (Reduce, Reuse, Recycle) promotion in Ratnapura Municipal Council under the project of Pollution Control and Reduction of Environmental Burden in Solid Waste Management (ReEB Waste) in Sri Lanka.
-[Sato, N., Iida, C. and Nishi, C., (2019): Evaluation of Organic and Recyclable Waste Separation at Generation Source in Ratnapura Municipal Council and Kataragama Pradeshiya Sabha in Sri Lanka, 17th International Waste Management and Landfill Symposium (Proceedings SARDINIA 2019, www.cisapublisher.com)]
+Exposed functions: Assisting a pilot project of 3Rs (Reduce, Reuse, Recycle) promotion in Ratnapura Municipal Council under the project of Pollution Control and Reduction of Environmental Burden in Solid Waste Management in Sri Lanka <a href="https://digital.detritusjournal.com/articles/evaluation-of-organic-and-recyclable-waste-separation-at-generation-source-in-ratnapura-and-kataraga/359" target="_blank">Paper</a>.
 
 * 2017 June – 2018 February
 Exposed functions: Assisting a feasibility study on construction of a system for collection and treatment of used fluorocarbons in order to introduce an energy-saving equipment with natural or low global warming potential refrigerants in Sri Lanka.
-Internships
 
 [↑ back to top](#top)
 

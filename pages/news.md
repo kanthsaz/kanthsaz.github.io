@@ -53,7 +53,7 @@ title: "News & Engaging Moments"
   <div id="2024" style="flex: 1 1 100%; text-align: center;">
     <p>
       <a href="https://www.abe.msstate.edu/category/news/newsletter/" target="_blank">
-        ABE Newsletter:</a> Spring 2024<br>
+        Newsletter of Department of Agricultural & Biological Engineering:</a> Spring 2024<br>
       Department of Agricultural and Biological Engineering
     </p>
     <img src="/assets/images/news/abe_spring_2024_newsletter.JPG" alt="Newsletter of Department of Agricultural & Biological Engineering: Spring 2024" style="width: 100%; height: auto;">
@@ -67,10 +67,10 @@ title: "News & Engaging Moments"
   <div id="2024" style="flex: 1 1 100%; text-align: center;">
     <p>
       <a href="https://www.abe.msstate.edu/category/news/newsletter/" target="_blank">
-        ABE Newsletter:</a> Spring 2024<br>
+        Newsletter of Soil for Society:</a> Spring 2024<br>
       Department of Agricultural and Biological Engineering
     </p>
-    <img src="/assets/images/news/soil_for_society.JPG" alt="Newsletter of Soil for Society: 2024" style="width: 100%; height: auto;">
+    <img src="/assets/images/news/soil_for_society_2024.JPG" alt="Newsletter of Soil for Society: 2024" style="width: 100%; height: auto;">
     <hr style="border: none; border-top: 3px solid #000000; margin: 20px 0;">
     <div style="margin-top: 10px; text-align: left;">
       <a href="#top" style="text-decoration: none; color: black;">[↑ back to top]</a>
@@ -81,7 +81,7 @@ title: "News & Engaging Moments"
   <div id="2023" style="flex: 1 1 100%; text-align: center;">
     <p>
       <a href="https://www.abe.msstate.edu/category/news/newsletter/" target="_blank">
-        ABE Newsletter:</a> Spring 2023<br>
+        Newsletter of Department of Agricultural & Biological Engineering:</a> Spring 2023<br>
       Department of Agricultural and Biological Engineering
     </p>
     <img src="/assets/images/news/abe_spring_2023_newsletter.JPG" alt="Newsletter of Department of Agricultural & Biological Engineering: Spring 2023" style="width: 100%; height: auto;">
@@ -212,5 +212,5 @@ title: "News & Engaging Moments"
 1. LabView
 1. R/Statistics -->
 
-[↑ back to top](#top)
+<!-- [↑ back to top](#top) -->
 
