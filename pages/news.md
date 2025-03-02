@@ -51,7 +51,7 @@ title: "News & Engaging Moments"
   <div id="2024" style="flex: 1 1 100%; text-align: center;">
     <p>
       <a href="https://www.abe.msstate.edu/category/news/newsletter/" target="_blank">
-        Newsletter of Department of Agricultural and Biological Engineering:</a><br>
+        Newsletter of Department of Agricultural and Biological Engineering</a><br>
         Spring 2024<br>
     </p>
     <img src="/assets/images/news/abe_spring_2024_newsletter.JPG" alt="Newsletter of Department of Agricultural & Biological Engineering: Spring 2024" style="width: 100%; height: auto;">
@@ -65,7 +65,7 @@ title: "News & Engaging Moments"
   <div id="2024" style="flex: 1 1 100%; text-align: center;">
     <p>
       <a href="https://www.abe.msstate.edu/category/news/newsletter/" target="_blank">
-        Newsletter of Soil for Society:</a><br>
+        Newsletter of Soil for Society</a><br>
         Spring 2024
     </p>
     <img src="/assets/images/news/soil_for_society_2024.JPG" alt="Newsletter of Soil for Society: 2024" style="width: 100%; height: auto;">
@@ -79,7 +79,7 @@ title: "News & Engaging Moments"
   <div id="2023" style="flex: 1 1 100%; text-align: center;">
     <p>
       <a href="https://www.abe.msstate.edu/category/news/newsletter/" target="_blank">
-        Newsletter of Department of Agricultural and Biological Engineering:</a><br>
+        Newsletter of Department of Agricultural and Biological Engineering</a><br>
         Spring 2023<br>
     </p>
     <img src="/assets/images/news/abe_spring_2023_newsletter.JPG" alt="Newsletter of Department of Agricultural & Biological Engineering: Spring 2023" style="width: 100%; height: auto;">
@@ -144,9 +144,9 @@ title: "News & Engaging Moments"
   <!-- Soil Science Society of America Cover Page 2020 -->
   <div id="2020" style="flex: 1 1 100%; text-align: center;">
     <p>
-      Appearing in Cover Image, Volume 84, Issue 4<br>
       <a href="https://doi.org/10.1002/saj2.20137" target="_blank">
-        Soil Science Society of America Journal</a> 2020
+        Soil Science Society of America Journal</a> 2020<br>
+        Appeared in Cover Image, Volume 84, Issue 4
     </p>
     <img src="/assets/images/news/sssaj_cover_2020.JPG" alt="Soil Science Society of America Journal Cover Page 2020" style="width: 100%; height: auto;">
     <hr style="border: none; border-top: 3px solid #000000; margin: 20px 0;">
