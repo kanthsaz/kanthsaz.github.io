@@ -7,83 +7,32 @@ background: '/img/bg-index.jpg'
 <!-- Home Intro
 ================================================== -->
 {% if page.url == "/" %} 
-<div class="rounded mb-5 p-4 p-lg-5 light_gray">
+<div style="background-color: #131313;" class="rounded mb-5 p-4 p-lg-5">
   <div class="row align-items-center justify-content-between">
     <div class="col-md-6 m-0 p-0">
-      <p class="lead mb-0 l-1">I am Kanishke, and I love working on UAVs!</p>
+      <p class="lead mb-0 l-1" style="color: white;">Hi, I'm Yasas,</p>
       <br>
-      <p class="lead mb-0 l-1">My main  interests include developing new algorithms to control UAVs, and to develop estimators for UAV state estimation.</p>
+      <p class="lead mb-0 l-1" style="color: white;">I work on Soil Spectroscopy, focusing on estimating soil properties using mid-infrared spectra.</p>
       <br>  
-      <p class="lead mb-0 l-1">I try to share what I work on here, specially things that are hard to find on the internet.</p>
+      <p class="lead mb-0 l-1" style="color: white;">I'm also passionate about Solid Waste Management and Environmental Science activities.</p>
       <br>
       <a href="{{site.baseurl}}/about" class="btn btn-dark text-white px-5 btn-lg">About Me</a>
       <br>
     </div>
     <div class="m-0 p-0 col-md-6 text-right">
       <center>
-      <img class="rounded mt-4 mt-lg-0" src="{{site.baseurl}}/assets/images/bio.jpg">      
+      <img class="rounded mt-4 mt-lg-0" src="{{site.baseurl}}/assets/images/home/yasas_gamagedara.jpg">      
       </center>
     </div>
   </div>
 </div>
 {% endif %}
 
-<!-- Featured
-================================================== -->
-
-<br>
-<p class="h1">Featured Posts</p>
-<br>
-<br>
-
-<section class="row">
-  {% for post in site.posts %}
-      {% if post.featured == true %}
-          <div class="col-md-4 mb-5">
-          {% include postbox.html %}
-          </div>
-      {% endif %}
-  {% endfor %}
-  </div>
-</section>
-
-<!-- Posts List with Sidebar (except featured) -->
-<!-- ================================================== -->
-
-<br>
-<p class="h1">Recent Posts</p>
-<br>
-
-
 <br>
 <i>
-Whenever I find something interesting, I post them here.
-The most of them are here just so that I can use them as a quick reference in the future.
-But please feel free to use and share if you find any of them useful!
+  <div style="text-align: center;">
+    Connect with me <a href="{{site.baseurl}}/connect" target="_blank"><u style="background-color: yellow;">here</u></a><br>
+    *** Goals without discipline --> dreams, so manage your time ***
+  </div>  
 </i>
 <br>
-<br>
-<br>
-
-<section class="row">
-  <div class="col-sm-8">
-    <div class="row">
-      {% for post in paginator.posts %}
-      {% unless post.featured == true %}
-      <div class="col-md-6 mb-5">
-        {% include postbox.html %}
-      </div>
-      {% endunless %}
-      {% endfor %}
-    </div>
-    <!-- Pagination -->
-    <div class="bottompagination">
-      <span class="navigation" role="navigation">
-          {% include pagination.html %}
-      </span>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    {% include sidebar.html %}
-  </div>
-</section>

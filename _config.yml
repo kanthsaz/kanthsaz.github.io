@@ -3,8 +3,8 @@ title : Yasas Gamagedara
 title_separator : "-"
 subtitle : # site tagline that appears below site title in masthead
 permalink: "/:title/"
-logo: 'assets/images/logo_32.png'
-favicon: 'favicon.ico'
+logo: 'assets/images/home/yg_32.png'
+favicon: 'favicon_500.ico'
 name : "Yasas Gamagedara"
 description : "My personal website"
 url : https://kanthsaz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -13,6 +13,7 @@ repository : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 masthead_title : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs : false # true, false (default)
+incremental: true
 
 locale: en_us
 lang: en_us
@@ -66,4 +67,4 @@ social:
   googlecholar     : https://scholar.google.com/citations?user=5Ftw3bwAAAAJ&hl=en
   instagram        : https://instagram.com/kanthsaz
   facebook         : https://www.facebook.com/kanthake/
-  stackoverflow    : https://stackoverflow.com/users/8371691/kani
+  stackoverflow    : https://stackoverflow.com/users/28096213/kanthsaz

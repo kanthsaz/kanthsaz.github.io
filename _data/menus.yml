@@ -7,15 +7,29 @@ topmenu:
 - title: About
   url: "about/"
 
-- title: Projects
-  url: "projects/"
+- title: Education
+  url: "education/"
 
-- title: Open-Source
-  url: "open-source/"
+- title: Work
+  url: "work/"
 
-- title: Publications
-  url: "publications/"
+- title: Research
+  url: "research/"
 
+- title: Training
+  url: "training/"
+
+- title: Award
+  url: "award/"
+
+- title: Service
+  url: "service/"
+
+- title: News
+  url: "news/"
+
+- title: Connect
+  url: "connect/"
 
 # - title: Get this theme  
 #   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
@@ -24,15 +38,6 @@ topmenu:
 
 # Footer Menu
 # footermenu:
-
-# - title: Home
-#   url: ""
-
-# - title: Privacy Policy
-#   url: "privacy-policy/"
-
-# - title: Contact
-#   url: "contact/"
 
 # - title: Download
 #   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  

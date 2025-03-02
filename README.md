@@ -29,7 +29,7 @@ jekyll serve --host 0.0.0.0 --watch
 1. Refresh the browser tab.
 
 
-# Made with the free Affiliates theme
+# Made with the free Affiliates themey
 
 [Live Demo](https://wowthemesnet.github.io/affiliates-jekyll-theme/) | [Docs & Download](https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
 
