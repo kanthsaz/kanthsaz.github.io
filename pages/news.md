@@ -56,7 +56,21 @@ title: "News & Engaging Moments"
         ABE Newsletter:</a> Spring 2024<br>
       Department of Agricultural and Biological Engineering
     </p>
-    <img src="/assets/images/news/abe_spring_2024_newsletter.JPG" alt="ABE Newsletter: Spring 2024" style="width: 100%; height: auto;">
+    <img src="/assets/images/news/abe_spring_2024_newsletter.JPG" alt="Newsletter of Department of Agricultural & Biological Engineering: Spring 2024" style="width: 100%; height: auto;">
+    <hr style="border: none; border-top: 3px solid #000000; margin: 20px 0;">
+    <div style="margin-top: 10px; text-align: left;">
+      <a href="#top" style="text-decoration: none; color: black;">[↑ back to top]</a>
+    </div>
+  </div>
+
+  <!-- SSN Newsletter 2024 -->
+  <div id="2024" style="flex: 1 1 100%; text-align: center;">
+    <p>
+      <a href="https://www.abe.msstate.edu/category/news/newsletter/" target="_blank">
+        ABE Newsletter:</a> Spring 2024<br>
+      Department of Agricultural and Biological Engineering
+    </p>
+    <img src="/assets/images/news/soil_for_society.JPG" alt="Newsletter of Soil for Society: 2024" style="width: 100%; height: auto;">
     <hr style="border: none; border-top: 3px solid #000000; margin: 20px 0;">
     <div style="margin-top: 10px; text-align: left;">
       <a href="#top" style="text-decoration: none; color: black;">[↑ back to top]</a>
@@ -70,7 +84,7 @@ title: "News & Engaging Moments"
         ABE Newsletter:</a> Spring 2023<br>
       Department of Agricultural and Biological Engineering
     </p>
-    <img src="/assets/images/news/abe_spring_2023_newsletter.JPG" alt="ABE Newsletter: Spring 2023" style="width: 100%; height: auto;">
+    <img src="/assets/images/news/abe_spring_2023_newsletter.JPG" alt="Newsletter of Department of Agricultural & Biological Engineering: Spring 2023" style="width: 100%; height: auto;">
     <hr style="border: none; border-top: 3px solid #000000; margin: 20px 0;">
     <div style="margin-top: 10px; text-align: left;">
       <a href="#top" style="text-decoration: none; color: black;">[↑ back to top]</a>
@@ -86,8 +100,8 @@ title: "News & Engaging Moments"
       </a>
     </p>
     <div style="display: flex; justify-content: center; gap: 10px;">
-      <img src="/assets/images/news/ag_flight1.JPG" alt="Ag. Flight Technologies_1" style="width: 48%; height: auto;">
-      <img src="/assets/images/news/ag_flight2.JPG" alt="Ag. Flight Technologies_2" style="width: 48%; height: auto;">
+      <img src="/assets/images/news/ag_flight1.jpg" alt="Ag. Flight Technologies_1" style="width: 48%; height: auto;">
+      <img src="/assets/images/news/ag_flight2.jpg" alt="Ag. Flight Technologies_2" style="width: 48%; height: auto;">
     </div>
     <hr style="border: none; border-top: 3px solid #000000; margin: 20px 0;">
     <div style="margin-top: 10px; text-align: left;">
@@ -144,19 +158,19 @@ title: "News & Engaging Moments"
   </div>
 
   <!-- Arduino Programmed Car Kit 2019 -->
-  <div id="2019" style="flex: 1 1 100%; text-align: center;">
+  <!-- <div id="2019" style="flex: 1 1 100%; text-align: center;">
     <p>
       <a href="https://www.arduino.cc/" target="_blank">
         Arduino</a> Programmed Car Kit 2019<br>
     </p>
-    <!-- <video src="/assets/images/news/arduino_car_kit.mp4" controls autoplay muted preload="auto" style="width: 100%; height: auto;">
+    <video src="/assets/images/news/arduino_car_kit.mp4" controls autoplay muted preload="auto" style="width: 100%; height: auto;">
       Your browser does not support the video tag.
-    </video> -->
+    </video>
     <hr style="border: none; border-top: 3px solid #000000; margin: 20px 0;">
     <div style="margin-top: 10px; text-align: left;">
       <a href="#top" style="text-decoration: none; color: black;">[↑ back to top]</a>
     </div>
-  </div>
+  </div> -->
 
   <!-- AutoCAD Output 2018 -->
   <div id="2018" style="flex: 1 1 100%; text-align: center;">
@@ -166,8 +180,8 @@ title: "News & Engaging Moments"
       TecView, Institute of Computer Aided Engineering 2018
     </p>
     <div style="display: flex; justify-content: center; gap: 10px;">
-      <img src="/assets/images/news/autocad1.JPG" alt="AutoCAD Drawing_1" style="width: 48%; height: auto;">
-      <img src="/assets/images/news/autocad2.JPG" alt="AutoCAD Drawing_2" style="width: 48%; height: auto;">
+      <img src="/assets/images/news/autocad1.jpg" alt="AutoCAD Drawing_1" style="width: 48%; height: auto;">
+      <img src="/assets/images/news/autocad2.jpg" alt="AutoCAD Drawing_2" style="width: 48%; height: auto;">
     </div>
     <hr style="border: none; border-top: 3px solid #000000; margin: 20px 0;">
     <div style="margin-top: 10px; text-align: left;">
@@ -192,11 +206,11 @@ title: "News & Engaging Moments"
   }
 </script>
 
-add soil for society network
-
+<!-- Add below
 1. Pyhton
+1. Arduino
 1. LabView
-1. R/Statistics
+1. R/Statistics -->
 
 [↑ back to top](#top)
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: "/Research/"
+permalink: "/research/"
 title: "Research"
 # image: assets/images/screenshot.png
 ---
@@ -10,7 +10,7 @@ For the most up-to-date version, please visit my [Google Scholar page](https://s
 
 ## Journal Papers
 
-1. Can we use a mid-infrared fine-ground soil spectral library to predict non-fine-ground spectra?, Gamagedara, Y., Wijewardane, N. K., Feng, G., Seybold, S., Williams, M., Tagert, M. L., Martins, V. S., 2024, Geoderma, 443, 116799, ISSN 0016-7061, DOI: [10.1016/j.geoderma.2024.116799](https://doi.org/10.1016/j.geoderma.2024.116799){:target="_blank"}
+1. Can We Use a Mid-Infrared Fine-Ground Soil Spectral Library to Predict Non-Fine-Ground Spectra?, Gamagedara, Y., Wijewardane, N. K., Feng, G., Seybold, S., Williams, M., Tagert, M. L., Martins, V. S., 2024, Geoderma, 443, 116799, ISSN 0016-7061, DOI: [10.1016/j.geoderma.2024.116799](https://doi.org/10.1016/j.geoderma.2024.116799){:target="_blank"}
 
 [↑ back to top](#top)
 

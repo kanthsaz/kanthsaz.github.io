@@ -87,9 +87,10 @@ Ministry of Higher Education, Anuradhapura, Sri Lanka 2013<br>
 ### Software Skills
 
 1. AutoCAD
-1. Remote Sensing (GIS)
+1. ArcGIS/ QGIS
 1. Pyhton
+1. Arduino
 1. LabView
-1. R/Statistics
+1. R
 
 [↑ back to top](#top)

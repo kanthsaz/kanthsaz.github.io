@@ -91,7 +91,7 @@ title: "Education"
 
 <br>
 
-  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <!-- <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 0 0 120px; margin-right: 30px;">
         <a href="https://esoft.lk/" target="_blank">
             <img src="/assets/images/education/esoft.png" alt="ESOFT" style="width: 120px; border-radius: 8px;">
@@ -123,9 +123,9 @@ title: "Education"
             </p>
         </div>
     </div>
-  </div>
+  </div> -->
 
-<br>
+<!-- <br> -->
 
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 0 0 120px; margin-right: 30px;">

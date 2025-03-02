@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: "/award/"
+permalink: "/awards/"
 title: "Awards & Memberships"
 # image: assets/images/screenshot.png
 ---
