@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Let's Connect !!!
+title: Let's Connect !
 permalink: "/connect/"
 # image: assets/images/screenshot.png
 ---

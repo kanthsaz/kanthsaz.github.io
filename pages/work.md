@@ -7,14 +7,14 @@ title: "Professional Work & Projects"
 
 Below are the projects I have been involved in with private and government institutes at both local and international levels.
 
-## Graduate Research Assistant<br><a href="https://www.abe.msstate.edu/" target="_blank">Department of Agricultural & Biological Engineering</a><br>Mississippi State University<br>Mississippi, USA
+## Graduate Research Assistant<br><a href="https://www.abe.msstate.edu/" target="_blank">Department of Ag. & Bio. Engineering</a><br>Mississippi State University, USA
 
 * 2022 - 2025<br>
 Exposed functions: soil sampling, laboratory analysis, soil spectroscopy, python programming
 
 [↑ back to top](#top)
 
-## Consultant Field Manager<br><a href="https://janathakshan.lk/" target="_blank">Janathakshan Limited</a><br>Colombo, SL
+## Consultant Field Manager<br><a href="https://janathakshan.lk/" target="_blank">Janathakshan Limited</a><br>Colombo, Sri Lanka
 
 * 2021 September – 2021 December<br>
 Exposed functions: Implementing Livelihoods Restoration Plan under the Kandy Multimodal Transport Terminal Project - Strategic Cities Development Project, Sri Lanka<br>
@@ -22,7 +22,7 @@ Client: Ministry of Megapolis and Western Development and World Bank
 
 [↑ back to top](#top)
 
-## Assistant Consultant<br><a href="https://www.linkedin.com/company/31324840/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BJELLxr2iTyujVAIfxjF3PA%3D%3D" target="_blank">Waste to Energy Technologies Limited</a><br>Battaramulla, SL
+## Assistant Consultant<br><a href="https://www.linkedin.com/company/31324840/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BJELLxr2iTyujVAIfxjF3PA%3D%3D" target="_blank">Waste to Energy Technologies Limited</a><br>Battaramulla, Sri Lanka
 
 * 2021 July – 2021 September<br>
 Exposed functions: Preliminary Environmental Appraisal for proposed design and construction of 700 housing units at Apple-Watta, Colombo, Sri Lanka<br>
@@ -117,7 +117,7 @@ Exposed functions: Gained the knowledge in agricultural products and equipment t
 
 [↑ back to top](#top)
 
-## Teaching Assisstant<br><a href="https://agri.pdn.ac.lk/agen/" target="_blank">Department of Agricultural Engineering</a><br>Faculty of Agriculture, University of Peradeniya<br>Peradeniya, Sri Lanka
+## Teaching Assisstant<br><a href="https://agri.pdn.ac.lk/agen/" target="_blank">Department of Agricultural Engineering</a><br>University of Peradeniya, Sri Lanka
 
 * 2017 February – 2017 March<br>
 Exposed function: Demosntrated the lectures in theoritically and practically to undergraduates according to the guidance of academic staff. Extended all assistance to the University Authorities to maintain and promote student welfare services and discipline
@@ -131,14 +131,14 @@ Exposed function: Data collection to develop a methane surface emission map: A c
 
 [↑ back to top](#top)
 
-## Enumerator<br><a href="https://www.pdn.ac.lk/" target="_blank">University of Peradeniya</a><br>Peradeniya, Sri Lanka
+## Enumerator<br><a href="https://www.pdn.ac.lk/" target="_blank">University of Peradeniya</a><br>Sri Lanka
 
 * 2016 September – 2016 October<br>
 Exposed function: Survey on use of hydrochlorofluorocarbons as refrigerant in industries under Board of Investment Zones in Sri Lanka
 
 [↑ back to top](#top)
 
-## Enumerator<br><a href="http://www.pgia.pdn.ac.lk/" target="_blank">Postgraduate Institute of Agriculture, University of Peradeniya,<br>Peradeniya, Sri Lanka
+## Enumerator<br><a href="http://www.pgia.pdn.ac.lk/" target="_blank">Postgraduate Institute of Agriculture</a><br>University of Peradeniya, Sri Lanka
 
 * 2016 September<br>
 Exposed function: Survey on “Assessment of Livelihood Capital” in Wariyapola Divisional Secretariats Division, Sri Lanka

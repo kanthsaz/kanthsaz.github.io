@@ -15,11 +15,11 @@ title: "Education"
     </div>
     <div style="flex: 1; text-align: left; display: flex; align-items: center;">
         <div>
-            <h3 style="margin: 0;">PhD in Biosystems Engineering 2022-2024</h3>
+            <h3 style="margin: 0;">PhD in Biosystems Engineering<br>2022-2024</h3>
             <p style="margin: 0;">
                 <a href="https://www.abe.msstate.edu/" target="_blank">Department of Agricultural & Biological Engineering</a><br>
                 <a href="http://www.msstate.edu/" target="_blank">Mississippi State University</a>, USA<br>
-                Research work – Use of Mid-infrared Spectroscopy for Dynamic and Hydrological Soil Property Estimations in Mississippi and Texas<br>
+                Research work – Use of Mid-infrared Spectroscopy for Dynamic & Hydraulic Soil Property Estimations in Mississippi & Texas<br>
                 Supervisor: <a href="https://scholar.google.com/citations?user=7npWMTwAAAAJ&hl=en" target="_blank">Dr. Nuwan Wijewardane</a>
             </p>
         </div>
@@ -36,7 +36,7 @@ title: "Education"
     </div>
     <div style="flex: 1; text-align: left; display: flex; align-items: center;">
         <div>
-            <h3 style="margin: 0;">MBA in General 2020-2021</h3>
+            <h3 style="margin: 0;">MBA in General<br>2020-2021</h3>
             <p style="margin: 0;">
                 <a href="https://www.cardiffmet.ac.uk/Pages/default.aspx" target="_blank">Cardiff Metropolitan University</a>, United Kingdom<br>
                 Research work – Tangibles and Other Strategic Resources as Indicators of Firm’s Performance: Case Study in Sri Lankan Listed Companies<br>
@@ -56,7 +56,7 @@ title: "Education"
     </div>
     <div style="flex: 1; text-align: left; display: flex; align-items: center;">
         <div>
-            <h3 style="margin: 0;">MS in Agricultural & Biosystems Engineering 2017-2019</h3>
+            <h3 style="margin: 0;">MS in Agricultural & Biosystems Engineering<br>2017-2019</h3>
             <p style="margin: 0;">
                 <a href="http://www.pgia.pdn.ac.lk/" target="_blank">Postgraduate Institute of Agriculture</a><br>
                 <a href="https://www.pdn.ac.lk/" target="_blank">University of Peradeniya</a>, Sri Lanka<br>
@@ -77,7 +77,7 @@ title: "Education"
     </div>
     <div style="flex: 1; text-align: left; display: flex; align-items: center;">
         <div>
-            <h3 style="margin: 0;">BS in Agricultural Technology and Management 2013-2016</h3>
+            <h3 style="margin: 0;">BS in Agricultural Technology and Management<br>2013-2016</h3>
             <p style="margin: 0;">
                 <a href="https://agri.pdn.ac.lk/" target="_blank">Department of Agriculture Engineering</a><br>
                 <a href="https://agri.pdn.ac.lk/" target="_blank">Faculty of Agriculture</a><br>
@@ -99,7 +99,7 @@ title: "Education"
     </div>
     <div style="flex: 1; text-align: left; display: flex; align-items: center;">
         <div>
-            <h3 style="margin: 0;">Primary and Secondary Education 1997-2010</h3>
+            <h3 style="margin: 0;">Primary and Secondary Education<br>1997-2010</h3>
             <p style="margin: 0;">
                 <a href="https://kingswood.lk/" target="_blank">Kingswood College</a>, Sri Lanka
             </p>
