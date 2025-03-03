@@ -103,7 +103,7 @@ Exposed functions: “Analysis of Mechanization for Agricultural Water Managemen
 
 [↑ back to top](#top)
 
-## Intern<br>Waste Management Authority of Western Province<br>Colombo, Sri Lanka
+## Intern<br><a href="https://wma.wp.gov.lk/" target="_blank">Waste Management Authority of Western Province</a><br>Colombo, Sri Lanka
 
 * 2016 January 18 – 2016 February 19<br>
 Exposed function: Worked under Environmental Division and Composting Section in Karadiyana Waste Management Facility and established gas wells at the dumpsite, Western Province, Sri Lanka

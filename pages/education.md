@@ -77,7 +77,7 @@ title: "Education"
     </div>
     <div style="flex: 1; text-align: left; display: flex; align-items: center;">
         <div>
-            <h3 style="margin: 0;">BS in Agricultural Technology and Management<br>2013-2016</h3>
+            <h3 style="margin: 0;">BS in Agricultural Technology & Management<br>2013-2016</h3>
             <p style="margin: 0;">
                 <a href="https://agri.pdn.ac.lk/" target="_blank">Department of Agriculture Engineering</a><br>
                 <a href="https://agri.pdn.ac.lk/" target="_blank">Faculty of Agriculture</a><br>
@@ -99,7 +99,7 @@ title: "Education"
     </div>
     <div style="flex: 1; text-align: left; display: flex; align-items: center;">
         <div>
-            <h3 style="margin: 0;">Primary and Secondary Education<br>1997-2010</h3>
+            <h3 style="margin: 0;">Primary & Secondary Education<br>1997-2010</h3>
             <p style="margin: 0;">
                 <a href="https://kingswood.lk/" target="_blank">Kingswood College</a>, Sri Lanka
             </p>
