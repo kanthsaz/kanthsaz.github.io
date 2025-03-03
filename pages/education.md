@@ -93,60 +93,6 @@ title: "Education"
 
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 0 0 120px; margin-right: 30px;">
-        <a href="https://www.cipmlk.org/" target="_blank">
-            <img src="/assets/images/education/cipm.JPG" alt="Chartered Institute of Personnel Management" style="width: 120px; border-radius: 8px;">
-        </a>
-    </div>
-    <div style="flex: 1; text-align: left; display: flex; align-items: center;">
-        <div>
-            <h3 style="margin: 0;">Certificate Course on Human Resource Management 2015</h3>
-            <p style="margin: 0;">
-                <a href="https://www.cipmlk.org/" target="_blank">Chartered Institute of Personnel Management</a>, Sri Lanka<br>
-            </p>
-        </div>
-    </div>
-  </div>
-
-<br>
-
-  <!-- <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div style="flex: 0 0 120px; margin-right: 30px;">
-        <a href="https://esoft.lk/" target="_blank">
-            <img src="/assets/images/education/esoft.png" alt="ESOFT" style="width: 120px; border-radius: 8px;">
-        </a>
-    </div>
-    <div style="flex: 1; text-align: left; display: flex; align-items: center;">
-        <div>
-            <h3 style="margin: 0;">Diploma in Informational Technology with E-Commerce 2012</h3>
-            <p style="margin: 0;">
-                <a href="https://esoft.lk/" target="_blank">ESOFT</a>, Sri Lanka
-            </p>
-        </div>
-    </div>
-  </div>
-
-<br>
-
-  <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div style="flex: 0 0 120px; margin-right: 30px;">
-        <a href="https://americancollege.lk/" target="_blank">
-            <img src="/assets/images/education/american_college_of_higher_education.png" alt="American College of Higher Education" style="width: 120px; border-radius: 8px;">
-        </a>
-    </div>
-    <div style="flex: 1; text-align: left; display: flex; align-items: center;">
-        <div>
-            <h3 style="margin: 0;">Diploma in English - Level III 2008</h3>
-            <p style="margin: 0;">
-                <a href="https://americancollege.lk/" target="_blank">American College of Higher Education</a>, Sri Lanka
-            </p>
-        </div>
-    </div>
-  </div> -->
-
-<!-- <br> -->
-
-  <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div style="flex: 0 0 120px; margin-right: 30px;">
         <a href="https://kingswood.lk/" target="_blank">
             <img src="/assets/images/education/kingswood_college.png" alt="Kingswood College" style="width: 120px; border-radius: 8px;">
         </a>

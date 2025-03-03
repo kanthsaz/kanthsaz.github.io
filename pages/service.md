@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: "/service/"
+permalink: "/services/"
 title: "Services & Extra Curricular Activities"
 # image: assets/images/screenshot.png
 ---
@@ -29,27 +29,27 @@ National Science Foundation, since 2023
 
 1. Treasurer of the [Old Kingswoodians’ Scout Association](https://kingswoodoldscouts.org/), Kingswood College, Sri Lanka, from January 2019 to November 2021
 
-1. Student Coordinator of the Agriculture Faculty Students’ Union, University of Peradeniya, Sri Lanka in 2015/2016
+1. Student Coordinator of the [Agriculture Faculty Students’ Union](https://agri.pdn.ac.lk/), University of Peradeniya, Sri Lanka in 2015/2016
     - Organized Indeewari musical show for raising funds for Needy university students’ scholarship programme, and arranged “Rali Bimen Samabimata” educational assistance programme for rural school students in Sri Lanka
 
-1. Junior Treasurer of the Chess Society, Faculty of Agriculture, University of Peradeniya, Sri Lanka in 2015
+1. Junior Treasurer of the Chess Society, [Faculty of Agriculture](https://agri.pdn.ac.lk/), University of Peradeniya, Sri Lanka in 2015
 
-1. Editor of the Forestry Society, Faculty of Agriculture, University of Peradeniya, Sri Lanka in 2015
+1. Editor of the Forestry Society, [Faculty of Agriculture](https://agri.pdn.ac.lk/), University of Peradeniya, Sri Lanka in 2015
 
 1. Senior Member of [University Explorers’ Club](https://uec.soc.pdn.ac.lk/) at University of Peradeniya, Sri Lanka in 2014
 
-1. Batch Representative for Semester 2100, Faculty of Agriculture, University of Peradeniya, Sri Lanka in 2014
+1. Batch Representative for Semester 2100, [Faculty of Agriculture](https://agri.pdn.ac.lk/), University of Peradeniya, Sri Lanka in 2014
 
-1. Committee Member of Science Society at Kingwood College, Sri Lanka in 2008/2009
+1. Committee Member of Science Society at [Kingswood College](https://kingswood.lk/), Sri Lanka in 2008/2009
 
-1. Treasurer of Kingswood Scout Troop, Sri Lanka in 2008/2009
+1. Treasurer of [Kingswood Scout Troop](https://kingswoodoldscouts.org/randles-scouts/), Sri Lanka in 2008/2009
     - Won the Best Scout Week award, and Scout Troop award (2nd place) in National Scout Achievement Award Ceremony in 2009, Organized 24th J.J.P. Dehigama Memorial Orienteering Competition, and Annual Camp in 2008
 
 [↑ back to top](#top)
 
 ## Extra Curricular Activities
 
-1. Activities in University of Peradeniya, Sri Lanka  from 2013 to 2016
+1. Activities in [University of Peradeniya](https://www.pdn.ac.lk/), Sri Lanka  from 2013 to 2016
     - Represented University Baseball team in 2015 & 2016
         - Participated in Sri Lanka University Games in 2016
         - Member of Baseball team at Inter University Championships in 2015 (2nd place)
@@ -57,7 +57,7 @@ National Science Foundation, since 2023
     - Represented Baseball, Basketball, Track & Field, Badminton, Hockey, and Chess teams in Fresher's Championship, Inter Faculty Championship, and Faculty Championships
     - Attended Provincial Wushu Training Program at University of Peradeniya, conducted by Wushu Federation of Sri Lanka in 2013
 <br>
-1. Member of 2nd Kandy Kingswood College Scout Troop from 2002 to 2011
+1. Member of [Kingswood Scout Troop](https://kingswoodoldscouts.org/randles-scouts/), Sri Lanka from 2002 to 2011
     - Annual Scout Camp, Kingswood College in 2007 (Best camper)
     - Under 15 Long Jump event, All Island Scouts Sports/ Swimming Meet in 2006 (2nd place)
     - Kingswood Scouts team member in “ADHERENCE TO NATURE” Exploration Competition, organized by St. Joseph’s Balika Maha Vidyalaya, Kegalle in 2006 (2nd place)
@@ -67,7 +67,7 @@ National Science Foundation, since 2023
     - Participated to 7th & 8th National Scout Jamborees, conducted by Sri Lanka Scout Association in 2006 & 2010
     - Participated to 23rd J.J.P. Dehigama Memorial International Orienteering Competition, conducted by Kingswood College in association with Sri Lanka Scout Association in 2007
 <br>
-1. Activities in Kingswood College, Sri Lanka from 1997 to 2011
+1. Activities in [Kingswood College](https://kingswood.lk/), Sri Lanka from 1997 to 2011
     - Member of Under 19 Kingswood College Baseball team in 2008
     - Member of Under 13 Kingswood College Gymnastic team in 2001/2002
     - Member of Under 13 Kingswood College Chess team

@@ -17,13 +17,13 @@ topmenu:
   url: "research/"
 
 - title: Training
-  url: "training/"
+  url: "trainings/"
 
 - title: Awards
   url: "awards/"
 
 - title: Service
-  url: "service/"
+  url: "services/"
 
 - title: News
   url: "news/"

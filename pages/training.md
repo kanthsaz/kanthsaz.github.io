@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: "/training/"
+permalink: "/trainings/"
 title: "Trainings & Softwares"
 # image: assets/images/screenshot.png
 ---
@@ -80,7 +80,13 @@ University of Peradeniya, Sri Lanka 2013
 
 1. Developing Leadership Qualities & Positive Thinking<br>
 Two-week Residential Training<br>
-Ministry of Higher Education, Anuradhapura, Sri Lanka 2013<br>
+Ministry of Higher Education, Anuradhapura, Sri Lanka 2013
+
+1. Diploma in Informational Technology with E-Commerce<br>
+[ESOFT](https://esoft.lk/), Sri Lanka 2012
+
+1. Diploma in English - Level III<br>
+[American College of Higher Education](https://americancollege.lk/), Sri Lanka 2008<br>
 
 [↑ back to top](#top)
 

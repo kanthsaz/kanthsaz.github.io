@@ -54,6 +54,8 @@ For the most up-to-date version, please visit my [Google Scholar page](https://s
 
 ## Conference - Posters
 
+1. Enhancing Soil Property Prediction Accuracy Using Calibration Transfer in Mid-Infrared Diffuse Reflectance Spectroscopy, Yasas Gamagedara, Nuwan Wijewardane, Gary Feng, Mary Love Tagert, and Vitor S. Martins, 2024, Spring Graduate Research Symposium, Graduate Student Association of Mississippi State University, Starkville, Mississippi, February 15, 2024.
+
 1. Investigating the Feasibility of Using Mid-Infrared Fine-Ground Soil Spectra to Predict Non-Fine-Ground Soil Spectra, Yasas Gamagedara, Nuwan Wijewardane, Mary Love Tagert, Vitor S. Martins, and Gary Feng, 2023, Fall Graduate Research Symposium, Graduate Student Association of Mississippi State University, Starkville, Mississippi, October 21, 2023.
 
 1. Use of a Large Mid-Infrared Soil Spectral Library for Dynamic and Hydrological Soil Property Estimations in Mississippi and Texas, Yasas Gamagedara, Nuwan Wijewardane, Cathy Seybold, Travis Waiser, and Michael Williams, 2023, National Cooperative Soil Survey National Conference, USDA-Natural Resources Conservation Service, Bismarck, North Dakota, July 9–13, 2023.
