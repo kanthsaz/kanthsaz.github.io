@@ -30,7 +30,7 @@ National Science Foundation, since 2023
 1. Treasurer of the [Old Kingswoodians’ Scout Association](https://kingswoodoldscouts.org/), Kingswood College, Sri Lanka, from January 2019 to November 2021
 
 1. Student Coordinator of the [Agriculture Faculty Students’ Union](https://agri.pdn.ac.lk/), University of Peradeniya, Sri Lanka in 2015/2016
-    - Organized Indeewari musical show for raising funds for Needy university students’ scholarship programme, and arranged “Rali Bimen Samabimata” educational assistance programme for rural school students in Sri Lanka
+    - Organized Indeewari musical show for raising funds for Needy university students’ scholarship program, and arranged “Rali Bimen Samabimata” educational assistance program for rural school students in Sri Lanka
 
 1. Junior Treasurer of the Chess Society, [Faculty of Agriculture](https://agri.pdn.ac.lk/), University of Peradeniya, Sri Lanka in 2015
 
@@ -61,7 +61,7 @@ National Science Foundation, since 2023
     - Annual Scout Camp, Kingswood College in 2007 (Best camper)
     - Under 15 Long Jump event, All Island Scouts Sports/ Swimming Meet in 2006 (2nd place)
     - Kingswood Scouts team member in “ADHERENCE TO NATURE” Exploration Competition, organized by St. Joseph’s Balika Maha Vidyalaya, Kegalle in 2006 (2nd place)
-    - Kingswood Scouts team member in Orientation Programme, organized by University Explorers’ Club, University of Peradeniya in 2005 (3rd place)
+    - Kingswood Scouts team member in Orientation Program, organized by University Explorers’ Club, University of Peradeniya in 2005 (3rd place)
     - 22nd J.J.P. Dehigama Memorial Orienteering Competition, organized by Kingswood College in 2006 (2nd place)
     - Participated to Rover Peace Baton, conducted by World Scout Bureau/ Asia-Pacific Region in 2006
     - Participated to 7th & 8th National Scout Jamborees, conducted by Sri Lanka Scout Association in 2006 & 2010

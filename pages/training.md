@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: "/trainings/"
-title: "Trainings & Softwares"
+title: "Trainings & Software"
 # image: assets/images/screenshot.png
 ---
 
@@ -19,7 +19,7 @@ Principles of Agricultural and Off-Road Machines (ABE 2173) course in Fall 2024
 1. Savvy Science Writing: How to Identify and Avoid Less Obvious Plagiarism<br>
 Mississippi State University [Libraries](https://www.library.msstate.edu/) 2024
 
-1. [Online Teaching 101](https://www.ctl.msstate.edu/communities-practice/online-teaching-101): Best Practices in Online Instrcution<br>
+1. [Online Teaching 101](https://www.ctl.msstate.edu/communities-practice/online-teaching-101): Best Practices in Online Instruction<br>
 The Center for Teaching and Learning<br>
 Mississippi State University in 2023
 
@@ -34,7 +34,7 @@ Mississippi State University in Fall 2023
 
 1. Drone Image Processing for Produced a Crop Health Map in QGIS<br>
 Faculty of Agriculture & Plantation Management<br>
-[Wayamba Unuversity of Sri Lanka](https://www.wyb.ac.lk/) 2021
+[Wayamba University of Sri Lanka](https://www.wyb.ac.lk/) 2021
 
 1. Earth Observations for Sustainable Development in Developing Countries<br>
 International Training - Online<br>
@@ -43,10 +43,10 @@ International Training - Online<br>
 1. [Python](https://www.pirple.com/) is Easy<br>
 Online Course 2020
 
-1. Waste Management During Covid-19 Pandamic Webinar<br>
-[United Nations Environement Program](https://www.unep.org/) 2020
+1. Waste Management During Covid-19 Pandemic Webinar<br>
+[United Nations Environment Program](https://www.unep.org/) 2020
 
-1. Roadmap for Enviornmental Sustainability and Sustainable Development Training<br>
+1. Roadmap for Environmental Sustainability and Sustainable Development Training<br>
 [Green Building Council of Sri Lanka](https://www.srilankagbc.org/) 2020
 
 1. Agri-Tourism Training<br>
@@ -71,7 +71,7 @@ Five-day Residential Training<br>
 
 1. Agricultural Field Work and Socialization Training<br>
 Six-month Residential Training<br>
-[Maha-Illuppallama Sub Campus](https://agri.pdn.ac.lk/mi/), Faculty of Agriculture<br>
+[Mahailuppallama Sub Campus](https://agri.pdn.ac.lk/mi/), Faculty of Agriculture<br>
 University of Peradeniya, Sri Lanka 2013
 
 1. Leadership and Team Development<br>
@@ -94,7 +94,7 @@ Ministry of Higher Education, Anuradhapura, Sri Lanka 2013
 
 1. AutoCAD
 1. ArcGIS/ QGIS
-1. Pyhton
+1. Python
 1. Arduino
 1. LabView
 1. R

@@ -5,7 +5,7 @@ title: "Research"
 # image: assets/images/screenshot.png
 ---
 
-Below are my current published research work.
+Below is my current published research work.
 For the most up-to-date version, please visit my [Google Scholar page](https://scholar.google.com/citations?user=5Ftw3bwAAAAJ&hl=en).
 
 ## Journal Papers
@@ -66,7 +66,7 @@ For the most up-to-date version, please visit my [Google Scholar page](https://s
 
 [↑ back to top](#top)
 
-## Non Technical
+## Non-Technical
 
 1. Assessing Methane Emission from a Dumpsite for the Betterment of Adjacent Dwellers and the Environment, Gamagedara K.Y.B., 2017, Hanthana Blossoms: Best Research Briefs, Volume 1, Issue 1, at Faculty of Agriculture Undergraduate Research Symposium, University of Peradeniya.
 

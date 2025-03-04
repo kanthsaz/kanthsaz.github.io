@@ -7,7 +7,7 @@ permalink: "/about/"
 
 <script src="/pages/md-gallery.js"></script>
 
-I am a Graduate Research Assisstant at the [Department of Agricultural and Biological Engineering](https://www.abe.msstate.edu/), [Mississippi State University](https://www.msstate.edu/). I work at the [Advanced Plant and Soil Sensing Lab](https://apsslab.abe.msstate.edu/).
+I am a Graduate Research Assistant at the [Department of Agricultural and Biological Engineering](https://www.abe.msstate.edu/), [Mississippi State University](https://www.msstate.edu/). I work at the [Advanced Plant and Soil Sensing Lab](https://apsslab.abe.msstate.edu/).
 
 My research involved enabling the use of [USDA-NSSC-KSSL Mid-infrared spectral library](https://soilspectroscopy.org/the-nssc-kssl-mir-spectral-library/) for USDA-NRCS field officers at Mississippi and Texas.
 

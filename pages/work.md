@@ -50,11 +50,11 @@ Client: Central Environmental Testing and Consultancy Pvt. Ltd., Kandy, Sri Lank
 
 * 2019 May – 2019 October<br>
 Exposed functions: Development of landfill rehabilitation plans for Karadiyana controlled dump, Piliyandala which is managed by Waste Management Authority of Western Province, Sri Lanka<br>
-Client: National Building Research Organisation, Colombo, Sri Lanka
+Client: National Building Research Organization, Colombo, Sri Lanka
 
 * 2019 May – 2019 October<br>
 Exposed functions: Development of landfill rehabilitation plans for Meethotamulla (Colombo) and Sundarapola (Kurunegala) Dumpsites, Sri Lanka<br>
-Client: National Building Research Organisation, Colombo, Sri Lanka and Kurunegala Municipal Council, Kurunegala, Sri Lanka
+Client: National Building Research Organization, Colombo, Sri Lanka and Kurunegala Municipal Council, Kurunegala, Sri Lanka
 
 * 2019 May – 2019 July<br>
 Exposed functions: Development of manure and nutrient management plan for modernized dairy farm facilities in Ambewela farm complex<br>
@@ -89,7 +89,7 @@ Client: EX Research Institute, Tokyo, Japan
 ## Assistant Consultant<br><a href="https://www.exri.co.jp/en" target="_blank">EX Research Institute Limited</a><br>Tokyo, Japan
 
 * 2018 January – 2018 November<br>
-Exposed functions: Assisting a pilot project of 3Rs (Reduce, Reuse, Recycle) promotion in Ratnapura Municipal Council under the project of Pollution Control and Reduction of Environmental Burden in Solid Waste Management in Sri Lanka <a href="https://digital.detritusjournal.com/articles/evaluation-of-organic-and-recyclable-waste-separation-at-generation-source-in-ratnapura-and-kataraga/359" target="_blank">(Paper)</a>.
+Exposed functions: Assisting a pilot project of 3Rs (Reduce, Reuse, Recycle) promotion in Ratnapura Municipal Council under the project of Pollution Control and Reduction of Environmental Burden in Solid Waste Management in Sri Lanka <a href="https://digital.detritusjournal.com/articles/evaluation-of-organic-and-recyclable-waste-separation-at-generation-source-in-ratnapura-and-kataraga/359" target="_blank">(Paper)</a>
 
 * 2017 June – 2018 February<br>
 Exposed functions: Assisting a feasibility study on construction of a system for collection and treatment of used fluorocarbons in order to introduce an energy-saving equipment with natural or low global warming potential refrigerants in Sri Lanka
@@ -120,7 +120,7 @@ Exposed functions: Gained the knowledge in agricultural products and equipment t
 ## Teaching Assisstant<br><a href="https://agri.pdn.ac.lk/agen/" target="_blank">Department of Agricultural Engineering</a><br>University of Peradeniya, Sri Lanka
 
 * 2017 February – 2017 March<br>
-Exposed function: Demosntrated the lectures in theoritically and practically to undergraduates according to the guidance of academic staff. Extended all assistance to the University Authorities to maintain and promote student welfare services and discipline
+Exposed function: Demonstrated the lectures in theoretically and practically to undergraduates according to the guidance of academic staff. Extended all assistance to the University Authorities to maintain and promote student welfare services and discipline
 
 [↑ back to top](#top)
 
