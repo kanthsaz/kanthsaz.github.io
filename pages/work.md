@@ -10,7 +10,7 @@ Below are the projects I have been involved in with private and government insti
 ## Graduate Research Assistant<br><a href="https://www.abe.msstate.edu/" target="_blank">Department of Ag. & Bio. Engineering</a><br>Mississippi State University, USA
 
 * 2022 - 2025<br>
-Exposed functions: soil sampling, laboratory analysis, soil spectroscopy, python programming
+Exposed functions: Soil sampling, laboratory analysis, soil spectroscopy, Python programming
 
 [↑ back to top](#top)
 

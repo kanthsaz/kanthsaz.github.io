@@ -36,7 +36,7 @@ title: "Education"
     </div>
     <div style="flex: 1; text-align: left; display: flex; align-items: center;">
         <div>
-            <h3 style="margin: 0;">MBA in General<br>2020-2021</h3>
+            <h3 style="margin: 0;">Master of Business Administration<br>2020-2021</h3>
             <p style="margin: 0;">
                 <a href="https://www.cardiffmet.ac.uk/Pages/default.aspx" target="_blank">Cardiff Metropolitan University</a>, United Kingdom<br>
                 Research work – Tangibles and Other Strategic Resources as Indicators of Firm’s Performance: Case Study in Sri Lankan Listed Companies<br>
@@ -91,7 +91,7 @@ title: "Education"
 
 <br>
 
-  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <!-- <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 0 0 120px; margin-right: 30px;">
         <a href="https://kingswood.lk/" target="_blank">
             <img src="/assets/images/education/kingswood_college.png" alt="Kingswood College" style="width: 120px; border-radius: 8px;">
@@ -107,6 +107,6 @@ title: "Education"
     </div>
   </div>
 
-</div>
+</div> -->
 
 [↑ back to top](#top)
