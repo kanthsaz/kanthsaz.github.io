@@ -105,8 +105,8 @@ title: "Education"
             </p>
         </div>
     </div>
-  </div>
+  </div> -->
 
-</div> -->
+</div>
 
 [↑ back to top](#top)
