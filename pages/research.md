@@ -5,8 +5,8 @@ title: "Research"
 # image: assets/images/screenshot.png
 ---
 
-Below is my current published research work.
-For the most up-to-date version, please visit my [Google Scholar page](https://scholar.google.com/citations?user=5Ftw3bwAAAAJ&hl=en).
+Below are my published research works.
+For the most up-to-date list, please visit my [Google Scholar page](https://scholar.google.com/citations?user=5Ftw3bwAAAAJ&hl=en).
 
 ## Journal Papers
 
