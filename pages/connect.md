@@ -5,10 +5,10 @@ permalink: "/connect/"
 # image: assets/images/screenshot.png
 ---
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; max-width: 1000px; margin: auto; gap: 20px; padding: 10px;">
+<div style="display: flex; flex-direction: column; align-items: center; max-width: 1000px; margin: auto; padding: 10px; text-align: center;">
 
   <!-- Badges Section -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; flex: 1;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <a href="https://www.linkedin.com/in/kanthakeyasas">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" style="max-width: 180px;">
     </a>
@@ -41,9 +41,9 @@ permalink: "/connect/"
     </a>
   </div>
 
-  <!-- Instagram Post Section -->
-  <div style="flex: 1; max-width: 100%; margin-left: 20px; text-align: center;">
-    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/kanthsaz/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style="max-width: 100%; min-width: 300px; margin: auto;">
+  <!-- Instagram Post Section (Below the Buttons) -->
+  <div style="max-width: 540px; margin-top: 20px; width: 100%;">
+    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/kanthsaz/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style="width: 100%; min-width: 300px; margin: auto;">
     </blockquote>
     <script async src="//www.instagram.com/embed.js"></script>
   </div>
@@ -53,12 +53,6 @@ permalink: "/connect/"
 <!-- Responsive CSS -->
 <style>
   @media (max-width: 768px) {
-    div {
-      flex-direction: column !important;
-      align-items: center;
-      justify-content: center;
-      text-align: center;
-    }
     .instagram-media {
       max-width: 100% !important;
       margin-top: 20px;

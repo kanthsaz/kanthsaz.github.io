@@ -8,7 +8,7 @@ title: "News & Engaging Moments"
   <button style="cursor: pointer; padding: 10px 15px; margin: 0 5px; border: 2px solid white; background-color: black; color: white; border-radius: 5px; transition: background-color 0.3s; font-weight: bold;"
           onmouseover="this.style.backgroundColor='white'; this.style.color='black'" 
           onmouseout="this.style.backgroundColor='black'; this.style.color='white'" 
-          onclick="scrollToYear('2024')">2025</button>
+          onclick="scrollToYear('2025')">2025</button>
   <button style="cursor: pointer; padding: 10px 15px; margin: 0 5px; border: 2px solid white; background-color: black; color: white; border-radius: 5px; transition: background-color 0.3s; font-weight: bold;"
           onmouseover="this.style.backgroundColor='white'; this.style.color='black'" 
           onmouseout="this.style.backgroundColor='black'; this.style.color='white'" 
