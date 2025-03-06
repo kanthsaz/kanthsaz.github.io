@@ -8,6 +8,10 @@ title: "News & Engaging Moments"
   <button style="cursor: pointer; padding: 10px 15px; margin: 0 5px; border: 2px solid white; background-color: black; color: white; border-radius: 5px; transition: background-color 0.3s; font-weight: bold;"
           onmouseover="this.style.backgroundColor='white'; this.style.color='black'" 
           onmouseout="this.style.backgroundColor='black'; this.style.color='white'" 
+          onclick="scrollToYear('2024')">2025</button>
+  <button style="cursor: pointer; padding: 10px 15px; margin: 0 5px; border: 2px solid white; background-color: black; color: white; border-radius: 5px; transition: background-color 0.3s; font-weight: bold;"
+          onmouseover="this.style.backgroundColor='white'; this.style.color='black'" 
+          onmouseout="this.style.backgroundColor='black'; this.style.color='white'" 
           onclick="scrollToYear('2024')">2024</button>
   <button style="cursor: pointer; padding: 10px 15px; margin: 0 5px; border: 2px solid white; background-color: black; color: white; border-radius: 5px; transition: background-color 0.3s; font-weight: bold;"
           onmouseover="this.style.backgroundColor='white'; this.style.color='black'" 
@@ -33,6 +37,20 @@ title: "News & Engaging Moments"
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
+  <!-- ASABE Resource Magazine 2025 -->
+  <div id="2024" style="flex: 1 1 100%; text-align: center;">
+    <p>
+      <a href="https://www.asabe.org/visualchallenge" target="_blank">
+        ASABE Resource Magazine - Visual Challenge</a><br>
+        Jan/Feb 2025 Issue<br>
+    </p>
+    <img src="/assets/images/news/asabe_resource_magazine_2025.png" alt="ASABE Resource Magazine 2025" style="width: 100%; height: auto;">
+    <hr style="border: none; border-top: 3px solid #000000; margin: 20px 0;">
+    <div style="margin-top: 10px; text-align: left;">
+      <a href="#top" style="text-decoration: none; color: black;">[↑ back to top]</a>
+    </div>
+  </div>
+
   <!-- ASABE Resource Magazine 2024 -->
   <div id="2024" style="flex: 1 1 100%; text-align: center;">
     <p>
@@ -40,7 +58,7 @@ title: "News & Engaging Moments"
         ASABE Resource Magazine - Visual Challenge</a><br>
         Jan/Feb 2024 Issue<br>
     </p>
-    <img src="/assets/images/news/asabe_resource_magazine.png" alt="ASABE Resource Magazine 2024" style="width: 100%; height: auto;">
+    <img src="/assets/images/news/asabe_resource_magazine_2024.png" alt="ASABE Resource Magazine 2024" style="width: 100%; height: auto;">
     <hr style="border: none; border-top: 3px solid #000000; margin: 20px 0;">
     <div style="margin-top: 10px; text-align: left;">
       <a href="#top" style="text-decoration: none; color: black;">[↑ back to top]</a>

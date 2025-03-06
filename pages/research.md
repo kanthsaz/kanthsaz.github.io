@@ -6,7 +6,7 @@ title: "Research"
 ---
 
 Below are my published research works.
-For the most up-to-date list, please visit my [Google Scholar page](https://scholar.google.com/citations?user=5Ftw3bwAAAAJ&hl=en).
+For the most up-to-date list, please visit my [Google Scholar](https://scholar.google.com/citations?user=5Ftw3bwAAAAJ&hl=en) page.
 
 ## Journal Papers
 
@@ -54,7 +54,7 @@ For the most up-to-date list, please visit my [Google Scholar page](https://scho
 
 ## Conference - Posters
 
-1. Enhancing Soil Property Prediction Accuracy Using Calibration Transfer in Mid-Infrared Diffuse Reflectance Spectroscopy, Yasas Gamagedara, Nuwan Wijewardane, Gary Feng, Mary Love Tagert, and Vitor S. Martins, 2024, Spring Graduate Research Symposium, Graduate Student Association of Mississippi State University, Starkville, Mississippi, February 15, 2024.
+1. Enhancing Soil Property Prediction Accuracy Using Calibration Transfer Between Mid-Infrared Diffuse Reflectance Spectroscopy, Yasas Gamagedara, Nuwan Wijewardane, Gary Feng, Mary Love Tagert, and Vitor S. Martins, 2024, Spring Graduate Research Symposium, Graduate Student Association of Mississippi State University, Starkville, Mississippi, February 15, 2024.
 
 1. Investigating the Feasibility of Using Mid-Infrared Fine-Ground Soil Spectra to Predict Non-Fine-Ground Soil Spectra, Yasas Gamagedara, Nuwan Wijewardane, Mary Love Tagert, Vitor S. Martins, and Gary Feng, 2023, Fall Graduate Research Symposium, Graduate Student Association of Mississippi State University, Starkville, Mississippi, October 21, 2023.
 
