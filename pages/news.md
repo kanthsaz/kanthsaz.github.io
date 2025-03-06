@@ -82,7 +82,7 @@ title: "News & Engaging Moments"
   <!-- SSN Newsletter 2024 -->
   <div id="2024" style="flex: 1 1 100%; text-align: center;">
     <p>
-      <a href="https://www.abe.msstate.edu/category/news/newsletter/" target="_blank">
+      <a href="https://soilforsociety.org/resources/#newsletters/" target="_blank">
         Newsletter of Soil for Society</a><br>
         Spring 2024
     </p>
