@@ -5,10 +5,10 @@ permalink: "/connect/"
 # image: assets/images/screenshot.png
 ---
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; max-width: 1000px; margin: auto; gap: 10px;">
+<!-- <div style="display: flex; flex-wrap: wrap; justify-content: center; max-width: 1000px; margin: auto; gap: 10px;">
 
   <!-- Badges Section -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <!-- <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <a href="https://www.linkedin.com/in/kanthakeyasas">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge">
     </a>
@@ -39,10 +39,9 @@ permalink: "/connect/"
     <a href="https://www.youtube.com/@kanthakeyasas">
       <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge">
     </a>
-  </div>
-</div>
+  </div> -->
+<!-- </div> -->
 
-<!-- 
 <div style="display: flex; justify-content: space-between; max-width: 1000px; margin: auto;">
 
   <!-- Badges Section -->
@@ -87,7 +86,7 @@ permalink: "/connect/"
         <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge">
       </a>
     </p>
-  </div> -->
+  </div>
 
   <!-- Instagram Post Section -->
   <div style="flex: 1; max-width: 540px; margin-left: 20px;">
