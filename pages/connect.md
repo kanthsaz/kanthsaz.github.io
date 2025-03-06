@@ -7,8 +7,8 @@ permalink: "/connect/"
 
 <div style="display: flex; flex-direction: column; align-items: center; max-width: 1000px; margin: auto; padding: 10px; text-align: center;">
 
-  <!-- Badges Section (Now in 3 Rows) -->
-  <div style="display: grid; grid-template-columns: repeat(3, auto); gap: 10px; justify-content: center;">
+  <!-- Badges Section -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <a href="https://www.linkedin.com/in/kanthakeyasas">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" style="max-width: 180px;">
     </a>
@@ -56,21 +56,6 @@ permalink: "/connect/"
     .instagram-media {
       max-width: 100% !important;
       margin-top: 20px;
-    }
-    div {
-      text-align: center;
-    }
-    /* Adjusts badge layout to 2 columns on smaller screens */
-    .badges-container {
-      display: grid !important;
-      grid-template-columns: repeat(2, auto) !important;
-    }
-  }
-
-  @media (max-width: 480px) {
-    /* Adjusts badge layout to 1 column on very small screens */
-    .badges-container {
-      grid-template-columns: repeat(1, auto) !important;
     }
   }
 </style>
