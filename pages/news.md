@@ -38,7 +38,7 @@ title: "News & Engaging Moments"
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <!-- ASABE Resource Magazine 2025 -->
-  <div id="2024" style="flex: 1 1 100%; text-align: center;">
+  <div id="2025" style="flex: 1 1 100%; text-align: center;">
     <p>
       <a href="https://www.asabe.org/visualchallenge" target="_blank">
         ASABE Resource Magazine - Visual Challenge</a><br>

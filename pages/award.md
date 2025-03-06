@@ -158,7 +158,7 @@ title: "Awards & Memberships"
         Since January 2022
       </p>
       <a href="https://www.agronomy.org/" target="_blank">
-        <img src="/assets/images/memberships/asa.jpg" alt="American Society of Agronomy">
+        <img src="/assets/images/memberships/asa.png" alt="American Society of Agronomy">
       </a>
     </div>
 
