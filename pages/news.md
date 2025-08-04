@@ -44,11 +44,11 @@ title: "News & Engaging Moments"
         ESIIL Short Course </a><br>2025
     </p>
     <!-- Embed the HTML map using iframe -->
-    <iframe src="/assets/news/NDVI_Difference_Bengaluru.html"
-            width="100%" height="600px"
-            style="border: 2px solid #ccc; margin-top: 15px;"
-            title="NDVI Interactive Map - ESIIL Short Course 2025"
-            loading="lazy"></iframe>
+   <iframe src="/news/NDVI_Difference_Bengaluru.html"
+        width="100%" height="600px"
+        style="border: 2px solid #ccc; margin-top: 15px;"
+        title="NDVI Interactive Map - ESIIL Short Course 2025"
+        loading="lazy"></iframe>
     <hr style="border: none; border-top: 3px solid #000000; margin: 20px 0;">
     <div style="margin-top: 10px; text-align: left;">
       <a href="#top" style="text-decoration: none; color: black;">[↑ back to top]</a>
