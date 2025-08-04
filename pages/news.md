@@ -40,10 +40,10 @@ title: "News & Engaging Moments"
  <!-- ESIIL Short Course 2025 -->
   <div id="2025" style="flex: 1 1 100%; text-align: center;">
     <p>
-      <a href="/assets/news/NDVI_Difference_Bengaluru.html" target="_blank">
-        NDVI Interactive Map of ESIIL Short Course 2025</a><br>
+      NDVI Interactive Map - <a href="https://earthdatascience.org/" target="_blank">
+        ESIIL Short Course </a>2025<br>
     </p>
-    <img src="/assets/images/news/asabe_resource_magazine_2025.png" alt="ASABE Resource Magazine 2025" style="width: 100%; height: auto;">
+    <img src="/assets/news/NDVI_Difference_Bengaluru.html" alt="NDVI Interactive Map - ESIIL Short Course 2025" style="width: 100%; height: auto;">
     <hr style="border: none; border-top: 3px solid #000000; margin: 20px 0;">
     <div style="margin-top: 10px; text-align: left;">
       <a href="#top" style="text-decoration: none; color: black;">[↑ back to top]</a>
