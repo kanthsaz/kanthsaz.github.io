@@ -44,10 +44,10 @@ title: "News & Engaging Moments"
       <a href="https://earthdatascience.org/" target="_blank">
         ESIIL Short Course </a><br>2025
     </p>
-    <iframe src="/assets/images//news/NDVI_Bengaluru.html"
+    <iframe src="/news/NDVI_Difference_Bengaluru.html"
         width="100%" height="900"
-        style="border: 2px solid #ccc; margin-top: 15px;"
-        title="NDVI Map - ESIIL Short Course 2025"
+        style="border: 2px solid #ccc; margin-top: 15px; max-width: 1000px; margin-left: auto; margin-right: auto; display: block;"
+        title="NDVI Interactive Map - ESIIL Short Course 2025"
         loading="lazy"></iframe>
     <hr style="border: none; border-top: 3px solid #000000; margin: 20px 0;">
     <div style="margin-top: 10px; text-align: left;">
