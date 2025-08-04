@@ -44,7 +44,7 @@ title: "News & Engaging Moments"
         ESIIL Short Course </a><br>2025
     </p>
     <!-- Embed the HTML map using iframe -->
-    <iframe src="/news/NDVI_Difference_Bengaluru.html"
+    <iframe src="/assets/images/news/NDVI_Bengaluru.html"
             width="100%" height="600"
             style="border: 2px solid #ccc; margin-top: 15px;"
             title="NDVI Interactive Map - ESIIL Short Course 2025"
