@@ -37,19 +37,22 @@ title: "News & Engaging Moments"
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
- <!-- ESIIL Short Course 2025 -->
-  <div id="2025" style="flex: 1 1 100%; text-align: center;">
-    <p>
-      NDVI Interactive Map - <a href="https://earthdatascience.org/" target="_blank">
-        ESIIL Short Course </a><br>2025
+  <!-- ESIIL Short Course 2025 Map Block -->
+  <div id="2025" style="flex: 1 1 100%; text-align: center; margin-top: 40px;">
+    <p style="font-size: 1.2em; font-weight: bold;">
+      NDVI Interactive Map – 
+      <a href="https://earthdatascience.org/" target="_blank" style="text-decoration: underline; color: #0044cc;">
+        ESIIL Short Course
+      </a><br>2025
     </p>
-    <!-- Embed the HTML map using iframe -->
-   <iframe src="/news/NDVI_Difference_Bengaluru.html"
-        width="100%" height="600px"
-        style="border: 2px solid #ccc; margin-top: 15px;"
-        title="NDVI Interactive Map - ESIIL Short Course 2025"
-        loading="lazy"></iframe>
-    <hr style="border: none; border-top: 3px solid #000000; margin: 20px 0;">
+
+    <iframe src="/news/NDVI_Difference_Bengaluru.html"
+            width="100%" height="600"
+            style="border: 2px solid #ccc; margin-top: 15px;"
+            title="NDVI Interactive Map - ESIIL Short Course 2025"
+            loading="lazy"></iframe>
+
+    <hr style="border: none; border-top: 3px solid #000; margin: 30px 0;">
     <div style="margin-top: 10px; text-align: left;">
       <a href="#top" style="text-decoration: none; color: black;">[↑ back to top]</a>
     </div>
