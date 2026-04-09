@@ -53,11 +53,11 @@ title: "Services & Extra Curricular Activities"
 
 1. Member of [Kingswood Scout Troop](https://kingswoodoldscouts.org/randles-scouts/), Sri Lanka from 2002 to 2011
 
-1. Member of Under 19 Baseball team of [Kingswood College](https://kingswood.lk/), Sri Lanka in 2008
+1. Member of under 19 Baseball team of [Kingswood College](https://kingswood.lk/), Sri Lanka in 2008
 
-1. Member of Under 13 Gymnastic team of [Kingswood College](https://kingswood.lk/), Sri Lanka in 2001/2002
+1. Member of under 13 Gymnastic team of [Kingswood College](https://kingswood.lk/), Sri Lanka in 2001/2002
 
-1. Member of Under 13 Chess team of [Kingswood College](https://kingswood.lk/), Sri Lanka
+1. Member of under 13 Chess team of [Kingswood College](https://kingswood.lk/), Sri Lanka
 
 [↑ back to top](#top)
 
