@@ -12,29 +12,28 @@ For the most up-to-date list, please visit my [Google Scholar](https://scholar.g
 
 1. <strong>Yasas Gamagedara</strong>, Gary Feng, Travis Waiser, Michael Williams, Mary Love Tagert, Vitor S. Martins, and Nuwan K. Wijewardane, (2025), Spectroscopy-based models outperform pedotransfer functions for estimating soil hydraulic properties (Accepted).
 
-1. <strong>Yasas Gamagedara</strong>, Gary Feng, Travis Waiser, Mary Love Tagert, Vitor S. Martins, and Nuwan K. Wijewardane, (2025), Application of Calibration Transfer Techniques between Different Mid-Infrared Spectrometers/Modules to Improve Accuracy in Estimating Soil Properties, Soil Science Society of America Journal, 89, e70147. DOI: [10.1002/saj2.70147]( https://doi.org/10.1002/saj2.70147){:target="_blank"}
+1. <strong>Yasas Gamagedara</strong>, Gary Feng, Travis Waiser, Mary Love Tagert, Vitor S. Martins, and Nuwan K. Wijewardane, (2025), Application of Calibration Transfer Techniques between Different Mid-Infrared Spectrometers/Modules to Improve Accuracy in Estimating Soil Properties, Soil Science Society of America Journal, 89, e70147. DOI: <a href="https://doi.org/10.1002/saj2.70147" target="_blank">10.1002/saj2.70147</a>
 
-1. <strong>Yasas Gamagedara</strong>, Nuwan K. Wijewardane, Gary Feng, Cathy Seybold, Michael Williams, Mary Love Tagert, and Vitor S. Martins, (2024), Can We Use a Mid-Infrared Fine-Ground Soil Spectral Library to Predict Non-Fine-Ground Spectra?, Geoderma, 443, 116799, ISSN 0016-7061. DOI: [10.1016/j.geoderma.2024.116799](https://doi.org/10.1016/j.geoderma.2024.116799){:target="_blank"}
-
+1. <strong>Yasas Gamagedara</strong>, Nuwan K. Wijewardane, Gary Feng, Cathy Seybold, Michael Williams, Mary Love Tagert, and Vitor S. Martins, (2024), Can We Use a Mid-Infrared Fine-Ground Soil Spectral Library to Predict Non-Fine-Ground Spectra?, Geoderma, 443, 116799, ISSN 0016-7061. DOI: <a href="https://doi.org/10.1016/j.geoderma.2024.116799" target="_blank">10.1016/j.geoderma.2024.116799</a>
 [↑ back to top](#top)
 
 #### Working Reports/ Case Studies
 
-1. Anurudda Karunarathna, Thilini Rajapaksha, <strong>Yasas Gamagedara</strong>, Shenal Kaldera, and Nadeesha Vidanage, (2021), Challenges and Opportunities of Source-Segregated Waste Collection in Sri Lanka, IGES Centre Collaborating with UNEP on Environmental Technologies (CCET). [Report](https://www.ccet.jp/publications/challenges-and-opportunities-source-segregated-waste-collection-sri-lanka){:target="_blank"}
+1. Anurudda Karunarathna, Thilini Rajapaksha, <strong>Yasas Gamagedara</strong>, Shenal Kaldera, and Nadeesha Vidanage, (2021), Challenges and Opportunities of Source-Segregated Waste Collection in Sri Lanka, IGES Centre Collaborating with UNEP on Environmental Technologies (CCET). <a href="https://www.ccet.jp/publications/challenges-and-opportunities-source-segregated-waste-collection-sri-lanka" target="_blank" rel="noopener noreferrer">[Report]</a>
 
-1. Anurudda Karunarathna, Thilini Rajapaksha, <strong>Yasas Gamagedara</strong>, Shenal Kaldera, and Nadeesha Vidanage, (2020), Effective Plastic Waste Management in Sri Lanka, IGES Centre Collaborating with UNEP on Environmental Technologies (CCET). [Report](https://www.ccet.jp/publications/effective-plastic-waste-management-sri-lanka){:target="_blank"}
+1. Anurudda Karunarathna, Thilini Rajapaksha, <strong>Yasas Gamagedara</strong>, Shenal Kaldera, and Nadeesha Vidanage, (2020), Effective Plastic Waste Management in Sri Lanka, IGES Centre Collaborating with UNEP on Environmental Technologies (CCET). <a href="https://www.ccet.jp/publications/effective-plastic-waste-management-sri-lanka" target="_blank" rel="noopener noreferrer">[Report]</a>
 
-1. Anurudda Karunarathna, Thilini Rajapaksha, <strong>Yasas Gamagedara</strong>, Shenal Kaldera, and Nadeesha Vidanage, (2020), Towards Sustainable Operation & Management of Centralized Composting in Sri Lanka, IGES Centre Collaborating with UNEP on Environmental Technologies (CCET).  [Report](https://www.ccet.jp/publications/towards-sustainable-operation-and-management-centralized-composting-sri-lanka){:target="_blank"}
+1. Anurudda Karunarathna, Thilini Rajapaksha, <strong>Yasas Gamagedara</strong>, Shenal Kaldera, and Nadeesha Vidanage, (2020), Towards Sustainable Operation & Management of Centralized Composting in Sri Lanka, IGES Centre Collaborating with UNEP on Environmental Technologies (CCET). <a href="https://www.ccet.jp/publications/towards-sustainable-operation-and-management-centralized-composting-sri-lanka" target="_blank" rel="noopener noreferrer">[Report]</a>
 
-1. Aheeyar, M., Manthrithilake, H., Ranasinghe, C., Rengaraj, M., <strong>Gamagedara, Y.</strong>, and Barron, J., (2019), Mechanizing Water Lifting through Pumps: A Case Study in Sri Lanka: International Water Management Institute (IWMI). 61p. (IWMI Working Paper 188). DOI: [10.5337/2019.206](https://www.iwmi.cgiar.org/publications/iwmi-working-papers/iwmi-working-paper-188/){:target="_blank"}
+1. Aheeyar, M., Manthrithilake, H., Ranasinghe, C., Rengaraj, M., <strong>Gamagedara, Y.</strong>, and Barron, J., (2019), Mechanizing Water Lifting through Pumps: A Case Study in Sri Lanka: International Water Management Institute (IWMI). 61p. (IWMI Working Paper 188). DOI: <a href="https://www.iwmi.cgiar.org/publications/iwmi-working-papers/iwmi-working-paper-188/" target="_blank">10.5337/2019.206</a>
 
 [↑ back to top](#top)
 
 #### Conference Papers
 
-1. <strong>Gamagedara, Y.</strong>, Wijewardane, N.K., (2025), Comparative Analysis of Raw and Preprocessed Vis–NIR and MIR Spectra for Soil Property Estimation. Biology and Life Sciences Forum 2025, 54, 21. DOI: [10.3390/blsf2025054021](http://doi.org/10.3390/blsf2025054021){:target="_blank"}
+1. <strong>Gamagedara, Y.</strong>, Wijewardane, N.K., (2025), Comparative Analysis of Raw and Preprocessed Vis–NIR and MIR Spectra for Soil Property Estimation. Biology and Life Sciences Forum 2025, 54, 21. DOI: <a href="http://doi.org/10.3390/blsf2025054021" target="_blank">10.3390/blsf2025054021</a>
 
-1. Karunarathna, A., <strong>Gamagedara, Y.</strong>, Mannapperuma, N., Ariyawansha, R., and Basnayake, B.F.A., (2018), Development of a Methane (CH4) Surface Emission Map: A Case Study at Karadiyana Dump Site, Sri Lanka, The 10th Asia-Pacific Landfill Symposium, Tokyo, Japan, 24 – 26, November 2018, pp 291-296. [Article](https://www.exri.co.jp/wp/wp-content/uploads/2018/11/Proceedings_of_APLAS_TOKYO_2018.pdf){:target="_blank"}
+1. Karunarathna, A., <strong>Gamagedara, Y.</strong>, Mannapperuma, N., Ariyawansha, R., and Basnayake, B.F.A., (2018), Development of a Methane (CH4) Surface Emission Map: A Case Study at Karadiyana Dump Site, Sri Lanka, The 10th Asia-Pacific Landfill Symposium, Tokyo, Japan, 24 – 26, November 2018, pp 291-296. <a href="https://www.exri.co.jp/wp/wp-content/uploads/2018/11/Proceedings_of_APLAS_TOKYO_2018.pdf" target="_blank" rel="noopener noreferrer">[Article]</a>
 
 [↑ back to top](#top)
 
