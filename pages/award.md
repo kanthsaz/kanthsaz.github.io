@@ -11,24 +11,28 @@ title: "Awards & Memberships"
   <style>
     .award-container {
       display: flex;
-      align-items: center;
+      align-items: flex-start;
       gap: 20px;
       margin-bottom: 20px;
     }
     .award-text-left, .award-text-right {
       flex: 1;
       display: flex;
-      align-items: center;
+      align-items: flex-start;
       justify-content: center;
     }
     .award-text-left p, .award-text-right p {
-      text-align: center;
+      align-items: flex-start;
       margin: 0;
     }
     .award-image {
       width: 100%;
       max-width: 350px;
+      height: 220px;          /* FIXED HEIGHT */
+      object-fit: contain;    /* keeps proportions (no stretching) */
       border-radius: 10px;
+      background: white;      /* optional – cleaner look */
+      padding: 5px;           /* optional spacing */
     }
   </style>
 
