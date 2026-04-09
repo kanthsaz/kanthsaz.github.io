@@ -5,7 +5,7 @@ title: "Professional Work & Projects"
 # image: assets/images/screenshot.png
 ---
 
-Below are the projects I have been involved in with private and government institutes at both local and international levels.
+Below are some of the projects I have been involved in with academic institutions, government agencies, international organizations, and private companies. 
 
 ### Postdoctoral Research Assistant<br><a href="https://ag.purdue.edu/department/agry/" target="_blank">Department of Agronomy</a><br>Purdue University, USA
 #### 2026 - Present<br>
