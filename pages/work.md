@@ -32,7 +32,13 @@ Below are some of the projects I have been involved in with academic institution
   <li>Implemented the Livelihoods Restoration Plan for the Kandy Multimodal Transport Terminal Project, supporting resettlement and socioeconomic recovery efforts</li>
 </ul>
 
-<p style="margin-bottom: 0;"><strong>Client:</strong> Ministry of Megapolis and Western Development, Sri Lanka, and the World Bank</p>
+<p style="margin-bottom: 5px;"><strong>Clients:</strong></p>
+<ul style="margin-top: 0;">
+  <li>Ministry of Megapolis and Western Development, Sri Lanka</li>
+  <li>World Bank</li>
+</ul>
+
+<p style="margin-bottom: 0;"><strong>Client:</strong> </p>
 
 #### Assistant Consultant<br><a href="https://www.linkedin.com/company/31324840/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BJELLxr2iTyujVAIfxjF3PA%3D%3D" target="_blank">Waste to Energy Technologies Limited</a><br>Battaramulla, Sri Lanka<br>2019 - 2021<br>
 <p style="margin-bottom: 5px;"><strong>Core Responsibilities:</strong></p>
