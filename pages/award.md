@@ -30,7 +30,8 @@ title: "Awards & Memberships"
       max-width: 350px;
       height: 300px;          /* FIXED HEIGHT */
       object-fit: contain;    /* keeps proportions (no stretching) */
-      border-radius: 50px;
+      border-radius: 10px;
+      overflow: hidden;
       background: white;      /* optional – cleaner look */
       padding: 5px;           /* optional spacing */
     }
