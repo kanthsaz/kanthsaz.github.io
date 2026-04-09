@@ -31,7 +31,6 @@ title: "Services & Extra Curricular Activities"
 1. Treasurer of the [Old Kingswoodians’ Scout Association](https://kingswoodoldscouts.org/), Kingswood College, Sri Lanka, from January 2019 to November 2021
 
 1. Student Coordinator of the [Agriculture Faculty Students’ Union](https://agri.pdn.ac.lk/), University of Peradeniya, Sri Lanka in 2015/2016
-    - Organized Indeewari musical show for raising funds for Needy university students’ scholarship program, and arranged “Rali Bimen Samabimata” educational assistance program for rural school students in Sri Lanka
 
 1. Junior Treasurer of the Chess Society, [Faculty of Agriculture](https://agri.pdn.ac.lk/), University of Peradeniya, Sri Lanka in 2015
 
