@@ -5,7 +5,7 @@ title: "Services & Extra Curricular Activities"
 # image: assets/images/screenshot.png
 ---
 
-## Services
+### Services
 
 1. Associate Editor in Biological and Life Science Discipline<br>
 [Endeavors](https://scholarsjunction.msstate.edu/endeavors/): Mississippi State Undergraduate Research Journal, since October 2024
@@ -47,7 +47,7 @@ National Science Foundation, since 2023
 
 [↑ back to top](#top)
 
-## Extra Curricular Activities
+### Extra Curricular Activities
 
 1. Activities in [University of Peradeniya](https://www.pdn.ac.lk/), Sri Lanka  from 2013 to 2016
     - Represented University Baseball team in 2015 & 2016
