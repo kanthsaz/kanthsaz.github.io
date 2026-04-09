@@ -5,7 +5,7 @@ title: "Awards & Memberships"
 # image: assets/images/screenshot.png
 ---
 
-## Awards
+### Awards
 
 <div style="max-width: 800px; margin: auto;">
   <style>
@@ -145,7 +145,7 @@ title: "Awards & Memberships"
 
 [↑ back to top](#top)
 
-## Memberships
+### Memberships
 
 <div style="max-width: 800px; margin: auto;">
   <style>
