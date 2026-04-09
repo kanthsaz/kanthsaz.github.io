@@ -20,7 +20,7 @@ For the most up-to-date list, please visit my [Google Scholar](https://scholar.g
 
 #### Working Reports/ Case Studies
 
-1. Anurudda Karunarathna, Thilini Rajapaksha, <strong>Yasas Gamagedara</strong>, Shenal Kaldera, and Nadeesha Vidanage, (2021), Challenges and Opportunities of Source-Segregated Waste Collection in Sri Lanka, IGES Centre Collaborating with UNEP on Environmental Technologies (CCET). <a href="https://www.ccet.jp/publications/challenges-and-opportunities-source-segregated-waste-collection-sri-lanka" target="_blank" rel="noopener noreferrer">[Report]</a>
+1. Anurudda Karunarathna, Thilini Rajapaksha, <strong>Yasas Gamagedara</strong>, Shenal Kaldera, and Nadeesha Vidanage, (2021), Challenges and Opportunities of Source-Segregated Waste Collection in Sri Lanka, IGES Centre Collaborating with UNEP on Environmental Technologies (CCET). <a href="https://www.ccet.jp/publications/challenges-and-opportunities-source-segregated-waste-collection-sri-lanka" target="_blank" rel="noopener noreferrer">Report</a>
 
 1. Anurudda Karunarathna, Thilini Rajapaksha, <strong>Yasas Gamagedara</strong>, Shenal Kaldera, and Nadeesha Vidanage, (2020), Effective Plastic Waste Management in Sri Lanka, IGES Centre Collaborating with UNEP on Environmental Technologies (CCET). <a href="https://www.ccet.jp/publications/effective-plastic-waste-management-sri-lanka" target="_blank" rel="noopener noreferrer">Report</a>
 
