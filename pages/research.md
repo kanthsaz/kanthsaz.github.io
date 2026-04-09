@@ -8,7 +8,7 @@ title: "Research"
 Below are my published research works.
 For the most up-to-date list, please visit my [Google Scholar](https://scholar.google.com/citations?user=5Ftw3bwAAAAJ&hl=en) page.
 
-#### Peer-Reviewed Journal Articles
+### Peer-Reviewed Journal Articles
 
 1. <strong>Yasas Gamagedara</strong>, Gary Feng, Travis Waiser, Michael Williams, Mary Love Tagert, Vitor S. Martins, and Nuwan K. Wijewardane, (2025), Spectroscopy-based models outperform pedotransfer functions for estimating soil hydraulic properties (Accepted).
 
@@ -18,7 +18,7 @@ For the most up-to-date list, please visit my [Google Scholar](https://scholar.g
 
 [↑ back to top](#top)
 
-#### Working Reports/ Case Studies
+### Working Reports/ Case Studies
 
 1. Anurudda Karunarathna, Thilini Rajapaksha, <strong>Yasas Gamagedara</strong>, Shenal Kaldera, and Nadeesha Vidanage, (2021), Challenges and Opportunities of Source-Segregated Waste Collection in Sri Lanka, IGES Centre Collaborating with UNEP on Environmental Technologies (CCET). <a href="https://www.ccet.jp/publications/challenges-and-opportunities-source-segregated-waste-collection-sri-lanka" target="_blank" rel="noopener noreferrer">Report</a>
 
@@ -30,7 +30,7 @@ For the most up-to-date list, please visit my [Google Scholar](https://scholar.g
 
 [↑ back to top](#top)
 
-#### Conference Papers
+### Conference Papers
 
 1. <strong>Gamagedara, Y.</strong>, Wijewardane, N.K., (2025), Comparative Analysis of Raw and Preprocessed Vis–NIR and MIR Spectra for Soil Property Estimation. Biology and Life Sciences Forum 2025, 54, 21. DOI: <a href="http://doi.org/10.3390/blsf2025054021" target="_blank">10.3390/blsf2025054021</a>
 
@@ -38,7 +38,7 @@ For the most up-to-date list, please visit my [Google Scholar](https://scholar.g
 
 [↑ back to top](#top)
 
-#### Three-minute Thesis
+### Three-minute Thesis
 
 1. <strong>Yasas Gamagedara</strong>, (2025), Predicting Soil Properties using Spectroscopy, The Graduate School, Mississippi State University, Starkville, Mississippi, November 18-19, 2025
 
@@ -46,7 +46,7 @@ For the most up-to-date list, please visit my [Google Scholar](https://scholar.g
 
 [↑ back to top](#top)
 
-#### Poster Presentations
+### Poster Presentations
 
 1. <strong>Yasas Gamagedara</strong>, Gary Feng, Travis Waiser, Michael Williams, Mary Love Tagert, Vitor S. Martins, and Nuwan K. Wijewardane, (2025), Is Spectroscopy Better than Pedotransfer Functions for Soil Hydraulic Property Estimation?, Soil Health Institute’s Virtual 10th Anniversary Meeting, December 3-4, 2025.
 
@@ -76,7 +76,7 @@ For the most up-to-date list, please visit my [Google Scholar](https://scholar.g
 
 [↑ back to top](#top)
 
-#### Oral Presentations
+### Oral Presentations
 
 1. <strong>Yasas Gamagedara</strong>, Gary Feng, Mary Love Tagert, Vitor S. Martins, and Nuwan Wijewardane, (2025), Use of Correction Techniques to Improve Compatibility Between Mid-Infrared Spectrometers in Predicting Soil Properties, ASA-CSSA-SSSA International Annual Meeting (CANVAS 2025), Salt Lake City, Utah, November 9-12, 2025.
 
@@ -94,7 +94,7 @@ For the most up-to-date list, please visit my [Google Scholar](https://scholar.g
 
 [↑ back to top](#top)
 
-#### Non Technical
+### Non Technical
 
 1. <strong>Gamagedara K.Y.B.</strong>, 2017, Assessing Methane Emission from a Dumpsite for the Betterment of Adjacent Dwellers and the Environment, Hanthana Blossoms: Best Research Briefs, Volume 1, Issue 1, at Faculty of Agriculture Undergraduate Research Symposium, University of Peradeniya.
 
