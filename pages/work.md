@@ -11,7 +11,7 @@ Below are some of the projects I have been involved in with academic institution
 Exposed functions: Geospatial modeling; soil spectroscopy; carbon sequestration; crop yield modeling; machine learning, on-the-go soil sensing, Python, R
 
 #### Graduate Research Assistant<br><a href="https://www.abe.msstate.edu/" target="_blank">Department of Ag. & Bio. Engineering</a><br>Mississippi State University, USA<br>2022 - 2025<br>
-Exposed functions:
+Exposed functions:<br>
 * Field sampling, spectroscopic scanning, and data analysis using Python
 * Collaborated with USDA-NRCS field officers & USDA-ARS scientists
 * Contributed to scientific writing & research publications
@@ -22,14 +22,14 @@ Exposed functions: Implemented the Livelihoods Restoration Plan for the Kandy Mu
 Client: Ministry of Megapolis and Western Development and World Bank
 
 #### Assistant Consultant<br><a href="https://www.linkedin.com/company/31324840/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BJELLxr2iTyujVAIfxjF3PA%3D%3D" target="_blank">Waste to Energy Technologies Limited</a><br>Battaramulla, Sri Lanka<br>2019 - 2021<br>
-Exposed functions:
+Exposed functions:<br>
 * Prepared environmental appraisals for multiple housing schemes and hotels
 * Developed rehabilitation plans for major landfills, waste management plan for spent yeast, and manure management plan
 * Analyzed polychlorinated biphenyls for the Stockholm Convention
 * Modeled vegetation effects on slope stability for landslide risk management
 * Tested permeable reactive barrier materials for groundwater remediation<br>
 
-Clients:
+Clients:<br>
 * EX Research Institute Ltd., Japan
 * Japan International Cooperation Agency (JICA)
 * Institute for Global Environmental Strategies
@@ -46,7 +46,7 @@ Clients:
 * Ambasewana Holdings Ltd., Sri Lanka
 
 #### Project Coordinator<br><a href="https://www.exri.co.jp/en" target="_blank">EX Research Institute Limited</a><br>Tokyo, Japan<br>2017 June – 2018 November<br>
-Exposed functions:
+Exposed functions:<br>
 * Promoted 3Rs (Reduce, Reuse, Recycle) in Ratnapura Municipal Council <a href="https://digital.detritusjournal.com/articles/evaluation-of-organic-and-recyclable-waste-separation-at-generation-source-in-ratnapura-and-kataraga/359" target="_blank">(Paper)</a>
 * Feasibility study on collection & treatment systems for used fluorocarbons
 
@@ -54,7 +54,7 @@ Exposed functions:
 Exposed functions: Analyzed mechanization for agricultural water management in farming systems <a href="https://hdl.handle.net/10568/100656" target="_blank">(Paper)</a>
 
 #### Intern<br><a href="https://wma.wp.gov.lk/" target="_blank">Waste Management Authority of Western Province</a><br>Colombo, Sri Lanka<br>2016 January 18 – 2016 February 19<br>
-Exposed function:
+Exposed function:<br>
 * Exposed to environmental & composting divisions
 * Installed methane collection wells at the waste management facility
 
