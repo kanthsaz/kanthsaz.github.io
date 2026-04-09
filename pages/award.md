@@ -12,6 +12,7 @@ title: "Awards & Memberships"
     .award-container {
       display: flex;
       align-items: center;
+      gap: 20px;
       margin-bottom: 20px;
     }
     .award-text-left, .award-text-right {
@@ -26,7 +27,8 @@ title: "Awards & Memberships"
     }
     .award-image {
       width: 100%;
-      border-radius: 8px;
+      max-width: 350px;
+      border-radius: 10px;
     }
   </style>
 
