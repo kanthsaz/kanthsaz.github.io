@@ -34,7 +34,7 @@ For the most up-to-date list, please visit my [Google Scholar](https://scholar.g
 
 1. Gamagedara, Y., Wijewardane, N.K., (2025), Comparative Analysis of Raw and Preprocessed Vis–NIR and MIR Spectra for Soil Property Estimation. Biology and Life Sciences Forum 2025, 54, 21. DOI: [10.3390/blsf2025054021](http://doi.org/10.3390/blsf2025054021){:target="_blank"}
 
-1. Karunarathna, A., Gamagedara, Y., Mannapperuma, N., Ariyawansha, R., and Basnayake, B.F.A., (2018), Development of a Methane (CH4) Surface Emission Map: A Case Study at Karadiyana Dump Site, Sri Lanka, The 10th Asia-Pacific Landfill Symposium, Tokyo, Japan, 24 – 26, November 2018, pp 291-296. <a href="https://www.exri.co.jp/wp/wp-content/uploads/2018/11/Proceedings_of_APLAS_TOKYO_2018.pdf" target="_blank" rel="noopener noreferrer">[Article]</a>
+1. Karunarathna, A., Gamagedara, Y., Mannapperuma, N., Ariyawansha, R., and Basnayake, B.F.A., (2018), Development of a Methane (CH4) Surface Emission Map: A Case Study at Karadiyana Dump Site, Sri Lanka, The 10th Asia-Pacific Landfill Symposium, Tokyo, Japan, 24 – 26, November 2018, pp 291-296. [Article](https://www.exri.co.jp/wp/wp-content/uploads/2018/11/Proceedings_of_APLAS_TOKYO_2018.pdf){:target="_blank"}
 
 [↑ back to top](#top)
 
