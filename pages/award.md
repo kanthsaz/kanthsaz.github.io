@@ -31,6 +31,20 @@ title: "Awards & Memberships"
   </style>
 
   <div class="award-container">
+    <div style="flex: 0 0 400px;">
+      <img src="/assets/images/awards/1st_place_water_energy_2025.jpeg" alt="First place in Poster Presentation" class="award-image">
+    </div>
+    <div class="award-text-right">
+      <p>
+        <strong>First place in Poster Presentation</strong> 2025<br>
+        <a href="https://www.mafes.msstate.edu/workshops/conference/">Mississippi Water & Energy Conference<br>
+        Mississippi Agricultural and Forestry Experiment Station</a><br>
+        USA
+      </p>
+    </div>
+  </div>
+  
+  <div class="award-container">
     <div class="award-text-left">
       <p>
         <strong>Second place in Oral Presentation> 2025<br>
