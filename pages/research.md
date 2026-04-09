@@ -40,41 +40,41 @@ For the most up-to-date list, please visit my [Google Scholar](https://scholar.g
 
 #### Three-minute Thesis
 
-1 Yasas Gamagedara, (2025), Predicting Soil Properties using Spectroscopy, The Graduate School, Mississippi State University, Starkville, Mississippi, November 18-19, 2025
+1. Yasas Gamagedara, (2025), Predicting Soil Properties using Spectroscopy, The Graduate School, Mississippi State University, Starkville, Mississippi, November 18-19, 2025
 
-1 Yasas Gamagedara, (2024), Prediction of Soil Properties using Mid-Infrared Soil Spectra, Mississippi Agriculture Consortium, 1st Annual Networking Event, Mississippi State, Starkville, Mississippi, March 6, 2024.
+1. Yasas Gamagedara, (2024), Prediction of Soil Properties using Mid-Infrared Soil Spectra, Mississippi Agriculture Consortium, 1st Annual Networking Event, Mississippi State, Starkville, Mississippi, March 6, 2024.
 
 [↑ back to top](#top)
 
 #### Poster Presentations
 
-1 Yasas Gamagedara, and Gary Feng (2026), Prediction of Soil Structural, Hydraulic, and Chemical Properties: A Comparison of NIR and MIR Across the Critical Zone, 23rd World Congress of Soil Science (WCSS2026), Nanjing, China, June 7-12, 2026
+1. Yasas Gamagedara, and Gary Feng (2026), Prediction of Soil Structural, Hydraulic, and Chemical Properties: A Comparison of NIR and MIR Across the Critical Zone, 23rd World Congress of Soil Science (WCSS2026), Nanjing, China, June 7-12, 2026
 
-1 Yasas Gamagedara, Gary Feng, Travis Waiser, Michael Williams, Mary Love Tagert, Vitor S. Martins, and Nuwan K. Wijewardane, (2025), Is Spectroscopy Better than Pedotransfer Functions for Soil Hydraulic Property Estimation?, Soil Health Institute’s Virtual 10th Anniversary Meeting, December 3-4, 2025.
+1. Yasas Gamagedara, Gary Feng, Travis Waiser, Michael Williams, Mary Love Tagert, Vitor S. Martins, and Nuwan K. Wijewardane, (2025), Is Spectroscopy Better than Pedotransfer Functions for Soil Hydraulic Property Estimation?, Soil Health Institute’s Virtual 10th Anniversary Meeting, December 3-4, 2025.
 
-1 Yasas Gamagedara, Gary Feng, Mary Love Tagert, Vitor S. Martins, and Nuwan Wijewardane, (2025), Use of Correction Techniques to Improve Compatibility Between Mid-Infrared Spectrometers in Predicting Soil Properties, ASA-CSSA-SSSA International Annual Meeting (CANVAS 2025), Salt Lake City, Utah, November 9-12, 2025.
+1. Yasas Gamagedara, Gary Feng, Mary Love Tagert, Vitor S. Martins, and Nuwan Wijewardane, (2025), Use of Correction Techniques to Improve Compatibility Between Mid-Infrared Spectrometers in Predicting Soil Properties, ASA-CSSA-SSSA International Annual Meeting (CANVAS 2025), Salt Lake City, Utah, November 9-12, 2025.
 
-1 Yasas Gamagedara, Gary Feng, Mary Love Tagert, Vitor S. Martins, and Nuwan K. Wijewardane, (2025), Estimating Soil Hydraulic Properties with MIR Spectroscopy: A Robust Alternative to Pedotransfer Functions, Mississippi Water & Energy Conference, Mississippi State University, Starkville, Mississippi, October 28-30, 2025.
+1. Yasas Gamagedara, Gary Feng, Mary Love Tagert, Vitor S. Martins, and Nuwan K. Wijewardane, (2025), Estimating Soil Hydraulic Properties with MIR Spectroscopy: A Robust Alternative to Pedotransfer Functions, Mississippi Water & Energy Conference, Mississippi State University, Starkville, Mississippi, October 28-30, 2025.
 
-1 Yasas Gamagedara, Gary Feng, Mary Love Tagert, Vitor S. Martins, and Nuwan K. Wijewardane, (2025), Comparative Analysis of Raw and Pre-processed MIR and Vis-NIR Spectra for Soil Property Estimation, The 3rd International Online Conference on Agriculture (IOCAG2025), October 22–24, 2025.
+1. Yasas Gamagedara, Gary Feng, Mary Love Tagert, Vitor S. Martins, and Nuwan K. Wijewardane, (2025), Comparative Analysis of Raw and Pre-processed MIR and Vis-NIR Spectra for Soil Property Estimation, The 3rd International Online Conference on Agriculture (IOCAG2025), October 22–24, 2025.
 
-1 Yehani Ekanayake, Yasas Gamagedara, Nuwan K. Wijewardane, Vitor S. Martins, and Xin Zhang, (2025), Predicting Soil Fertility Properties from Fresh Soil Mid-Infrared and Visible–Near Infrared Spectra Using Machine Learning, 2025 Fall Graduate Student Research Symposium, Graduate Student Association of Mississippi State University, Starkville, Mississippi, October 18, 2025.
+1. Yehani Ekanayake, Yasas Gamagedara, Nuwan K. Wijewardane, Vitor S. Martins, and Xin Zhang, (2025), Predicting Soil Fertility Properties from Fresh Soil Mid-Infrared and Visible–Near Infrared Spectra Using Machine Learning, 2025 Fall Graduate Student Research Symposium, Graduate Student Association of Mississippi State University, Starkville, Mississippi, October 18, 2025.
 
-1 Yasas Gamagedara, Travis Waiser, Michael Williams, Gary Feng, Mary Love Tagert, Vitor S. Martins, and Nuwan K. Wijewardane, (2025), Performance of MIR vs Vis-NIR Spectroscopy in Dynamic Soil Property Estimation, National Cooperative Soil Survey National Conference, hosted by Oregon State University, Online, June 23-25, 2025.
+1. Yasas Gamagedara, Travis Waiser, Michael Williams, Gary Feng, Mary Love Tagert, Vitor S. Martins, and Nuwan K. Wijewardane, (2025), Performance of MIR vs Vis-NIR Spectroscopy in Dynamic Soil Property Estimation, National Cooperative Soil Survey National Conference, hosted by Oregon State University, Online, June 23-25, 2025.
 
-1 Yasas Gamagedara, Gary Feng, Mary Love Tagert, Vitor S. Martins, and Nuwan Wijewardane, (2025), Rapid & Cost-Effective Ways to Estimate Soil Properties in Mississippi Using Spectroscopy, Spring Symposium on Food Science & Industry in Mississippi: Adding Value & Feeding the World, Food Science Innovation Hub – Office of Research & Economic Development, Mississippi State University, Starkville, Mississippi, April 22, 2025.
+1. Yasas Gamagedara, Gary Feng, Mary Love Tagert, Vitor S. Martins, and Nuwan Wijewardane, (2025), Rapid & Cost-Effective Ways to Estimate Soil Properties in Mississippi Using Spectroscopy, Spring Symposium on Food Science & Industry in Mississippi: Adding Value & Feeding the World, Food Science Innovation Hub – Office of Research & Economic Development, Mississippi State University, Starkville, Mississippi, April 22, 2025.
 
-1 Yasas Gamagedara, Gary Feng, Mary Love Tagert, Vitor S. Martins, and Nuwan Wijewardane, (2025), Accurate Prediction of Soil Properties Using Mid-Infrared Spectrometers with Spectral Pre-Processing, 89th Annual Meeting of Mississippi Academy of Sciences, Biloxi, Mississippi, March 19-21, 2025.
+1. Yasas Gamagedara, Gary Feng, Mary Love Tagert, Vitor S. Martins, and Nuwan Wijewardane, (2025), Accurate Prediction of Soil Properties Using Mid-Infrared Spectrometers with Spectral Pre-Processing, 89th Annual Meeting of Mississippi Academy of Sciences, Biloxi, Mississippi, March 19-21, 2025.
 
-1 Yasas Gamagedara, Nuwan Wijewardane, Gary Feng, Mary Love Tagert, and Vitor S. Martins, (2024), Enhancing Soil Property Prediction Accuracy Using Calibration Transfer in Mid-Infrared Diffuse Reflectance Spectroscopy, 2024 Spring Graduate Research Symposium, Graduate Student Association of Mississippi State University, Starkville, Mississippi, February 15, 2025.
+1. Yasas Gamagedara, Nuwan Wijewardane, Gary Feng, Mary Love Tagert, and Vitor S. Martins, (2024), Enhancing Soil Property Prediction Accuracy Using Calibration Transfer in Mid-Infrared Diffuse Reflectance Spectroscopy, 2024 Spring Graduate Research Symposium, Graduate Student Association of Mississippi State University, Starkville, Mississippi, February 15, 2025.
 
-1 Yasas Gamagedara, Nuwan Wijewardane, Mary Love Tagert, Vitor S. Martins, and Gary Feng, (2023), Investigating the Feasibility of Using Mid-Infrared Fine-Ground Soil Spectra to Predict Non-Fine-Ground Soil Spectra, 2023 Fall Graduate Research Symposium, Graduate Student Association of Mississippi State University, Starkville, Mississippi, October 21, 2023.
+1. Yasas Gamagedara, Nuwan Wijewardane, Mary Love Tagert, Vitor S. Martins, and Gary Feng, (2023), Investigating the Feasibility of Using Mid-Infrared Fine-Ground Soil Spectra to Predict Non-Fine-Ground Soil Spectra, 2023 Fall Graduate Research Symposium, Graduate Student Association of Mississippi State University, Starkville, Mississippi, October 21, 2023.
 
-1 Yasas Gamagedara, Nuwan Wijewardane, Cathy Seybold, Travis Waiser, and Michael Williams, (2023), Mid-Infrared Spectroscopy for Estimating Hydrological Soil Properties in Mississippi & Texas, National Cooperative Soil Survey National Conference, USDA-Natural Resources Conservation Service, Bismarck, North Dakota, July 9–13, 2023.
+1. Yasas Gamagedara, Nuwan Wijewardane, Cathy Seybold, Travis Waiser, and Michael Williams, (2023), Mid-Infrared Spectroscopy for Estimating Hydrological Soil Properties in Mississippi & Texas, National Cooperative Soil Survey National Conference, USDA-Natural Resources Conservation Service, Bismarck, North Dakota, July 9–13, 2023.
 
-1 Yasas Gamagedara, Gary Feng, and Nuwan K. Wijewardane, (2022), Comparison of Vis-NIR & MIR Spectroscopy for Estimation of Total Carbon & Nitrogen using a Mississippi Soil Dataset, Summer Science & Engineering Symposium, Mississippi Academy of Sciences & Mississippi State University, Starkville, Mississippi, June 8, 2022.
+1. Yasas Gamagedara, Gary Feng, and Nuwan K. Wijewardane, (2022), Comparison of Vis-NIR & MIR Spectroscopy for Estimation of Total Carbon & Nitrogen using a Mississippi Soil Dataset, Summer Science & Engineering Symposium, Mississippi Academy of Sciences & Mississippi State University, Starkville, Mississippi, June 8, 2022.
 
-1 Gamagedara K.Y.B., Karunarathna A.K., and Mannapperuma M.M.N.R.C., (2016), Development of a Methane (CH4) Emission Concentration Map: Case Study at Karadiyana Dumpsite, Proceedings of the 3rd Faculty of Agriculture Undergraduate Research Symposium, Faculty of Agriculture, University of Peradeniya, Peradeniya, Sri Lanka, 16th December 2016. pp 154.
+1. Gamagedara K.Y.B., Karunarathna A.K., and Mannapperuma M.M.N.R.C., (2016), Development of a Methane (CH4) Emission Concentration Map: Case Study at Karadiyana Dumpsite, Proceedings of the 3rd Faculty of Agriculture Undergraduate Research Symposium, Faculty of Agriculture, University of Peradeniya, Peradeniya, Sri Lanka, 16th December 2016. pp 154.
 
 [↑ back to top](#top)
 
