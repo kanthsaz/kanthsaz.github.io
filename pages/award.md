@@ -12,34 +12,54 @@ title: "Awards & Memberships"
     .award-container {
       display: flex;
       align-items: center;
-      justify-content: space-between; 
+      justify-content: space-between;
       gap: 5px;
       margin-bottom: 5px;
+      width: 100%;
     }
-    .award-text-left, .award-text-right {
+
+    .award-image-box-left,
+    .award-image-box-right {
+      flex: 0 0 350px;
+      display: flex;
+    }
+
+    .award-image-box-left {
+      justify-content: flex-start;
+    }
+
+    .award-image-box-right {
+      justify-content: flex-end;
+    }
+
+    .award-text-left,
+    .award-text-right {
       flex: 1;
       display: flex;
       align-items: center;
       justify-content: center;
     }
-    .award-text-left p, .award-text-right p {
+
+    .award-text-left p,
+    .award-text-right p {
       text-align: center;
       margin: 0;
     }
+
     .award-image {
       width: 100%;
       max-width: 350px;
-      height: 300px;          /* FIXED HEIGHT */
-      object-fit: contain;    /* keeps proportions (no stretching) */
+      height: 300px;
+      object-fit: contain;
       border-radius: 10px;
-      overflow: hidden;
-      background: white;      /* optional – cleaner look */
-      padding: 5px;           /* optional spacing */
+      background: white;
+      padding: 5px;
+      display: block;
     }
   </style>
 
   <div class="award-container">
-    <div style="flex: 0 0 400px;">
+    <div class="award-image-box-left">
       <img src="/assets/images/awards/1st_place_water_energy_2025.jpeg" alt="First Place in Poster Presentation" class="award-image">
     </div>
     <div class="award-text-right">
@@ -61,13 +81,13 @@ title: "Awards & Memberships"
         USA
       </p>
     </div>
-    <div style="flex: 0 0 400px;">
+    <div class="award-image-box-right">
       <img src="/assets/images/awards/2nd_place_gsa_2025.jpeg" alt="Second Place in Oral Presentation" class="award-image">
     </div>
   </div>
 
   <div class="award-container">
-    <div style="flex: 0 0 400px;">
+    <div class="award-image-box-left">
       <img src="/assets/images/awards/3rd_place_mas_2025.jpg" alt="Third Place in Poster Presentation" class="award-image">
     </div>
     <div class="award-text-right">
@@ -88,13 +108,13 @@ title: "Awards & Memberships"
         USA
       </p>
     </div>
-    <div style="flex: 0 0 400px;">
+    <div class="award-image-box-right">
       <img src="/assets/images/awards/earth_team_volunteer.jpg" alt="Earth Team Volunteer Award" class="award-image">
     </div>
   </div>
 
   <div class="award-container">
-    <div style="flex: 0 0 400px;">
+    <div class="award-image-box-left">
       <img src="/assets/images/awards/best_poster.jpg" alt="Best Poster Presentation" class="award-image">
     </div>
     <div class="award-text-right">
@@ -115,13 +135,13 @@ title: "Awards & Memberships"
         Sri Lanka
       </p>
     </div>
-    <div style="flex: 0 0 400px;">
+    <div class="award-image-box-right">
       <img src="/assets/images/awards/university_colors.jpg" alt="University Colors Award" class="award-image">
     </div>
   </div>
 
   <div class="award-container">
-    <div style="flex: 0 0 400px;">
+    <div class="award-image-box-left">
       <img src="/assets/images/awards/president_scout.JPEG" alt="President Scout" class="award-image">
     </div>
     <div class="award-text-right">
@@ -143,7 +163,7 @@ title: "Awards & Memberships"
         Sri Lanka
       </p>
     </div>
-    <div style="flex: 0 0 200px;">
+    <div class="award-image-box-right">
       <img src="/assets/images/awards/peace_between_nations.jpg" alt="A.C. Vishvalingam Scholarship" class="award-image">
     </div>
   </div>
