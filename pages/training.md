@@ -5,7 +5,7 @@ title: "Trainings & Software"
 # image: assets/images/screenshot.png
 ---
 
-## Trainings, Programs, and Courses
+#### Trainings, Programs, and Courses
 
 1. [GIS for Climate Action](https://www.esri.com/training/catalog/645d6a07eb82fb767bb0c012/gis-for-climate-action/) - Six-week Online Course by Esri
 
@@ -104,7 +104,7 @@ Ministry of Higher Education, Anuradhapura, Sri Lanka 2013
 
 [↑ back to top](#top)
 
-### Software Skills
+#### Software Skills
 
 1. AutoCAD
 1. ArcGIS/ QGIS
