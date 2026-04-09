@@ -20,7 +20,7 @@ title: "Education"
                 <a href="https://ag.purdue.edu/department/agry/" target="_blank">Department of Agronomy</a><br>
                 <a href="https://www.purdue.edu/" target="_blank">Purdue University</a>, USA<br>
                 Research work: Use of mid-infrared spectroscopy for estimating soil chemical, physical, and hydrological properties in Mississippi and Texas<br>
-                Supervisor: <a href="https://scholar.google.com/citations?user=hOxrqjQAAAAJ&hl=en" target="_blank">Dr. Siddhartho Shekhar Paul</a>
+                Supervisor: <a href="https://scholar.google.com/citations?user=hOxrqjQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Dr. Siddhartho Shekhar Paul</a>
             </p>
         </div>
     </div>
@@ -41,7 +41,7 @@ title: "Education"
                 <a href="https://www.abe.msstate.edu/" target="_blank">Department of Agricultural & Biological Engineering</a><br>
                 <a href="http://www.msstate.edu/" target="_blank">Mississippi State University</a>, USA<br>
                 Research work: Use of mid-infrared spectroscopy for estimating soil chemical, physical, and hydrological properties in Mississippi and Texas<br>
-                Supervisor: <a href="https://scholar.google.com/citations?user=7npWMTwAAAAJ&hl=en" target="_blank">Dr. Nuwan Wijewardane</a>
+                Supervisor: <a href="https://scholar.google.com/citations?user=7npWMTwAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Dr. Nuwan Wijewardane</a>
             </p>
         </div>
     </div>
@@ -61,7 +61,7 @@ title: "Education"
             <p style="margin: 0;">
                 <a href="https://www.cardiffmet.ac.uk/Pages/default.aspx" target="_blank">Cardiff Metropolitan University</a>, United Kingdom<br>
                 Research work: Tangibles and Other Strategic Resources as Indicators of Firm’s Performance: Case Study in Sri Lankan Listed Companies<br>
-                Supervisor: <a href="https://www.linkedin.com/in/ruwan-jayaratne-0417491b/?originalSubdomain=lk" target="_blank">Mr. Ruwan Jayarathna</a>
+                Supervisor: <a href="https://www.linkedin.com/in/ruwan-jayaratne-0417491b/?originalSubdomain=lk" target="_blank" rel="noopener noreferrer">Mr. Ruwan Jayarathna</a>
             </p>
         </div>
     </div>
@@ -82,7 +82,7 @@ title: "Education"
                 <a href="http://www.pgia.pdn.ac.lk/" target="_blank">Postgraduate Institute of Agriculture</a><br>
                 <a href="https://www.pdn.ac.lk/" target="_blank">University of Peradeniya</a>, Sri Lanka<br>
                 Research work: Comparison of Methane Emissions From Two Dumpsites in Sri Lanka: Case Studies at Karadiyana and Sundarapola Dumpsites<br>
-                Supervisor: <a href="https://scholar.google.com/citations?user=A9tZlaAAAAAJ&hl=en" target="_blank">Dr. Anurudda Karunarathna</a>
+                Supervisor: <a href="https://scholar.google.com/citations?user=A9tZlaAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Dr. Anurudda Karunarathna</a>
             </p>
         </div>
     </div>
@@ -104,7 +104,7 @@ title: "Education"
                 <a href="https://agri.pdn.ac.lk/" target="_blank">Faculty of Agriculture</a><br>
                 <a href="https://www.pdn.ac.lk/" target="_blank">University of Peradeniya</a>, Sri Lanka<br>
                 Research work: Development of a Methane Emission Concentration Map: Case Study at Karadiyana Dump Site<br>
-                Supervisor: <a href="https://scholar.google.com/citations?user=A9tZlaAAAAAJ&hl=en" target="_blank">Dr. Anurudda Karunarathna</a>
+                Supervisor: <a href="https://scholar.google.com/citations?user=A9tZlaAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Dr. Anurudda Karunarathna</a>
             </p>
         </div>
     </div>
