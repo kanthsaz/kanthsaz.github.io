@@ -22,13 +22,13 @@ title: "Awards & Memberships"
       justify-content: center;
     }
     .award-text-left p, .award-text-right p {
-      align-items: left;
+      align-items: center;
       margin: 0;
     }
     .award-image {
       width: 100%;
       max-width: 350px;
-      height: 220px;          /* FIXED HEIGHT */
+      height: 300px;          /* FIXED HEIGHT */
       object-fit: contain;    /* keeps proportions (no stretching) */
       border-radius: 10px;
       background: white;      /* optional – cleaner look */
