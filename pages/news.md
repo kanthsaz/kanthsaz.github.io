@@ -8,6 +8,10 @@ title: "News & Engaging Moments"
   <button style="cursor: pointer; padding: 10px 15px; margin: 0 5px; border: 2px solid white; background-color: black; color: white; border-radius: 5px; transition: background-color 0.3s; font-weight: bold;"
           onmouseover="this.style.backgroundColor='white'; this.style.color='black'" 
           onmouseout="this.style.backgroundColor='black'; this.style.color='white'" 
+          onclick="scrollToYear('2026')">2026</button>
+  <button style="cursor: pointer; padding: 10px 15px; margin: 0 5px; border: 2px solid white; background-color: black; color: white; border-radius: 5px; transition: background-color 0.3s; font-weight: bold;"
+          onmouseover="this.style.backgroundColor='white'; this.style.color='black'" 
+          onmouseout="this.style.backgroundColor='black'; this.style.color='white'" 
           onclick="scrollToYear('2025')">2025</button>
   <button style="cursor: pointer; padding: 10px 15px; margin: 0 5px; border: 2px solid white; background-color: black; color: white; border-radius: 5px; transition: background-color 0.3s; font-weight: bold;"
           onmouseover="this.style.backgroundColor='white'; this.style.color='black'" 
@@ -36,6 +40,24 @@ title: "News & Engaging Moments"
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+ <!-- GIS for Climate Action - Six-week Online Course by Esri -->
+  <div id="2026" style="flex: 1 1 100%; text-align: center;">
+    <p>
+      ArcGIS StoryMaps
+      <a href="https://www.esri.com/training/catalog/645d6a07eb82fb767bb0c012/gis-for-climate-action/" target="_blank">
+        GIS for Climate Action </a><br>2026
+    </p>
+    <iframe src="/assets/images//news/NDVI_Bengaluru.html"
+        width="100%" height="700"
+        style="border: 2px solid #ccc; margin-top: 15px;"
+        title="NDVI Map - ESIIL Short Course 2025"
+        loading="lazy"></iframe>
+    <hr style="border: none; border-top: 3px solid #000000; margin: 20px 0;">
+    <div style="margin-top: 10px; text-align: left;">
+      <a href="#top" style="text-decoration: none; color: black;">[↑ back to top]</a>
+    </div>
+  </div>
 
  <!-- ESIIL Short Course 2025 -->
   <div id="2025" style="flex: 1 1 100%; text-align: center;">
