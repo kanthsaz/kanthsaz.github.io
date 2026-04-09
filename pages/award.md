@@ -116,6 +116,9 @@ title: "Awards & Memberships"
       text-align: center;
       box-sizing: border-box;
       margin-bottom: 30px; /* Space between rows */
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
     }
     .membership-text {
       font-size: 16px;
@@ -123,12 +126,15 @@ title: "Awards & Memberships"
     }
     .membership-item img {
       width: 100%;          /* fill container */
-      height: 100px;        /* FIXED height for all logos */
+      height: 120px;        /* FIXED height for all logos */
       object-fit: contain;  /* keeps proportions (no stretching) */
       background: white;    /* optional – makes logos look clean */
       padding: 10px;        /* optional – improves spacing */
       border-radius: 8px;
+      transition: transform 0.2s ease;
     }
+    .membership-item img:hover {
+      transform: scale(1.05);
   </style>
 
   <div class="membership-container">
