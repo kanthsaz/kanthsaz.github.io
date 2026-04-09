@@ -31,6 +31,20 @@ title: "Awards & Memberships"
   </style>
 
   <div class="award-container">
+    <div class="award-text-left">
+      <p>
+        <strong>Second place in Oral Presentation> 2025<br>
+        <a href="https://www.grad.msstate.edu/students/graduate-development/graduate-research-symposium">Fall Graduate Student Research Symposium</a><br>
+        Mississippi State University<br>
+        USA
+      </p>
+    </div>
+    <div style="flex: 0 0 400px;">
+      <img src="/assets/images/awards/2nd_place_gsa_2025.jpeg" alt="Second place in Oral Presentation" class="award-image">
+    </div>
+  </div>
+
+  <div class="award-container">
     <div style="flex: 0 0 400px;">
       <img src="/assets/images/awards/3rd_place_mas_2025.png" alt="Third place in Poster Presentation" class="award-image">
     </div>
@@ -49,7 +63,7 @@ title: "Awards & Memberships"
       <p>
         <strong>Earth Team Volunteer</strong> 2023<br>
         USDA-<a href="https://www.nrcs.usda.gov/conservation-basics/conservation-by-state/tennessee/earth-team-volunteer-program">NRCS</a><br>
-        United States of America
+        USA
       </p>
     </div>
     <div style="flex: 0 0 400px;">
