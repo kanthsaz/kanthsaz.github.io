@@ -7,17 +7,18 @@ title: "Services & Extra Curricular Activities"
 
 ### Services
 
+1. Evaluator (Engineering) in [Undergraduate Research Symposium](https://www.urcd.msstate.edu/symposium) at Mississippi State University on July 31, 2025
+
+1. Evaluator (Biological & Life Sciences) in [Undergraduate Research Symposium](https://www.urcd.msstate.edu/symposium) at Mississippi State University on April 9-10, 2025
+
 1. Associate Editor in Biological and Life Science Discipline<br>
 [Endeavors](https://scholarsjunction.msstate.edu/endeavors/): Mississippi State Undergraduate Research Journal, since October 2024
 
 1. President of the [Sri Lankan Student Association](https://www.facebook.com/MSUSLSA/) at Mississippi State University, Mississippi in 2024<br>
-    - Participated in International Fiesta (won awards for decoration, and dessert), led a t-shirt project, organized New Year celebrations, the Vesak festival, a welcome event for new students, and an Achievers' Night. Also coordinated community gatherings, and a give-back event for Sri Lankan students
 
 1. President of the [Softball Cricket Club](https://www.instagram.com/scc_msu/p/CyldK9TOJsA/) at Mississippi State University, Mississippi, from July 2023 to August 2024<br>
-    - Organized cricket tournaments in Fall 2023, Spring 2024, Summer 2024, and arranged weekly practice sessions
 
-1. Partner in the [Soil for Society Network](https://soilforsociety.org/network/)<br>
-National Science Foundation, since 2023
+1. Represent [Soil for Society Network](https://soilforsociety.org/network/), supported by the National Science Foundation, since 2023
 
 1. [Earth Team Volunteer](https://www.nrcs.usda.gov/conservation-basics/conservation-by-state/tennessee/earth-team-volunteer-program) at the United States Department of Agriculture, Natural Resources Conservation Service, Tupelo, Mississippi, USA, since June 2022
 
