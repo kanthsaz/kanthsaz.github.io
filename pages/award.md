@@ -122,8 +122,11 @@ title: "Awards & Memberships"
       margin-bottom: 10px;
     }
     .membership-item img {
-      width: 200px;
-      height: auto;
+      width: 100%;          /* fill container */
+      height: 100px;        /* FIXED height for all logos */
+      object-fit: contain;  /* keeps proportions (no stretching) */
+      background: white;    /* optional – makes logos look clean */
+      padding: 10px;        /* optional – improves spacing */
       border-radius: 8px;
     }
   </style>
