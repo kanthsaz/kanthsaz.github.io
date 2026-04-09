@@ -49,7 +49,7 @@ title: "Awards & Memberships"
   <div class="award-container">
     <div class="award-text-left">
       <p>
-        <strong>Second Place in Oral Presentation> 2025<br>
+        <strong>Second Place in Oral Presentation</strong> 2025<br>
         <a href="https://www.grad.msstate.edu/students/graduate-development/graduate-research-symposium">Fall Graduate Student Research Symposium</a><br>
         Mississippi State University<br>
         USA
