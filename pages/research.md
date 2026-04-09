@@ -48,8 +48,6 @@ For the most up-to-date list, please visit my [Google Scholar](https://scholar.g
 
 #### Poster Presentations
 
-1. Yasas Gamagedara, and Gary Feng (2026), Prediction of Soil Structural, Hydraulic, and Chemical Properties: A Comparison of NIR and MIR Across the Critical Zone, 23rd World Congress of Soil Science (WCSS2026), Nanjing, China, June 7-12, 2026
-
 1. Yasas Gamagedara, Gary Feng, Travis Waiser, Michael Williams, Mary Love Tagert, Vitor S. Martins, and Nuwan K. Wijewardane, (2025), Is Spectroscopy Better than Pedotransfer Functions for Soil Hydraulic Property Estimation?, Soil Health Institute’s Virtual 10th Anniversary Meeting, December 3-4, 2025.
 
 1. Yasas Gamagedara, Gary Feng, Mary Love Tagert, Vitor S. Martins, and Nuwan Wijewardane, (2025), Use of Correction Techniques to Improve Compatibility Between Mid-Infrared Spectrometers in Predicting Soil Properties, ASA-CSSA-SSSA International Annual Meeting (CANVAS 2025), Salt Lake City, Utah, November 9-12, 2025.
