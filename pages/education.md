@@ -9,17 +9,38 @@ title: "Education"
 
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 0 0 120px; margin-right: 20px;">
+        <a href="https://ag.purdue.edu/department/agry/" target="_blank">
+            <img src="/assets/images/education/purdue_university.png" alt="Purdue University" style="width: 120px; border-radius: 8px;">
+        </a>
+    </div>
+    <div style="flex: 1; text-align: left; display: flex; align-items: center;">
+        <div>
+            <h3 style="margin: 0;">Postdoctoral Research Assistant<br>2026-Present</h3>
+            <p style="margin: 0;">
+                <a href="https://ag.purdue.edu/department/agry/" target="_blank">Department of Agronomy</a><br>
+                <a href="https://www.purdue.edu/" target="_blank">Purdue University</a>, USA<br>
+                Research work: Use of mid-infrared spectroscopy for estimating soil chemical, physical, and hydrological properties in Mississippi and Texas<br>
+                Supervisor: <a href="https://scholar.google.com/citations?user=hOxrqjQAAAAJ&hl=en" target="_blank">Dr. Siddhartho Shekhar Paul</a>
+            </p>
+        </div>
+    </div>
+  </div>
+
+<br>
+
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="flex: 0 0 120px; margin-right: 20px;">
         <a href="https://www.abe.msstate.edu/" target="_blank">
             <img src="/assets/images/education/mississippi_state_university.png" alt="Mississippi State University" style="width: 120px; border-radius: 8px;">
         </a>
     </div>
     <div style="flex: 1; text-align: left; display: flex; align-items: center;">
         <div>
-            <h3 style="margin: 0;">PhD in Biosystems Engineering<br>2022-2024</h3>
+            <h3 style="margin: 0;">PhD in Biosystems Engineering<br>2022-2025</h3>
             <p style="margin: 0;">
                 <a href="https://www.abe.msstate.edu/" target="_blank">Department of Agricultural & Biological Engineering</a><br>
                 <a href="http://www.msstate.edu/" target="_blank">Mississippi State University</a>, USA<br>
-                Research work – Use of Mid-infrared Spectroscopy for Dynamic & Hydraulic Soil Property Estimations in Mississippi & Texas<br>
+                Research work: Use of mid-infrared spectroscopy for estimating soil chemical, physical, and hydrological properties in Mississippi and Texas<br>
                 Supervisor: <a href="https://scholar.google.com/citations?user=7npWMTwAAAAJ&hl=en" target="_blank">Dr. Nuwan Wijewardane</a>
             </p>
         </div>
@@ -39,7 +60,7 @@ title: "Education"
             <h3 style="margin: 0;">Master of Business Administration<br>2020-2021</h3>
             <p style="margin: 0;">
                 <a href="https://www.cardiffmet.ac.uk/Pages/default.aspx" target="_blank">Cardiff Metropolitan University</a>, United Kingdom<br>
-                Research work – Tangibles and Other Strategic Resources as Indicators of Firm’s Performance: Case Study in Sri Lankan Listed Companies<br>
+                Research work: Tangibles and Other Strategic Resources as Indicators of Firm’s Performance: Case Study in Sri Lankan Listed Companies<br>
                 Supervisor: <a href="https://www.linkedin.com/in/ruwan-jayaratne-0417491b/?originalSubdomain=lk" target="_blank">Mr. Ruwan Jayarathna</a>
             </p>
         </div>
@@ -60,7 +81,7 @@ title: "Education"
             <p style="margin: 0;">
                 <a href="http://www.pgia.pdn.ac.lk/" target="_blank">Postgraduate Institute of Agriculture</a><br>
                 <a href="https://www.pdn.ac.lk/" target="_blank">University of Peradeniya</a>, Sri Lanka<br>
-                Research work – Comparison of Methane Emissions From Two Dumpsites in Sri Lanka: Case Studies at Karadiyana and Sundarapola Dumpsites<br>
+                Research work: Comparison of Methane Emissions From Two Dumpsites in Sri Lanka: Case Studies at Karadiyana and Sundarapola Dumpsites<br>
                 Supervisor: <a href="https://scholar.google.com/citations?user=A9tZlaAAAAAJ&hl=en" target="_blank">Dr. Anurudda Karunarathna</a>
             </p>
         </div>
@@ -82,7 +103,7 @@ title: "Education"
                 <a href="https://agri.pdn.ac.lk/" target="_blank">Department of Agriculture Engineering</a><br>
                 <a href="https://agri.pdn.ac.lk/" target="_blank">Faculty of Agriculture</a><br>
                 <a href="https://www.pdn.ac.lk/" target="_blank">University of Peradeniya</a>, Sri Lanka<br>
-                Research work – Development of a Methane Emission Concentration Map: Case Study at Karadiyana Dump Site<br>
+                Research work: Development of a Methane Emission Concentration Map: Case Study at Karadiyana Dump Site<br>
                 Supervisor: <a href="https://scholar.google.com/citations?user=A9tZlaAAAAAJ&hl=en" target="_blank">Dr. Anurudda Karunarathna</a>
             </p>
         </div>
