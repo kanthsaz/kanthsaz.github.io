@@ -7,7 +7,7 @@ permalink: "/about/"
 
 <script src="/pages/md-gallery.js"></script>
 
-I am currently working as a Postdoctoral Research Assistant in the [Department of Agronomy](https://ag.purdue.edu/department/agry/) at [Purdue University](https://www.purdue.edu/), where I focus on environmental modeling and data analysis, particularly in soil carbon dynamics, crop yield, and precision agriculture. I am a member of the [Geoinformatics, Ecosystem Management & Soil Sustainability Lab](https://www.sspaul.com/home), working under the supervision of Dr. Siddhartho Paul.
+I am currently working as a Postdoctoral Research Assistant in the [Department of Agronomy](https://ag.purdue.edu/department/agry/) at [Purdue University](https://www.purdue.edu/), where I apply environmental modeling, machine learning, and geospatial analysis to study soil carbon dynamics, predict crop yield, and advance precision agriculture. I am a member of the [Geoinformatics, Ecosystem Management & Soil Sustainability Lab](https://www.sspaul.com/home), working under the supervision of Dr. Siddhartho Paul.
 
 From 2022 to 2025, I served as a Graduate Research Assistant and completed my Ph.D. in Biosystems Engineering in the [Department of Agricultural and Biological Engineering](https://www.abe.msstate.edu/), [Mississippi State University](https://www.msstate.edu/). I worked in the [Advanced Plant and Soil Sensing Lab](https://apsslab.abe.msstate.edu/) and my research focused on enabling the use of the [USDA-NSSC-KSSL Mid-infrared spectral library](https://soilspectroscopy.org/the-nssc-kssl-mir-spectral-library/) for USDA-NRCS field officers in Mississippi and Texas, supporting rapid and cost-effective soil property estimation using spectroscopic techniques.
 
