@@ -129,6 +129,17 @@ title: "Awards & Memberships"
   </style>
 
   <div class="membership-container">
+    <!-- NPA Membership -->
+    <div class="membership-item">
+      <p class="membership-text">
+        Member<br>
+        Since January 2026
+      </p>
+      <a href="https://www.nationalpostdoc.org/default.aspx" target="_blank">
+        <img src="/assets/images/memberships/npa.jpg" alt="National Postdoctoral Association">
+      </a>
+    </div>
+    
     <!-- ASABE Membership -->
     <div class="membership-item">
       <p class="membership-text">
