@@ -12,9 +12,9 @@ Exposed functions: Geospatial modeling; soil spectroscopy; carbon sequestration;
 
 #### Graduate Research Assistant<br><a href="https://www.abe.msstate.edu/" target="_blank">Department of Ag. & Bio. Engineering</a><br>Mississippi State University, USA<br>2022 - 2025<br>
 Exposed functions:<br>
-* Field sampling, spectroscopic scanning, and data analysis using Python
-* Collaborated with USDA-NRCS field officers & USDA-ARS scientists
-* Contributed to scientific writing & research publications
+* Field sampling, spectroscopic scanning, and data analysis using Python<br>
+* Collaborated with USDA-NRCS field officers and USDA-ARS scientists<br>
+* Contributed to scientific writing and research publications<br>
 * Networked with professionals and mentored students<br>
 
 #### Consultant Field Manager<br><a href="https://janathakshan.lk/" target="_blank">Janathakshan Limited</a><br>Colombo, Sri Lanka<br>2021 September – 2021 December<br>
@@ -23,10 +23,10 @@ Client: Ministry of Megapolis and Western Development and World Bank
 
 #### Assistant Consultant<br><a href="https://www.linkedin.com/company/31324840/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BJELLxr2iTyujVAIfxjF3PA%3D%3D" target="_blank">Waste to Energy Technologies Limited</a><br>Battaramulla, Sri Lanka<br>2019 - 2021<br>
 Exposed functions:<br>
-* Prepared environmental appraisals for multiple housing schemes and hotels
-* Developed rehabilitation plans for major landfills, waste management plan for spent yeast, and manure management plan
-* Analyzed polychlorinated biphenyls for the Stockholm Convention
-* Modeled vegetation effects on slope stability for landslide risk management
+* Prepared environmental appraisals for multiple housing schemes and hotels<br>
+* Developed rehabilitation plans for major landfills, waste management plan for spent yeast, and manure management plan<br>
+* Analyzed polychlorinated biphenyls for the Stockholm Convention<br>
+* Modeled vegetation effects on slope stability for landslide risk management<br>
 * Tested permeable reactive barrier materials for groundwater remediation<br>
 
 Clients:<br>
