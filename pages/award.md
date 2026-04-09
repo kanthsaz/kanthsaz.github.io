@@ -31,6 +31,20 @@ title: "Awards & Memberships"
   </style>
 
   <div class="award-container">
+    <div style="flex: 0 0 400px;">
+      <img src="/assets/images/awards/3rd_place_mas_2025.png" alt="Third place in Poster Presentation" class="award-image">
+    </div>
+    <div class="award-text-right">
+      <p>
+        <strong>Third place in Poster Presentation</strong> 2025<br>
+        89th meeting of Mississippi Academy of Sciences<br>
+        <a href="https://msacad.org/">Mississippi Academy of Sciences</a><br>
+        USA
+      </p>
+    </div>
+  </div>
+
+  <div class="award-container">
     <div class="award-text-left">
       <p>
         <strong>Earth Team Volunteer</strong> 2023<br>
