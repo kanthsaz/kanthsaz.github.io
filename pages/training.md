@@ -7,13 +7,32 @@ title: "Trainings & Software"
 
 ## Trainings, Programs, and Courses
 
+1. [GIS for Climate Action](https://www.esri.com/training/catalog/645d6a07eb82fb767bb0c012/gis-for-climate-action/) - Six-week Online Course by Esri
+
+1. Digital & Precision Agriculture Workshop for Teachers at Purdue University on March 7, 2026
+
+1. [ASA-CSSA-SSSA Peer Review Mentorship Program](https://www.sciencesocieties.org/publications/journals/peer-review-mentorship?q=publications/journals/peer-review-mentorship/)<br>
+Fall 2025 to Spring 2026<br>
+Mentored by Dr. Edson Costa-Filho
+
+1. [GradPath Program](https://www.bagley.msstate.edu/gradpath/#:~:text=Mississippi%20State%20University's%20Bagley%20College,and%20distinctive%20engineering%20talent%20pool.)<br>
+Mississippi State University in Fall 2025<br>
+Mentored Mr. Brian Fitzpatrick (undergraduate student)
+
+1. [Grad Guide Peer Mentorship Program](https://www.grad.msstate.edu/students/graduate-student-development/peer-mentorship-program)<br>
+Mississippi State University in Fall 2025<br>
+Mentored Ms. Afra Anan Bhuiyan (graduate student)
+
+1. [DSSAT](https://dssat.net/) Crop Modeling Training<br>
+Mississippi State University on July 8-11, 2025
+
 1. [Preparing Future Faculty Program](https://www.ctl.msstate.edu/communities-practice/preparing-future-faculty)<br>
 Mississippi State University in 2023/24
 
 1. [Graduate Teaching Assistant Workshops](https://www.grad.msstate.edu/funding-tuition/assistantships/grad-assistantship-teaching-workshop)<br>
 Mississippi State University in Spring 2024
 
-1. Volunteer as a Teaching Assistant<br>
+1. Volunteered as a Teaching Assistant<br>
 Principles of Agricultural and Off-Road Machines (ABE 2173) course in Fall 2024
 
 1. Savvy Science Writing: How to Identify and Avoid Less Obvious Plagiarism<br>
@@ -30,7 +49,8 @@ Mississippi State University in 2023
 Mississippi State University in Fall 2023
 
 1. [Bulldog Mentor Program](https://www.career.msstate.edu/bulldog-mentor-program/)<br>
-Mississippi State University in Fall 2023
+Mississippi State University in Fall 2023<br>
+Mentored by Mr. Steve Brandon
 
 1. Drone Image Processing for Produced a Crop Health Map in QGIS<br>
 Faculty of Agriculture & Plantation Management<br>
@@ -40,9 +60,6 @@ Faculty of Agriculture & Plantation Management<br>
 International Training - Online<br>
 [Chinese Academy of Science](https://english.cas.cn/), and [International Centre for Integrated Mountain Development](https://www.icimod.org/), China 2021
 
-1. [Python](https://www.pirple.com/) is Easy<br>
-Online Course 2020
-
 1. Waste Management During Covid-19 Pandemic Webinar<br>
 [United Nations Environment Program](https://www.unep.org/) 2020
 
@@ -51,9 +68,6 @@ Online Course 2020
 
 1. Agri-Tourism Training<br>
 JICA Ex Participant's Association of Agriculture 2020
-
-1. [International English Language Testing System](https://ielts.org/)<br>
-Test type: Academic in September 2019
 
 1. Developing Business in Resource Recovery and Reuse<br>
 Four-day Residential Training<br>
