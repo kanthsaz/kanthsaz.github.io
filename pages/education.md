@@ -42,6 +42,7 @@ title: "Education"
                 <a href="http://www.msstate.edu/" target="_blank">Mississippi State University</a>, USA<br>
                 Research work: Use of mid-infrared spectroscopy for estimating soil chemical, physical, and hydrological properties in Mississippi and Texas<br>
                 Supervisor: <a href="https://scholar.google.com/citations?user=7npWMTwAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Dr. Nuwan Wijewardane</a>
+                <a href="https://google.com" target="_blank">Test</a>
             </p>
         </div>
     </div>
