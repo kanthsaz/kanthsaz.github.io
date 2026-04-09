@@ -11,18 +11,17 @@ title: "Awards & Memberships"
   <style>
     .award-container {
       display: flex;
-      align-items: flex-start;
+      align-items: center;
       gap: 20px;
       margin-bottom: 20px;
     }
     .award-text-left, .award-text-right {
       flex: 1;
       display: flex;
-      align-items: flex-start;
+      align-items: center;
       justify-content: center;
     }
     .award-text-left p, .award-text-right p {
-      align-items: flex-start;
       text-align: center;
       margin: 0;
     }
