@@ -45,10 +45,10 @@ title: "News & Engaging Moments"
   <div id="2026" style="flex: 1 1 100%; text-align: center;">
     <p>
       ArcGIS StoryMap
-      <a href="https://www.esri.com/training/catalog/645d6a07eb82fb767bb0c012/gis-for-climate-action/" target="_blank">
+      <a href="https://www.esri.com/training/catalog/645d6a07eb82fb767bb0c012/gis-for-climate-action/" target="_blank" rel="noopener noreferrer">
         GIS for Climate Action </a><br>2026
     </p>
-    <iframe src="/assets/images//news/Using GIS to address climate change.html"
+      <iframe src="https://storymaps.arcgis.com/stories/1f45d6fe80a34bb08c651867132895df"
         width="100%" height="700"
         style="border: 2px solid #ccc; margin-top: 15px;"
         title="ArcGIS StoryMap - GIS for Climate Action 2026"
@@ -63,7 +63,7 @@ title: "News & Engaging Moments"
   <div id="2025" style="flex: 1 1 100%; text-align: center;">
     <p>
       NDVI Difference Map
-      <a href="https://earthdatascience.org/" target="_blank">
+      <a href="https://earthdatascience.org/" target="_blank" rel="noopener noreferrer">
         ESIIL Short Course </a><br>2025
     </p>
     <iframe src="/assets/images//news/NDVI_Bengaluru.html"
@@ -80,7 +80,7 @@ title: "News & Engaging Moments"
   <!-- ASABE Resource Magazine 2025 -->
   <div id="2025" style="flex: 1 1 100%; text-align: center;">
     <p>
-      <a href="https://www.asabe.org/visualchallenge" target="_blank">
+      <a href="https://www.asabe.org/visualchallenge" target="_blank" rel="noopener noreferrer">
         ASABE Resource Magazine - Visual Challenge</a><br>
         Jan/Feb 2025 Issue<br>
     </p>
@@ -94,7 +94,7 @@ title: "News & Engaging Moments"
   <!-- ASABE Resource Magazine 2024 -->
   <div id="2024" style="flex: 1 1 100%; text-align: center;">
     <p>
-      <a href="https://www.asabe.org/visualchallenge" target="_blank">
+      <a href="https://www.asabe.org/visualchallenge" target="_blank" rel="noopener noreferrer">
         ASABE Resource Magazine - Visual Challenge</a><br>
         Jan/Feb 2024 Issue<br>
     </p>
@@ -108,7 +108,7 @@ title: "News & Engaging Moments"
   <!-- ABE Newsletter 2024 -->
   <div id="2024" style="flex: 1 1 100%; text-align: center;">
     <p>
-      <a href="https://www.abe.msstate.edu/category/news/newsletter/" target="_blank">
+      <a href="https://www.abe.msstate.edu/category/news/newsletter/" target="_blank" rel="noopener noreferrer">
         Newsletter of Department of Agricultural and Biological Engineering</a><br>
         Spring 2024<br>
     </p>
@@ -122,7 +122,7 @@ title: "News & Engaging Moments"
   <!-- SSN Newsletter 2024 -->
   <div id="2024" style="flex: 1 1 100%; text-align: center;">
     <p>
-      <a href="https://soilforsociety.org/resources/#newsletters/" target="_blank">
+      <a href="https://soilforsociety.org/resources/#newsletters/" target="_blank" rel="noopener noreferrer">
         Newsletter of Soil for Society</a><br>
         Spring 2024
     </p>
@@ -136,7 +136,7 @@ title: "News & Engaging Moments"
   <!-- ABE Newsletter 2023 -->
   <div id="2023" style="flex: 1 1 100%; text-align: center;">
     <p>
-      <a href="https://www.abe.msstate.edu/category/news/newsletter/" target="_blank">
+      <a href="https://www.abe.msstate.edu/category/news/newsletter/" target="_blank" rel="noopener noreferrer">
         Newsletter of Department of Agricultural and Biological Engineering</a><br>
         Spring 2023<br>
     </p>
@@ -151,7 +151,7 @@ title: "News & Engaging Moments"
   <div id="2023" style="flex: 1 1 100%; text-align: center;">
     <p style="margin-bottom: 15px;">
       Radio-Controlled Planes<br>
-      <a href="https://catalog.msstate.edu/graduate/colleges-degree-programs/agriculture-life-sciences/plant-soil-sciences/#coursestext" target="_blank">
+      <a href="https://catalog.msstate.edu/graduate/colleges-degree-programs/agriculture-life-sciences/plant-soil-sciences/#coursestext" target="_blank" rel="noopener noreferrer">
         Agricultural Flight Technologies 2023<br>
       </a>
     </p>
@@ -169,7 +169,7 @@ title: "News & Engaging Moments"
   <div id="2022" style="flex: 1 1 100%; text-align: center;">
     <p>
       Picture the World Contest<br>
-      <a href="https://www.hcdc.msstate.edu/" target="_blank">
+      <a href="https://www.hcdc.msstate.edu/" target="_blank" rel="noopener noreferrer">
         Holmes Cultural Diversity Center<br>
       </a>
       Mississippi State University in 2022
@@ -185,7 +185,7 @@ title: "News & Engaging Moments"
   <div id="2021" style="flex: 1 1 100%; text-align: center;">
     <p style="margin-bottom: 15px;">
       Maps Generated using
-      <a href="https://www.qgis.org/" target="_blank">
+      <a href="https://www.qgis.org/" target="_blank" rel="noopener noreferrer">
         Geographic Information System
       </a>
     </p>
@@ -202,7 +202,7 @@ title: "News & Engaging Moments"
   <!-- Soil Science Society of America Cover Page 2020 -->
   <div id="2020" style="flex: 1 1 100%; text-align: center;">
     <p>
-      <a href="https://doi.org/10.1002/saj2.20137" target="_blank">
+      <a href="https://doi.org/10.1002/saj2.20137" target="_blank" rel="noopener noreferrer">
         Soil Science Society of America Journal</a> 2020<br>
         Appeared in Cover Image, Volume 84, Issue 4
     </p>
@@ -216,7 +216,7 @@ title: "News & Engaging Moments"
   <!-- Arduino Programmed Car Kit 2019 -->
   <!-- <div id="2019" style="flex: 1 1 100%; text-align: center;">
     <p>
-      <a href="https://www.arduino.cc/" target="_blank">
+      <a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer">
         Arduino</a> Programmed Car Kit 2019<br>
     </p>
     <video src="/assets/images/news/arduino_car_kit.mp4" controls autoplay muted preload="auto" style="width: 100%; height: auto;">
@@ -231,7 +231,7 @@ title: "News & Engaging Moments"
   <!-- AutoCAD Output 2018 -->
   <div id="2018" style="flex: 1 1 100%; text-align: center;">
     <p style="margin-bottom: 15px;">
-      <a href="https://www.autodesk.com/" target="_blank">
+      <a href="https://www.autodesk.com/" target="_blank" rel="noopener noreferrer">
         AutoCAD</a> 3D CAD Drawing & Modeling<br>
       TecView, Institute of Computer Aided Engineering 2018
     </p>
@@ -264,9 +264,9 @@ title: "News & Engaging Moments"
 
 <!-- Add below
 1. Pyhton
+1. R/Statistics
 1. Arduino
 1. LabView
-1. R/Statistics -->
 
 <!-- [↑ back to top](#top) -->
 
