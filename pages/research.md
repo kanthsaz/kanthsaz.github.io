@@ -96,7 +96,7 @@ For the most up-to-date list, please visit my [Google Scholar](https://scholar.g
 
 [↑ back to top](#top)
 
-## Non-Technical
+#### Non Technical
 
 1. Gamagedara K.Y.B., 2017, Assessing Methane Emission from a Dumpsite for the Betterment of Adjacent Dwellers and the Environment, Hanthana Blossoms: Best Research Briefs, Volume 1, Issue 1, at Faculty of Agriculture Undergraduate Research Symposium, University of Peradeniya.
 
