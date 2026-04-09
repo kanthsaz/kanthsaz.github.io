@@ -68,7 +68,7 @@ Below are some of the projects I have been involved in with academic institution
   <li>
     Promoted 3Rs (Reduce, Reuse, Recycle) initiatives at Ratnapura Municipal Council 
     <a href="https://digital.detritusjournal.com/articles/evaluation-of-organic-and-recyclable-waste-separation-at-generation-source-in-ratnapura-and-kataraga/359" 
-       target="_blank" rel="noopener noreferrer">(Paper)</a>
+       target="_blank" rel="noopener noreferrer">(Article)</a>
   </li>
   <li>
     Conducted a feasibility study on collection and treatment systems for used fluorocarbons
@@ -80,7 +80,7 @@ Below are some of the projects I have been involved in with academic institution
 <ul style="margin-top: 0;">
   <li>
     Conducted analysis of mechanization strategies for agricultural water management in farming systems 
-    <a href="https://hdl.handle.net/10568/100656" target="_blank" rel="noopener noreferrer">(Paper)</a>
+    <a href="https://hdl.handle.net/10568/100656" target="_blank" rel="noopener noreferrer">(Article)</a>
   </li>
 </ul>
 
