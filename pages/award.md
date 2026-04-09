@@ -40,7 +40,7 @@ title: "Awards & Memberships"
       <p>
         <strong>First Place in Poster Presentation</strong> 2025<br>
         <a href="https://www.mafes.msstate.edu/workshops/conference/">Mississippi Water & Energy Conference</a><br>
-        Mississippi Agricultural and Forestry Experiment Station</a><br>
+        Mississippi Agricultural and Forestry Experiment Station<br>
         USA
       </p>
     </div>
