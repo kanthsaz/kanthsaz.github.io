@@ -19,8 +19,8 @@ title: "Education"
             <p style="margin: 0;">
                 <a href="https://ag.purdue.edu/department/agry/" target="_blank">Department of Agronomy</a><br>
                 <a href="https://www.purdue.edu/" target="_blank">Purdue University</a>, USA<br>
-                Research work: Use of mid-infrared spectroscopy for estimating soil chemical, physical, and hydrological properties in Mississippi and Texas<br>
-                Supervisor: <a href="https://scholar.google.com/citations?user=hOxrqjQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Dr. Siddhartho Shekhar Paul</a>
+                Research work: Integrating environmental modeling, machine learning, and geospatial data analysis to quantify soil carbon dynamics, improve crop yield prediction, and advance precision agriculture<br>
+                Supervisor: <a href="https://scholar.google.com/citations?user=hOxrqjQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Dr. Siddhartho Paul</a>
             </p>
         </div>
     </div>
@@ -42,7 +42,6 @@ title: "Education"
                 <a href="http://www.msstate.edu/" target="_blank">Mississippi State University</a>, USA<br>
                 Research work: Use of mid-infrared spectroscopy for estimating soil chemical, physical, and hydrological properties in Mississippi and Texas<br>
                 Supervisor: <a href="https://scholar.google.com/citations?user=7npWMTwAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Dr. Nuwan Wijewardane</a>
-                <a href="https://google.com" target="_blank">Test</a>
             </p>
         </div>
     </div>
