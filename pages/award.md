@@ -20,7 +20,7 @@ title: "Awards & Memberships"
 
     .award-image-box-left,
     .award-image-box-right {
-      flex: 0 0 350px;
+      flex: 0 0 400px;
       display: flex;
     }
 
