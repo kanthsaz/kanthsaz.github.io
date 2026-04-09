@@ -7,30 +7,45 @@ title: "Professional Work & Projects"
 
 Below are the projects I have been involved in with private and government institutes at both local and international levels.
 
+## Postdoctoral Research Assistant<br><a href="https://ag.purdue.edu/department/agry/" target="_blank">Department of Agronomy/a><br>Purdue University, USA
+
+* 2026 - Present<br>
+Exposed functions: Geospatial modeling; soil spectroscopy; carbon sequestration; crop yield modeling; machine learning, on-the-go soil sensing, Python, R
+
+[↑ back to top](#top)
+
 ## Graduate Research Assistant<br><a href="https://www.abe.msstate.edu/" target="_blank">Department of Ag. & Bio. Engineering</a><br>Mississippi State University, USA
 
 * 2022 - 2025<br>
-Exposed functions: Soil sampling, laboratory analysis, soil spectroscopy, Python programming
+Exposed functions:
+  •	Field sampling, spectroscopic scanning, and data analysis using Python
+  •	Collaborated with USDA-NRCS field officers & USDA-ARS scientists
+  •	Contributed to scientific writing & research publications
+  •	Networked with professionals and mentored students<br>
 
 [↑ back to top](#top)
 
 ## Consultant Field Manager<br><a href="https://janathakshan.lk/" target="_blank">Janathakshan Limited</a><br>Colombo, Sri Lanka
 
 * 2021 September – 2021 December<br>
-Exposed functions: Implementing Livelihoods Restoration Plan under the Kandy Multimodal Transport Terminal Project - Strategic Cities Development Project, Sri Lanka<br>
+Exposed functions: Implemented the Livelihoods Restoration Plan for the Kandy Multimodal Transport Terminal Project<br>
 Client: Ministry of Megapolis and Western Development and World Bank
 
 [↑ back to top](#top)
 
 ## Assistant Consultant<br><a href="https://www.linkedin.com/company/31324840/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BJELLxr2iTyujVAIfxjF3PA%3D%3D" target="_blank">Waste to Energy Technologies Limited</a><br>Battaramulla, Sri Lanka
 
-* 2021 July – 2021 September<br>
-Exposed functions: Preliminary Environmental Appraisal for proposed design and construction of 700 housing units at Apple-Watta, Colombo, Sri Lanka<br>
-Client: China Railway 25th Bureau Group Co., Ltd. and PEA was submitted to Urban Development Authority, Sri Lanka
+* 2019 - 2021<br>
+Exposed functions:
+  •	Prepared environmental appraisals for multiple housing schemes and hotels
+  •	Developed rehabilitation plans for major landfills, waste management plan for spent yeast, and manure management plan
+  •	Analyzed polychlorinated biphenyls for the Stockholm Convention
+  •	Modeled vegetation effects on slope stability for landslide risk management
+  •	Tested permeable reactive barrier materials for groundwater remediation
 
-* 2021 March – 2021 June<br>
-Exposed functions: Preliminary Environmental Appraisal for the proposed design, construction, and financing of affordable houses for the middle income category at Makumbura, Kottawa, Sri Lanka<br>
-Client: Tudawe Brothers (Pvt) Ltd.
+Clients:
+  •	China Railway 25th Bureau Group Co., Ltd. and PEA was submitted to Urban Development Authority, Sri Lanka
+  •	Tudawe Brothers (Pvt) Ltd.
 
 * 2021 October – 2021 February<br>
 Exposed functions: Preliminary Environmental Appraisal for proposed design and construction of 1000 housing units at Stadiumgama, Colombo, Sri Lanka<br>
