@@ -66,7 +66,7 @@ title: "Awards & Memberships"
 
   <div class="award-container">
     <div style="flex: 0 0 400px;">
-      <img src="/assets/images/awards/3rd_place_mas_2025.png" alt="Third Place in Poster Presentation" class="award-image">
+      <img src="/assets/images/awards/3rd_place_mas_2025.jpg" alt="Third Place in Poster Presentation" class="award-image">
     </div>
     <div class="award-text-right">
       <p>
