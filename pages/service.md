@@ -22,9 +22,9 @@ title: "Services & Extra Curricular Activities"
 
 1. [Earth Team Volunteer](https://www.nrcs.usda.gov/conservation-basics/conservation-by-state/tennessee/earth-team-volunteer-program) at the United States Department of Agriculture, Natural Resources Conservation Service, Tupelo, Mississippi, USA, since June 2022
 
-1. Mentor<br>
-    - High School Student from [Mississippi School for Mathematics and Science](https://themsms.org/) in Fall 2023<br>
-    - Undergraduate Students from [Mississippi State University](http://www.msstate.edu/) 2022-2025
+1. Mentored High School Student from [Mississippi School for Mathematics and Science](https://themsms.org/) in Fall 2023
+
+1. Mentored Graduate and Undergraduate Students from [Mississippi State University](http://www.msstate.edu/) 2022-2025
 
 1. Webmaster of the [Advanced Plant & Soil Sensing Lab](https://apsslab.abe.msstate.edu/) Non-Official Website, Mississippi State University, since 2022
 
@@ -44,34 +44,20 @@ title: "Services & Extra Curricular Activities"
 1. Committee Member of Science Society at [Kingswood College](https://kingswood.lk/), Sri Lanka in 2008/2009
 
 1. Treasurer of [Kingswood Scout Troop](https://kingswoodoldscouts.org/randles-scouts/), Sri Lanka in 2008/2009
-    - Won the Best Scout Week award, and Scout Troop award (2nd place) in National Scout Achievement Award Ceremony in 2009, Organized 24th J.J.P. Dehigama Memorial Orienteering Competition, and Annual Camp in 2008
 
 [↑ back to top](#top)
 
 ### Extra Curricular Activities
 
-1. Activities in [University of Peradeniya](https://www.pdn.ac.lk/), Sri Lanka  from 2013 to 2016
-    - Represented University Baseball team in 2015 & 2016
-        - Participated in Sri Lanka University Games in 2016
-        - Member of Baseball team at Inter University Championships in 2015 (2nd place)
-        - Member of Baseball team at “Wayo” Baseball Championship, organized by University of Wayamba in 2016 (3rd place)
-    - Represented Baseball, Basketball, Track & Field, Badminton, Hockey, and Chess teams in Fresher's Championship, Inter Faculty Championship, and Faculty Championships
-    - Attended Provincial Wushu Training Program at University of Peradeniya, conducted by Wushu Federation of Sri Lanka in 2013
-<br>
+1. Represented [University of Peradeniya](https://www.pdn.ac.lk/) Baseball team in 2015 & 2016
+
 1. Member of [Kingswood Scout Troop](https://kingswoodoldscouts.org/randles-scouts/), Sri Lanka from 2002 to 2011
-    - Annual Scout Camp, Kingswood College in 2007 (Best camper)
-    - Under 15 Long Jump event, All Island Scouts Sports/ Swimming Meet in 2006 (2nd place)
-    - Kingswood Scouts team member in “ADHERENCE TO NATURE” Exploration Competition, organized by St. Joseph’s Balika Maha Vidyalaya, Kegalle in 2006 (2nd place)
-    - Kingswood Scouts team member in Orientation Program, organized by University Explorers’ Club, University of Peradeniya in 2005 (3rd place)
-    - 22nd J.J.P. Dehigama Memorial Orienteering Competition, organized by Kingswood College in 2006 (2nd place)
-    - Participated to Rover Peace Baton, conducted by World Scout Bureau/ Asia-Pacific Region in 2006
-    - Participated to 7th & 8th National Scout Jamborees, conducted by Sri Lanka Scout Association in 2006 & 2010
-    - Participated to 23rd J.J.P. Dehigama Memorial International Orienteering Competition, conducted by Kingswood College in association with Sri Lanka Scout Association in 2007
-<br>
-1. Activities in [Kingswood College](https://kingswood.lk/), Sri Lanka from 1997 to 2011
-    - Member of Under 19 Kingswood College Baseball team in 2008
-    - Member of Under 13 Kingswood College Gymnastic team in 2001/2002
-    - Member of Under 13 Kingswood College Chess team
+
+1. Member of Under 19 Baseball team of [Kingswood College](https://kingswood.lk/), Sri Lanka in 2008
+
+1. Member of Under 13 Gymnastic team of [Kingswood College](https://kingswood.lk/), Sri Lanka in 2001/2002
+
+1. Member of Under 13 Chess team of [Kingswood College](https://kingswood.lk/), Sri Lanka
 
 [↑ back to top](#top)
 
