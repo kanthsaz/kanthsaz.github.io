@@ -15,6 +15,7 @@ For the most up-to-date list, please visit my [Google Scholar](https://scholar.g
 1. <strong>Yasas Gamagedara</strong>, Gary Feng, Travis Waiser, Mary Love Tagert, Vitor S. Martins, and Nuwan K. Wijewardane, (2025), Application of Calibration Transfer Techniques between Different Mid-Infrared Spectrometers/Modules to Improve Accuracy in Estimating Soil Properties, Soil Science Society of America Journal, 89, e70147. DOI: <a href="https://doi.org/10.1002/saj2.70147" target="_blank">10.1002/saj2.70147</a>
 
 1. <strong>Yasas Gamagedara</strong>, Nuwan K. Wijewardane, Gary Feng, Cathy Seybold, Michael Williams, Mary Love Tagert, and Vitor S. Martins, (2024), Can We Use a Mid-Infrared Fine-Ground Soil Spectral Library to Predict Non-Fine-Ground Spectra?, Geoderma, 443, 116799, ISSN 0016-7061. DOI: <a href="https://doi.org/10.1016/j.geoderma.2024.116799" target="_blank">10.1016/j.geoderma.2024.116799</a>
+
 [↑ back to top](#top)
 
 #### Working Reports/ Case Studies
