@@ -12,7 +12,7 @@ Below are some of the projects I have been involved in with academic institution
 <ul style="margin-top: 0;">
   <li>Geospatial modeling and soil spectroscopy</li>
   <li>Carbon sequestration assessment and crop yield modeling</li>
-  <li>Machine learning–based data analysis</li>
+  <li>Machine learning-based data analysis</li>
   <li>On-the-go soil sensing</li>
   <li>Programming in Python and R</li>
 </ul>
