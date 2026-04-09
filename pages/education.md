@@ -9,7 +9,7 @@ title: "Education"
 
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 0 0 120px; margin-right: 20px;">
-        <a href="https://ag.purdue.edu/department/agry/" target="_blank">
+        <a href="https://www.purdue.edu/" target="_blank">
             <img src="/assets/images/education/purdue_university.png" alt="Purdue University" style="width: 120px; border-radius: 8px;">
         </a>
     </div>
@@ -30,7 +30,7 @@ title: "Education"
 
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 0 0 120px; margin-right: 20px;">
-        <a href="https://www.abe.msstate.edu/" target="_blank">
+        <a href="http://www.msstate.edu/" target="_blank">
             <img src="/assets/images/education/mississippi_state_university.png" alt="Mississippi State University" style="width: 120px; border-radius: 8px;">
         </a>
     </div>
