@@ -44,7 +44,7 @@ title: "News & Engaging Moments"
  <!-- GIS for Climate Action - Six-week Online Course by Esri -->
   <div id="2026" style="flex: 1 1 100%; text-align: center;">
     <p>
-      ArcGIS StoryMap
+      ArcGIS StoryMap -
       <a href="https://www.esri.com/training/catalog/645d6a07eb82fb767bb0c012/gis-for-climate-action/" target="_blank" rel="noopener noreferrer">
         GIS for Climate Action </a><br>2026
     </p>
@@ -62,7 +62,7 @@ title: "News & Engaging Moments"
  <!-- ESIIL Short Course 2025 -->
   <div id="2025" style="flex: 1 1 100%; text-align: center;">
     <p>
-      NDVI Difference Map
+      NDVI Difference Map -
       <a href="https://earthdatascience.org/" target="_blank" rel="noopener noreferrer">
         ESIIL Short Course </a><br>2025
     </p>
