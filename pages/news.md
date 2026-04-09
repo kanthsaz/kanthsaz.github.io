@@ -44,14 +44,14 @@ title: "News & Engaging Moments"
  <!-- GIS for Climate Action - Six-week Online Course by Esri -->
   <div id="2026" style="flex: 1 1 100%; text-align: center;">
     <p>
-      ArcGIS StoryMaps
+      ArcGIS StoryMap
       <a href="https://www.esri.com/training/catalog/645d6a07eb82fb767bb0c012/gis-for-climate-action/" target="_blank">
         GIS for Climate Action </a><br>2026
     </p>
-    <iframe src="/assets/images//news/NDVI_Bengaluru.html"
+    <iframe src="/assets/images//news/Using GIS to address climate change.html"
         width="100%" height="700"
         style="border: 2px solid #ccc; margin-top: 15px;"
-        title="NDVI Map - ESIIL Short Course 2025"
+        title="ArcGIS StoryMap - GIS for Climate Action 2026"
         loading="lazy"></iframe>
     <hr style="border: none; border-top: 3px solid #000000; margin: 20px 0;">
     <div style="margin-top: 10px; text-align: left;">
