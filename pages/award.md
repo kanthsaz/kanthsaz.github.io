@@ -13,7 +13,7 @@ title: "Awards & Memberships"
       display: flex;
       align-items: center;
       gap: 20px;
-      margin-bottom: 10px;
+      margin-bottom: 0px;
     }
     .award-text-left, .award-text-right {
       flex: 1;
