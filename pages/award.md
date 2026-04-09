@@ -13,7 +13,7 @@ title: "Awards & Memberships"
       display: flex;
       align-items: center;
       gap: 5px;
-      margin-bottom: 0px;
+      margin-bottom: 5px;
     }
     .award-text-left, .award-text-right {
       flex: 1;
@@ -30,7 +30,7 @@ title: "Awards & Memberships"
       max-width: 350px;
       height: 300px;          /* FIXED HEIGHT */
       object-fit: contain;    /* keeps proportions (no stretching) */
-      border-radius: 10px;
+      border-radius: 50px;
       background: white;      /* optional – cleaner look */
       padding: 5px;           /* optional spacing */
     }
