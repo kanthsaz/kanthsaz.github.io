@@ -22,7 +22,8 @@ title: "Awards & Memberships"
       justify-content: center;
     }
     .award-text-left p, .award-text-right p {
-      align-items: center;
+      align-items: flex-start;
+      text-align: center;
       margin: 0;
     }
     .award-image {
