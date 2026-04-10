@@ -10,7 +10,7 @@ title: "Education"
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 0 0 120px; margin-right: 20px;">
         <a href="https://www.purdue.edu/" target="_blank">
-            <img src="/assets/images/education/purdue_university.jpg" alt="Purdue University" style="width: 120px; border-radius: 8px;">
+            <img src="/assets/images/education/purdue_university.png" alt="Purdue University" style="width: 120px; border-radius: 8px;">
         </a>
     </div>
     <div style="flex: 1; text-align: left; display: flex; align-items: center;">
