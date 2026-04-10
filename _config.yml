@@ -16,12 +16,12 @@ masthead_title : # overrides the website title displayed in the masthead, use " 
 incremental: true
 timezone: America/New_York
 
+
 locale: en_us
 lang: en_us
 words_per_minute : 200
 paginate: 10
 paginate_path: "/page:num/"
-
 
 # Conversion
 markdown: kramdown
