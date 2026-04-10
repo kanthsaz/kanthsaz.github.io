@@ -14,6 +14,7 @@ teaser : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 masthead_title : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs : false # true, false (default)
 incremental: true
+timezone: America/New_York
 
 locale: en_us
 lang: en_us
