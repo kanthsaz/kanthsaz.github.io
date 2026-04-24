@@ -90,7 +90,7 @@ For the most up-to-date list, please visit my [Google Scholar](https://scholar.g
 
 1. Gamage H.G.V.D., Karunarathna A.K., and <strong>Gamagedara K.Y.B.</strong>, (2020), Test of Root Tensile Strength of Candidate Plant Species for Soil Bioengineering in Shallow Landslides, Proceedings of the 6th Faculty of Agriculture Undergraduate Research Symposium, Faculty of Agriculture, University of Peradeniya, Peradeniya, Sri Lanka, pp 205, July 16, 2020.
 
-1. <strong>Gamagedara K.Y.B.</strong>, Alahakoon A.M.Y.W. Karunarathna A.K., Kirindage K.G.I.S., and Attanayake C. P., (2019), Thermo-Pyrolysis Conversion of Sewage Sludge into Biochar and its Characterization, Proceedings of Peradeniya University International Research Sessions, Volume 22, pp 50.
+1. <strong>Gamagedara K.Y.B.</strong>, Alahakoon A.M.Y.W. Karunarathna A.K., Kirindage K.G.I.S., and Attanayake C. P., (2019), Thermo-Pyrolysis Conversion of Sewage Sludge into Biochar and its Characterization, Proceedings of Peradeniya University International Research Sessions, Volume 22, pp 50, September 11-12, 2019.
 
 [↑ back to top](#top)
 
