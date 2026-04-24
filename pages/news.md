@@ -42,6 +42,7 @@ title: "News & Engaging Moments"
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
  <!-- GIS for Climate Action - Six-week Online Course by Esri -->
+ <!-- The following part is commented out
   <div id="2026" style="flex: 1 1 100%; text-align: center;">
     <p>
       ArcGIS StoryMap -
@@ -58,6 +59,26 @@ title: "News & Engaging Moments"
       <a href="#top" style="text-decoration: none; color: black;">[↑ back to top]</a>
     </div>
   </div>
+  -->
+
+  <!-- GIS for Climate Action - Six-week Online Course by Esri -->
+<div id="2026" style="flex: 1 1 100%; text-align: center;">
+  <p>
+    ArcGIS StoryMap -
+    <a href="https://www.esri.com/training/catalog/645d6a07eb82fb767bb0c012/gis-for-climate-action/" target="_blank" rel="noopener noreferrer">
+      GIS for Climate Action</a><br>2026
+  </p>
+  <iframe src="/assets/images/news/storymap_GIS_climate.pdf"
+    width="100%" height="700"
+    style="border: 2px solid #ccc; margin-top: 15px;"
+    title="GIS for Climate Action PDF"
+    loading="lazy">
+  </iframe>
+  <hr style="border: none; border-top: 3px solid #000000; margin: 20px 0;">
+  <div style="margin-top: 10px; text-align: left;">
+    <a href="#top" style="text-decoration: none; color: black;">[↑ back to top]</a>
+  </div>
+</div>
 
  <!-- ESIIL Short Course 2025 -->
   <div id="2025" style="flex: 1 1 100%; text-align: center;">
